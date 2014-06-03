@@ -1,0 +1,311 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 422
+Number of records retrieved in searches: 4023
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Indonesia ; Times: 31
+	Country: Mexico ; Times: 30
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 192
+	Country: Unknown ; Times: 151
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 8
+	Date: 2014-05-02 ; Times: 15
+	Date: 2014-05-03 ; Times: 2
+	Date: 2014-05-05 ; Times: 16
+	Date: 2014-05-06 ; Times: 14
+	Date: 2014-05-07 ; Times: 22
+	Date: 2014-05-08 ; Times: 24
+	Date: 2014-05-09 ; Times: 32
+	Date: 2014-05-10 ; Times: 15
+	Date: 2014-05-11 ; Times: 39
+	Date: 2014-05-12 ; Times: 8
+	Date: 2014-05-13 ; Times: 11
+	Date: 2014-05-14 ; Times: 14
+	Date: 2014-05-15 ; Times: 36
+	Date: 2014-05-16 ; Times: 95
+	Date: 2014-05-17 ; Times: 3
+	Date: 2014-05-18 ; Times: 5
+	Date: 2014-05-19 ; Times: 5
+	Date: 2014-05-20 ; Times: 3
+	Date: 2014-05-21 ; Times: 10
+	Date: 2014-05-22 ; Times: 3
+	Date: 2014-05-23 ; Times: 11
+	Date: 2014-05-25 ; Times: 3
+	Date: 2014-05-26 ; Times: 5
+	Date: 2014-05-27 ; Times: 3
+	Date: 2014-05-28 ; Times: 2
+	Date: 2014-05-29 ; Times: 7
+	Date: 2014-05-30 ; Times: 9
+	Date: 2014-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 17
+	Query: "mammalogy" ; Times: 1
+	Query: "country:"Guatemala" genus:Odocoileus" ; Times: 4
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "media:1" ; Times: 3
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "Sylvilagus floridanus type:specimen country:"United States" year >= 1980 tissue:1" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus class:mammalia" ; Times: 1
+	Query: "Didelphis" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014" ; Times: 1
+	Query: ""bison bison"" ; Times: 4
+	Query: "panthera onca mexico" ; Times: 1
+	Query: "Sylvilagus floridanus type:specimen country:"United States" year >= 1980 year <= 2014 tissue:1" ; Times: 1
+	Query: "mus musculus tissue:1" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "Chaetophractus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "mustela" ; Times: 1
+	Query: "(Myotis)" ; Times: 1
+	Query: "Odocoileus" ; Times: 24
+	Query: "puma concolor" ; Times: 15
+	Query: "boulder" ; Times: 1
+	Query: "Pteropus institutioncode:DMNS" ; Times: 1
+	Query: "cebus" ; Times: 6
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014 tissue:1" ; Times: 2
+	Query: "Wolf" ; Times: 1
+	Query: "LAMA GLAMA" ; Times: 4
+	Query: "giraffa" ; Times: 1
+	Query: "pipistrellus 2012" ; Times: 1
+	Query: "Dasyprocta punctata isthmica" ; Times: 1
+	Query: "genus:panthera year >= 1970 year <= 2014" ; Times: 1
+	Query: ""Peromyscus maniculatus" year >= 1950 year <= 1980 mappable:1" ; Times: 1
+	Query: "pipistrellus 2014" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "Ozotoceros bezoarticus" ; Times: 2
+	Query: "panthera onca" ; Times: 6
+	Query: "white-tailed deer" ; Times: 1
+	Query: "Dasyprocta Panama" ; Times: 1
+	Query: "Nasua narica Panama" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 2
+	Query: "Bradypus variegatus Panama" ; Times: 2
+	Query: "bison" ; Times: 1
+	Query: "mazama" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "(Corynorhinus townsendii)" ; Times: 1
+	Query: "species:panthera onca" ; Times: 2
+	Query: "Tamandua" ; Times: 1
+	Query: "Mustela" ; Times: 2
+	Query: "people" ; Times: 1
+	Query: "Hyaena brunnea" ; Times: 1
+	Query: "zapus trinotatus" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 2
+	Query: "Cynomys gunnisoni Cynomys gunnisoni type:specimen year <= 1930" ; Times: 2
+	Query: "Pteropus genus:Pteropus class:Mammalia" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "Cynomys gunnisoni Cynomys gunnisoni year <= 1930" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "pipistrellus" ; Times: 3
+	Query: "Pteropus" ; Times: 17
+	Query: "priodontes maximus" ; Times: 1
+	Query: "Cynomys gunnisoni year <= 1930" ; Times: 1
+	Query: "Spermophilus elegans" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Urocitellus elegans" ; Times: 1
+	Query: "Primates" ; Times: 1
+	Query: "Sylvilagus floridanus year >= 1980 year <= 2014 tissue:1" ; Times: 2
+	Query: "Sylvilagus floridanus year >= 1980" ; Times: 1
+	Query: "type:specimen genus:Tamias (EAR) year >= 2010 year <= 2013" ; Times: 1
+	Query: "genus:Sigmodon" ; Times: 1
+	Query: "Sciuridae Mexico" ; Times: 1
+	Query: "Cynomys gunnisoni" ; Times: 1
+	Query: "Mus musculus" ; Times: 5
+	Query: "sylvilagus floridanus tissue" ; Times: 1
+	Query: "country:"brazil" genus:panthera" ; Times: 7
+	Query: "Mazama" ; Times: 3
+	Query: "Eulemur" ; Times: 1
+	Query: "reithrodontomys" ; Times: 1
+	Query: "shrew" ; Times: 1
+	Query: "year >= 1950 year <= 1952 tissue:1" ; Times: 1
+	Query: ""reithrodontomys megalotis"" ; Times: 3
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "stomach class:Mammalia" ; Times: 1
+	Query: "country:"mexico" genus:panthera" ; Times: 1
+	Query: "mountain lion" ; Times: 2
+	Query: "zalophus" ; Times: 3
+	Query: "type:specimen genus:Tamias (EAR)" ; Times: 1
+	Query: "Sylvilagus floridanus type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "dmns myotis sodalis" ; Times: 1
+	Query: "mule deer mappable:1" ; Times: 1
+	Query: "Pteropus country:"Australia"" ; Times: 3
+	Query: "sylvilagus floridanus year >= 1980 mappable:1 tissue:1" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "cephalophus zebra" ; Times: 2
+	Query: "Sylvilagus floridanus year >= 1980 tissue:1" ; Times: 3
+	Query: "canis" ; Times: 1
+	Query: "genus:ateles year >= 1970 year <= 2014" ; Times: 2
+	Query: "Sorex ugyunak" ; Times: 1
+	Query: "genus:hydrurga" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "sylvilagus floridanus year >= 1980 year <= 2014 tissue:1" ; Times: 2
+	Query: "horse" ; Times: 1
+	Query: "type:specimen county:"Butte" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "Sciurus niger" ; Times: 2
+	Query: "puma concolor type:specimen" ; Times: 1
+	Query: "Artiodactyla" ; Times: 1
+	Query: "Ozotoceros bezoarticus bezoarticus" ; Times: 1
+	Query: "ateles" ; Times: 2
+	Query: "alouatta" ; Times: 1
+	Query: "genus:Ateles year >= 1970 year <= 2014" ; Times: 2
+	Query: "tamiasciurus hudsonicus type:specimen tissue:1" ; Times: 2
+	Query: "stateprovince:"Mexico"" ; Times: 1
+	Query: ""sylvilagus nuttallii"" ; Times: 2
+	Query: "bison bison" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "sorex" ; Times: 2
+	Query: "Thomomys idahoensis" ; Times: 1
+	Query: "pteropus" ; Times: 9
+	Query: "PRIODONTES MAXIMUS" ; Times: 4
+	Query: ""Peromyscus maniculatus" mappable:1" ; Times: 2
+	Query: "ochotona princeps" ; Times: 5
+	Query: "sylvilagus floridanus country:"united states" year >= 1980 mappable:1 tissue:1" ; Times: 1
+	Query: "Lama glama" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "sylvilagus floridanus country:"united states" year >= 1980 year <= 2014 mappable:1 tissue:1" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 4
+	Query: "Sylvilagus floridanus type:specimen year >= 1980 year <= 2014 mappable:1 tissue:1" ; Times: 4
+	Query: "Carnivora" ; Times: 1
+	Query: "Panthera" ; Times: 8
+	Query: "lower jaws type:specimen mappable:1" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "2757" ; Times: 1
+	Query: "sylvilagus floridanus country:"united states" year >= 1980 year <= 2014 tissue:1" ; Times: 1
+	Query: "tadarida" ; Times: 1
+	Query: ""sylvilagus floridanus"" ; Times: 1
+	Query: "FG" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 2
+	Query: "genus:Myotis" ; Times: 1
+	Query: "sylvilagus floridanus mappable:1 tissue:1" ; Times: 2
+	Query: "Spermophilus major" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 1
+	Query: "deer" ; Times: 1
+	Query: "Sylvilagus floridanus type:specimen year >= 1980 year <= 2014 tissue:1" ; Times: 5
+	Query: "genus:sylvilagus" ; Times: 1
+	Query: "Oryctolagus" ; Times: 1
+	Query: "genus:sylvilagus year >= 1970 year <= 2014" ; Times: 1
+	Query: "dipodomys" ; Times: 1
+	Query: "S. floridanus" ; Times: 1
+	Query: "country:"mexico" genus:Panthera" ; Times: 1
+	Query: "CHAETODIPUS" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "country:"United States" specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014 tissue:1" ; Times: 1
+	Query: "zoo" ; Times: 1
+	Query: "Choloepus hoffmanni Panama" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 21
+	Query: "2748" ; Times: 1
+	Query: "tapirus" ; Times: 2
+	Query: "Thomomys clusius" ; Times: 1
+	Query: "(Bison)" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "sylvilagus" ; Times: 4
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "ursus" ; Times: 2
+	Query: "Ochotona" ; Times: 1
+	Query: "cervus" ; Times: 1
+	Query: "xerus rutilus" ; Times: 3
+	Query: "type:specimen genus:Tamias AND (MSB) year >= 2010 year <= 2013" ; Times: 1
+	Query: "tayassu tajacu" ; Times: 22
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "country:"United Kingdom"" ; Times: 1
+	Query: "genus:Odocoileus" ; Times: 1
+	Query: "sylvilagus floridanus year >= 1980 year <= 2014 mappable:1 tissue:1" ; Times: 2
+	Query: "Chaetodipus" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus tissue:1" ; Times: 1
+	Query: "Tamias type:specimen AND (NOT striatus NOT sibiricus) year >= 1800 year <= 2005" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 8
+	Query: "vertebra" ; Times: 1
+	Query: "Sylvilagus floridanus country:"United States" year >= 1980 tissue:1" ; Times: 1
+	Query: "county:"White Pine" stateprovince:"Nevada"" ; Times: 2
+	Query: "Zalophus californianus californianus" ; Times: 1
+	Query: "Canis" ; Times: 1
+	Query: "specificepithet:tigris genus:panthera" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1679 download events in this period)
+Total number of records downloaded: 1699 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1678
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-05 ; Times: 8
+	Date: 2014-05-06 ; Times: 1
+	Date: 2014-05-16 ; Times: 2
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-21 ; Times: 1
+	Date: 2014-05-22 ; Times: 1
+	Date: 2014-05-23 ; Times: 3
+	Date: 2014-05-26 ; Times: 2
+	Date: 2014-05-27 ; Times: 1
+	Date: 2014-05-29 ; Times: 2
+	Date: 2014-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "zalophus" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014" ; Times: 1
+	Query: "Cynomys gunnisoni Cynomys gunnisoni type:specimen year <= 1930" ; Times: 1
+	Query: "Tamias type:specimen AND (NOT striatus NOT sibiricus) year >= 1800 year <= 2005" ; Times: 1
+	Query: "tamiasciurus hudsonicus type:specimen (skin) tissue:1" ; Times: 1
+	Query: "type:specimen county:"Plumas" stateprovince:"California" class:Mammalia tissue:1" ; Times: 1
+	Query: "type:specimen county:"Butte" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "puma concolor type:specimen" ; Times: 1
+	Query: "Artiodactyla" ; Times: 1
+	Query: "tamiasciurus hudsonicus type:specimen tissue:1" ; Times: 1
+	Query: "Primates" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "ursus" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Pteropus institutioncode:DMNS" ; Times: 1
+	Query: "Monotremata" ; Times: 5
+	Query: "type:specimen county:"Plumas" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "type:specimen county:"Clark" stateprovince:"Nevada" class:mammalia" ; Times: 1
+	Query: "tadarida" ; Times: 1
+	Query: "Proboscidea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 623
+Total number of records retrieved from searches: 5999
+Number of download events that retrieved data from the resource: 200
+Total number of records downloaded: 50830
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 623
+Total number of records retrieved from searches: 5999
+Number of download events that retrieved data from the resource: 296
+Total number of records downloaded: 102479
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
