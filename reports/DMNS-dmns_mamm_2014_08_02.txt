@@ -1,0 +1,316 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 210
+Number of records retrieved in searches: 2828
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Belgium ; Times: 3
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 3
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Costa Rica ; Times: 4
+	Country: Germany ; Times: 5
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Lithuania ; Times: 2
+	Country: Mexico ; Times: 18
+	Country: South Africa ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 128
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 6
+	Date: 2014-07-02 ; Times: 10
+	Date: 2014-07-03 ; Times: 14
+	Date: 2014-07-04 ; Times: 6
+	Date: 2014-07-05 ; Times: 1
+	Date: 2014-07-06 ; Times: 6
+	Date: 2014-07-07 ; Times: 5
+	Date: 2014-07-08 ; Times: 7
+	Date: 2014-07-09 ; Times: 6
+	Date: 2014-07-10 ; Times: 7
+	Date: 2014-07-11 ; Times: 5
+	Date: 2014-07-12 ; Times: 4
+	Date: 2014-07-13 ; Times: 2
+	Date: 2014-07-14 ; Times: 6
+	Date: 2014-07-15 ; Times: 5
+	Date: 2014-07-16 ; Times: 6
+	Date: 2014-07-17 ; Times: 15
+	Date: 2014-07-18 ; Times: 16
+	Date: 2014-07-19 ; Times: 21
+	Date: 2014-07-20 ; Times: 5
+	Date: 2014-07-21 ; Times: 5
+	Date: 2014-07-22 ; Times: 6
+	Date: 2014-07-23 ; Times: 5
+	Date: 2014-07-24 ; Times: 9
+	Date: 2014-07-25 ; Times: 4
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-27 ; Times: 3
+	Date: 2014-07-28 ; Times: 6
+	Date: 2014-07-29 ; Times: 5
+	Date: 2014-07-30 ; Times: 2
+	Date: 2014-07-31 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "museum of texas tech" ; Times: 1
+	Query: "macropus" ; Times: 1
+	Query: "Mississippi" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: "country:"Brazil" specificepithet:tridactyla genus:myrmecophaga" ; Times: 3
+	Query: "ttu" ; Times: 2
+	Query: "stateprovince:"minnesota" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "pteropus conspicillatus" ; Times: 2
+	Query: "Leptoceros" ; Times: 1
+	Query: "Rocky Mountain National Park stateprovince:"Colorado" genus:Microtus institutioncode:DMNS year >= 2012 year <= 2012" ; Times: 1
+	Query: "stateprovince:"south dakota" specificepithet:nivalis genus:mustela" ; Times: 1
+	Query: "parastrellus hesperus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus" ; Times: 1
+	Query: "bell museum" ; Times: 1
+	Query: "class:Mammalia Aepyceros melampus" ; Times: 2
+	Query: ""Sciurus niger" type:specimen (skeleton) year >= 1950 year <= 2014" ; Times: 1
+	Query: "sciurus niger rufiventer year >= 1902 year <= 1955" ; Times: 2
+	Query: "Tamias siskiyou type:specimen mappable:1" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 3
+	Query: "Eptesicus" ; Times: 1
+	Query: "dipodomys merriami year >= 1980 year <= 2014" ; Times: 1
+	Query: "class:Mammalia Spilogale gracilis" ; Times: 3
+	Query: "Panthera onca" ; Times: 1
+	Query: "ursus" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "cynomys ludovicianus" ; Times: 1
+	Query: "Lontra canadensis lataxina" ; Times: 1
+	Query: "Setonix" ; Times: 2
+	Query: "acomys s" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Sylvilagus aquaticus distance(location,geopoint(32.602361666817515,-97.327880859375))<122665" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "ochotona" ; Times: 1
+	Query: "Tamias dorsalis type:specimen mappable:1" ; Times: 1
+	Query: "Tamias ruficaudus type:specimen mappable:1" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 2
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "microtus longicaudus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "order: Primates" ; Times: 1
+	Query: "guatemala solola mammals" ; Times: 1
+	Query: ""cryptotis parva"" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "leucopus" ; Times: 2
+	Query: "panthera mappable:1" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "cynomys gunnisoni type:specimen year >= 1930 year <= 2014" ; Times: 1
+	Query: ""Tamias siskiyou" type:specimen mappable:1" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 3
+	Query: "rhino" ; Times: 1
+	Query: "Tamias merriami type:specimen mappable:1" ; Times: 2
+	Query: "vespertilionidae" ; Times: 1
+	Query: "acomys" ; Times: 2
+	Query: "stateprovince:"wisconsin" specificepithet:taxus genus:Taxidea" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "zalophus californianus" ; Times: 3
+	Query: "class:Mammalia Spilogale" ; Times: 1
+	Query: "Tamias obscurus type:specimen mappable:1" ; Times: 1
+	Query: "Tamias amoenus type:specimen mappable:1" ; Times: 1
+	Query: "institutioncode:DMNS media:1" ; Times: 1
+	Query: "Dasyuridae institutioncode:DMNS" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "country:"United States" specificepithet:Peromyscus maniculatus year >= 1900 year <= 2010 mappable:1" ; Times: 2
+	Query: "sylvilagus floridanus ethanol" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 2
+	Query: "stateprovince:"South Dakota" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "reithrodontomys montanus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "liver order:Primates" ; Times: 5
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "dipodomys ordii year >= 1980 year <= 2014" ; Times: 1
+	Query: "neotoma" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 6
+	Query: "canis lupus" ; Times: 1
+	Query: "stateprovince:"mato grosso" genus:panthera" ; Times: 2
+	Query: "stateprovince:"wisconsin" specificepithet:canadensis genus:lontra" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "stateprovince:"Oklahoma" class:Mammalia" ; Times: 1
+	Query: "lemmiscus curtatus" ; Times: 1
+	Query: "NEOTOMA CINEREA" ; Times: 2
+	Query: ""Tamias speciosus" type:specimen mappable:1" ; Times: 2
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "Tamias panamintinus type:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:Axis" ; Times: 1
+	Query: ""Tamias umbrinus" type:specimen mappable:1" ; Times: 1
+	Query: "Tamias quadrivittatus type:specimen mappable:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 3
+	Query: "mustela nigripes" ; Times: 3
+	Query: "ochotona princeps distance(location,geopoint(38.89103282648846,-116.575927734375))<100000" ; Times: 1
+	Query: "phyllostomidae" ; Times: 2
+	Query: "cynomys gunnisoni type:specimen genus:cynomys year >= 1930 year <= 2014" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: ""Tamias striatus" type:specimen mappable:1" ; Times: 1
+	Query: "Tamias rufus type:specimen mappable:1" ; Times: 1
+	Query: "genus:lynx year >= 2000 year <= 2013 tissue:1" ; Times: 1
+	Query: "myotis" ; Times: 3
+	Query: "Canis lupus" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "lynx" ; Times: 3
+	Query: "county:"humboldt" stateprovince:"california" year >= 2000 year <= 2014" ; Times: 1
+	Query: "Tamias palmeri type:specimen mappable:1" ; Times: 1
+	Query: ""Tamias rufus" type:specimen mappable:1" ; Times: 1
+	Query: "Aepyceros melampus Aepyceros melampus" ; Times: 2
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "microtus stateprovince:"Colorado" genus:Microtus institutioncode:DMNS year >= 2012 year <= 2012" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:lynx genus:lynx" ; Times: 1
+	Query: "dipodomys" ; Times: 3
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "canis lupus mappable:1" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 2
+	Query: ""Tamias townsendii" type:specimen mappable:1" ; Times: 1
+	Query: "southwestern" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Texas"" ; Times: 1
+	Query: "Mustela frenata" ; Times: 2
+	Query: "myodes gapperi" ; Times: 2
+	Query: "Peromyscus leucopus AND (NOT reptilia)" ; Times: 1
+	Query: "tapirus" ; Times: 3
+	Query: "Tapirus" ; Times: 1
+	Query: "NEON" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "ochotona princeps" ; Times: 2
+	Query: "stateprovince:"wisconsin" specificepithet:lotor genus:procyon" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "specificepithet:axis" ; Times: 4
+	Query: "specificepithet:vulpes vulpes tissue:1" ; Times: 1
+	Query: "Tamias minimus type:specimen mappable:1" ; Times: 1
+	Query: "molossidae" ; Times: 1
+	Query: "Sylvilagus aquaticus distance(location,geopoint(32.602361666817515,-97.327880859375))<100000" ; Times: 1
+	Query: "Canis" ; Times: 2
+	Query: "caracal caracal" ; Times: 1
+	Query: "Tamias senex type:specimen mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 437 download events in this period)
+Total number of records downloaded: 3242 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3179
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 1
+	Date: 2014-07-03 ; Times: 3
+	Date: 2014-07-06 ; Times: 1
+	Date: 2014-07-07 ; Times: 1
+	Date: 2014-07-08 ; Times: 1
+	Date: 2014-07-09 ; Times: 2
+	Date: 2014-07-10 ; Times: 1
+	Date: 2014-07-12 ; Times: 3
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-15 ; Times: 5
+	Date: 2014-07-16 ; Times: 3
+	Date: 2014-07-17 ; Times: 1
+	Date: 2014-07-18 ; Times: 2
+	Date: 2014-07-19 ; Times: 19
+	Date: 2014-07-20 ; Times: 3
+	Date: 2014-07-21 ; Times: 2
+	Date: 2014-07-22 ; Times: 1
+	Date: 2014-07-25 ; Times: 3
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Tamias ruficaudus type:specimen mappable:1" ; Times: 1
+	Query: ""Tamias speciosus" type:specimen mappable:1" ; Times: 1
+	Query: ""Tamias rufus" type:specimen mappable:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Tamias minimus type:specimen mappable:1" ; Times: 1
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Tamias quadrimaculatus type:specimen mappable:1" ; Times: 1
+	Query: "Leptoceros" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "Rattus rattus" ; Times: 1
+	Query: "canis lupus mappable:1" ; Times: 1
+	Query: "Tamias amoenus type:specimen mappable:1" ; Times: 1
+	Query: "cynomys gunnisoni type:specimen year >= 1930 year <= 2014" ; Times: 1
+	Query: ""Tamias siskiyou" type:specimen mappable:1" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: ""Tamias townsendii" type:specimen mappable:1" ; Times: 1
+	Query: "Tamias merriami type:specimen mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Texas"" ; Times: 1
+	Query: "Tamias palmeri type:specimen mappable:1" ; Times: 1
+	Query: "Tamias canipes type:specimen mappable:1" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "Tamias panamintinus type:specimen mappable:1" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: ""Tamias sonomae" type:specimen mappable:1" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "Peromyscus leucopus AND (NOT reptilia)" ; Times: 1
+	Query: ""Tamias umbrinus" type:specimen mappable:1" ; Times: 1
+	Query: "Tamias quadrivittatus type:specimen mappable:1" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:taxus genus:Taxidea" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Tamias cinereicollis type:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Tamias obscurus type:specimen mappable:1" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Peromyscus boylii Peromyscus boylii type:specimen" ; Times: 1
+	Query: "phyllostomidae" ; Times: 1
+	Query: ""Tamias striatus" type:specimen mappable:1" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "specificepithet:Axis" ; Times: 1
+	Query: "vespertilionidae" ; Times: 1
+	Query: "molossidae" ; Times: 1
+	Query: "Tamias ochrogenys type:specimen mappable:1" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "Tamias dorsalis type:specimen mappable:1" ; Times: 1
+	Query: "stateprovince:"South Dakota" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "Tamias senex type:specimen mappable:1" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 968
+Total number of records retrieved from searches: 10045
+Number of download events that retrieved data from the resource: 272
+Total number of records downloaded: 58346
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 968
+Total number of records retrieved from searches: 10045
+Number of download events that retrieved data from the resource: 368
+Total number of records downloaded: 109995
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
