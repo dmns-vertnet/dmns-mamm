@@ -1,0 +1,339 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 261
+Number of records retrieved in searches: 2741
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 7
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Hungary ; Times: 5
+	Country: Mexico ; Times: 19
+	Country: Micronesia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 188
+	Country: Unknown ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 4
+	Date: 2015-05-06 ; Times: 7
+	Date: 2015-05-07 ; Times: 9
+	Date: 2015-05-08 ; Times: 3
+	Date: 2015-05-09 ; Times: 3
+	Date: 2015-05-10 ; Times: 5
+	Date: 2015-05-11 ; Times: 9
+	Date: 2015-05-12 ; Times: 6
+	Date: 2015-05-13 ; Times: 11
+	Date: 2015-05-14 ; Times: 15
+	Date: 2015-05-15 ; Times: 10
+	Date: 2015-05-16 ; Times: 9
+	Date: 2015-05-18 ; Times: 17
+	Date: 2015-05-19 ; Times: 16
+	Date: 2015-05-20 ; Times: 16
+	Date: 2015-05-21 ; Times: 13
+	Date: 2015-05-22 ; Times: 9
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-25 ; Times: 5
+	Date: 2015-05-26 ; Times: 21
+	Date: 2015-05-27 ; Times: 29
+	Date: 2015-05-28 ; Times: 5
+	Date: 2015-05-29 ; Times: 20
+	Date: 2015-05-30 ; Times: 14
+	Date: 2015-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "microtus californicus (skin)" ; Times: 2
+	Query: "Connochaetes" ; Times: 1
+	Query: "Myocastoridae" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Nebraska"" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 3
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 2
+	Query: "uncia" ; Times: 1
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.774769485295465,-105.46875))<16086.5993228447" ; Times: 1
+	Query: "thomomys" ; Times: 3
+	Query: "sorex hoyi" ; Times: 1
+	Query: "skeleton genus:spermophilus" ; Times: 2
+	Query: "specificepithet:hyaena genus:hyaena (zoo)" ; Times: 2
+	Query: "berlandieri" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "tamias quadrivittatus stateprovince:"New Mexico"" ; Times: 1
+	Query: "Bison bison "Bison bison" type:specimen specificepithet:Bison genus:Bison (Mandible) AND (NOT priscus)" ; Times: 2
+	Query: "mustela" ; Times: 1
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "3996" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:hudsonicus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "porteri" ; Times: 2
+	Query: "country:"United States" class:Mammalia year >= 1981 year <= 1990" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "genus:puma (cub OR neonate OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan)" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus tissue:1" ; Times: 1
+	Query: "genus:priodontes" ; Times: 1
+	Query: "class:Mammalia year >= 1850 year <= 1900 distance(location,geopoint(43.58039085560786,-101.337890625))<2307364" ; Times: 1
+	Query: "genus:Puma (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: ""table rock" stateprovince:"Oregon"" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "type:specimen specificepithet:pennsylvanicus genus:microtus tissue:1" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "martes americana" ; Times: 2
+	Query: "1822" ; Times: 1
+	Query: "Leptonychotes weddellii media:1" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1971 year <= 1980" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+	Query: ""sylvilagus floridanus" (fetus)" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "genus:Puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "pikas" ; Times: 1
+	Query: "Peru" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1901 year <= 1910" ; Times: 1
+	Query: "genus:spermophilus" ; Times: 1
+	Query: "8524" ; Times: 1
+	Query: "genus:puma (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "gulo gulo idaho" ; Times: 2
+	Query: "genus:lynx (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "berlandieri type:specimen" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota)" ; Times: 1
+	Query: "Leptonychotes weddellii" ; Times: 2
+	Query: "genus:Hydrurga (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "specificepithet:leptonyx genus:Hydrurga (skull)" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "hyaena hyaena (zoo)" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "type:specimen specificepithet:parva genus:cryptotis tissue:1" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "specificepithet:panamintinus" ; Times: 1
+	Query: "university of colorado boulder" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "red-tailed hawk" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "class:Mammalia (Oregon) year >= 1910 year <= 2010" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "Hydrurga leptonyx" ; Times: 7
+	Query: "Erethizontidae" ; Times: 1
+	Query: "country:"MEXICO" class:mammalia year >= 1888 year <= 2015 mappable:1" ; Times: 1
+	Query: "county:"inyo" specificepithet:panamintinus" ; Times: 1
+	Query: "Spotted skunk" ; Times: 5
+	Query: "white tailed deer" ; Times: 1
+	Query: "(skull OR cranio) family:Procyonidae" ; Times: 2
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 3
+	Query: "red-tailed hawk type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "(caudal)" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 2
+	Query: "Lobodon carcinophagus" ; Times: 2
+	Query: "chiroptera baja california" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada)" ; Times: 1
+	Query: "Sigmodontinae tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:megalotis genus:reithrodontomys tissue:1" ; Times: 1
+	Query: "Spotted Skunk" ; Times: 3
+	Query: "ursus arctos stateprovince:"british columbia"" ; Times: 6
+	Query: "peru" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "sylvilagus nuttallii" ; Times: 2
+	Query: "msb" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "squirrel" ; Times: 1
+	Query: "genus:Puma (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "order:primates" ; Times: 2
+	Query: "crocuta" ; Times: 2
+	Query: "tamias quadrivittatus" ; Times: 2
+	Query: "myrmecophaga" ; Times: 2
+	Query: "didelphis" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 2
+	Query: "type:specimen specificepithet:hispidus genus:sigmodon tissue:1" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 3
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "ursus arctos" ; Times: 4
+	Query: "grizzly bear" ; Times: 2
+	Query: ""eumetopias"" ; Times: 1
+	Query: "genus:geomys" ; Times: 1
+	Query: "peromyscus maniculatus bairdii" ; Times: 1
+	Query: ""sylvilagus floridanus"" ; Times: 1
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.58875727696545,-105.238037109375))<100000" ; Times: 1
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.774769485295465,-105.46875))<82878" ; Times: 2
+	Query: "specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "chiroptera stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "crocuta crocuta (zoo)" ; Times: 1
+	Query: "chipmunk" ; Times: 2
+	Query: "hyaena hyaena" ; Times: 2
+	Query: "microtus californicus" ; Times: 1
+	Query: "genus:lynx (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Cordova" ; Times: 1
+	Query: "genus:lynx (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "dipodomys" ; Times: 1
+	Query: "peromyscus truei" ; Times: 3
+	Query: "(mclean county)" ; Times: 1
+	Query: "chiroptera Baja California" ; Times: 7
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "uncia uncia" ; Times: 13
+	Query: "class:Mammalia year >= 1850 year <= 1900 distance(location,geopoint(42.8115217450979,-105.205078125))<2307364.201886517" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Hydrurga leptonyx media:1" ; Times: 1
+	Query: "puma puma" ; Times: 2
+	Query: "Geomyidae" ; Times: 3
+	Query: "Plains Spotted SKunk" ; Times: 1
+	Query: "sylvilagus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1850 year <= 1900" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Tamias minimus" ; Times: 2
+	Query: "ursus arctos mappable:1" ; Times: 2
+	Query: "orycteropus" ; Times: 1
+	Query: ""sylvilagus floridanus" (tissue)" ; Times: 2
+	Query: "country:"United States" specificepithet:parva genus:Cryptotis tissue:1" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 2
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: ""Geomys"" ; Times: 1
+	Query: "mountain lion" ; Times: 2
+	Query: "canis latrans" ; Times: 1
+	Query: ""Lontra canadensis" year >= 1845 year <= 1900" ; Times: 1
+	Query: "civettictis civetta (skull)" ; Times: 2
+	Query: "Tennessee" ; Times: 1
+	Query: "primates (skeleton)" ; Times: 1
+	Query: "Neofelis" ; Times: 1
+	Query: "ovis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 976 download events in this period)
+Total number of records downloaded: 16927 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12681
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 42
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 4
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 4
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-18 ; Times: 3
+	Date: 2015-05-19 ; Times: 3
+	Date: 2015-05-20 ; Times: 5
+	Date: 2015-05-21 ; Times: 16
+	Date: 2015-05-22 ; Times: 6
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "chiroptera stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1951 year <= 1960" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1901 year <= 1910" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1941 year <= 1950" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1991 year <= 2000" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.774769485295465,-105.46875))<82878" ; Times: 1
+	Query: "chiroptera Baja California" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Sigmodontinae tissue:1" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "type:specimen specificepithet:megalotis genus:reithrodontomys tissue:1" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1961 year <= 1970" ; Times: 1
+	Query: "stateprovince:"Baja" country:"Mexico" class:mammalia (isla OR island)" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1921 year <= 1930" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1981 year <= 1990" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:hispidus genus:sigmodon tissue:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1850 year <= 1900" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Ctenomyidae" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1971 year <= 1980" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:pennsylvanicus genus:microtus tissue:1" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:leucurus genus:cynomys" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1931 year <= 1940" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2395
+Total number of records retrieved from searches: 26494
+Number of download events that retrieved data from the resource: 187
+Total number of records downloaded: 23701
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2797
+Total number of records retrieved from searches: 29803
+Number of download events that retrieved data from the resource: 727
+Total number of records downloaded: 170021
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
