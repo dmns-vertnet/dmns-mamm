@@ -1,0 +1,374 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 307
+Number of records retrieved in searches: 2695
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 8
+	Country: France ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Hungary ; Times: 26
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Panama ; Times: 5
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 222
+	Country: Unknown ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 12
+	Date: 2015-07-02 ; Times: 5
+	Date: 2015-07-03 ; Times: 5
+	Date: 2015-07-04 ; Times: 3
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-07 ; Times: 7
+	Date: 2015-07-08 ; Times: 33
+	Date: 2015-07-09 ; Times: 19
+	Date: 2015-07-10 ; Times: 21
+	Date: 2015-07-11 ; Times: 5
+	Date: 2015-07-12 ; Times: 2
+	Date: 2015-07-13 ; Times: 7
+	Date: 2015-07-14 ; Times: 19
+	Date: 2015-07-15 ; Times: 4
+	Date: 2015-07-16 ; Times: 39
+	Date: 2015-07-17 ; Times: 6
+	Date: 2015-07-19 ; Times: 3
+	Date: 2015-07-20 ; Times: 6
+	Date: 2015-07-21 ; Times: 15
+	Date: 2015-07-22 ; Times: 10
+	Date: 2015-07-23 ; Times: 8
+	Date: 2015-07-24 ; Times: 7
+	Date: 2015-07-26 ; Times: 12
+	Date: 2015-07-27 ; Times: 16
+	Date: 2015-07-28 ; Times: 11
+	Date: 2015-07-29 ; Times: 7
+	Date: 2015-07-30 ; Times: 18
+	Date: 2015-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: ""macrotus californicus" country:"Mexico"" ; Times: 1
+	Query: "tamiasciurus" ; Times: 1
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "texensis weight" ; Times: 1
+	Query: "genus:Ateles year >= 1975 year <= 2015" ; Times: 2
+	Query: "27802" ; Times: 1
+	Query: "thomomys townsendii weight" ; Times: 1
+	Query: "distance(location,geopoint(44.608720009137095,-99.107666015625))<70400" ; Times: 1
+	Query: "peromyscus crinitus utah" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 2
+	Query: "14470" ; Times: 1
+	Query: "Herpestidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "Priodontes" ; Times: 1
+	Query: "mimus" ; Times: 1
+	Query: "genus:Pithecia AND (NOT CUML) year >= 1975 year <= 2015" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "merriami weight" ; Times: 2
+	Query: "2464" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Hinsdale Colorado" ; Times: 3
+	Query: "Canis latrans" ; Times: 2
+	Query: "ursus" ; Times: 1
+	Query: "lobodon" ; Times: 1
+	Query: "Viverridae" ; Times: 2
+	Query: "Routt Colorado Mammalia" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:odocoileus" ; Times: 2
+	Query: "sorex wisconsin" ; Times: 2
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "leopardus geoffroyi" ; Times: 1
+	Query: "genus:tamandua" ; Times: 1
+	Query: "Tapiridae year >= 1975 year <= 2015" ; Times: 1
+	Query: "genus:Lagothrix AND (NOT CUML) year >= 1975 year <= 2015" ; Times: 1
+	Query: "canis latrans type:specimen" ; Times: 1
+	Query: ""Sciurus niger" tissue:1" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Rhinocerotidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "Mephitis mephitis" ; Times: 2
+	Query: "("myodes gapperi" OR "clethrionomys gapperi") mappable:1" ; Times: 1
+	Query: "trichechus type:specimen (skeleton) year >= 1980 year <= 2015" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "perognathus parvus" ; Times: 1
+	Query: "hydrurga" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "dipodidae" ; Times: 1
+	Query: "neotoma lepida utah" ; Times: 2
+	Query: "townsendii weight" ; Times: 1
+	Query: "bursarius lutescens weight" ; Times: 1
+	Query: "thomomys" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "Microtus californicus Microtus californicus specificepithet:californicus genus:Microtus class:Mammalia (Microtus )" ; Times: 1
+	Query: "lasiurus" ; Times: 1
+	Query: "pusa hispida" ; Times: 1
+	Query: "choloepus hoffmanni country:"Panama"" ; Times: 1
+	Query: "mustela nivalis" ; Times: 2
+	Query: "genus:orycteropus" ; Times: 1
+	Query: ""Equus grevyi"" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus tissue:1" ; Times: 1
+	Query: "Pitheciidae tissue:1" ; Times: 1
+	Query: "Tremarctos" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 4
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 4
+	Query: "zm-1" ; Times: 2
+	Query: "harris county" ; Times: 1
+	Query: "south america specificepithet:virginianus genus:odocoileus" ; Times: 1
+	Query: "Sciurus variegatoides" ; Times: 1
+	Query: "Paradoxurinae" ; Times: 2
+	Query: "hippopotamus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "ondatra zibethicus" ; Times: 1
+	Query: ""Perognathus flavus" stateprovince:"Utah"" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 1
+	Query: "distance(location,geopoint(40.27256855319715,-113.258056640625))<30247" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:californicus genus:microtus" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "14299" ; Times: 4
+	Query: "dermoptera type:specimen (skeleton)" ; Times: 1
+	Query: "texas tech" ; Times: 2
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "Myrmecophagidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "umbrinus weight" ; Times: 1
+	Query: "tamias minimus" ; Times: 2
+	Query: "distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "Ursus arctos" ; Times: 2
+	Query: "Perognathus parvus" ; Times: 1
+	Query: "reithrodontomys megalotis" ; Times: 1
+	Query: "Antilocapridae year >= 1975 year <= 2015" ; Times: 1
+	Query: "reithrodontomys" ; Times: 2
+	Query: "neotoma albigula" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "mp 1000" ; Times: 1
+	Query: "perognathus flavus utah" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "geomys bursarius" ; Times: 3
+	Query: "neotoma cinerea utah" ; Times: 3
+	Query: "thomomys talpoides" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "Antilocapra (Weight)" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 4
+	Query: "antilocapra (weight)" ; Times: 5
+	Query: "stateprovince:"oregon" specificepithet:californicus genus:microtus" ; Times: 1
+	Query: "Cynocephalidae AND (NOT CUML) year >= 1975 year <= 2015" ; Times: 1
+	Query: "myotis lucifugus country:"United States"" ; Times: 1
+	Query: "spermophilus spilosoma" ; Times: 1
+	Query: "Canis rufus type:specimen" ; Times: 1
+	Query: "stateprovince:"Tennessee"" ; Times: 1
+	Query: "mammal san juan county utah" ; Times: 1
+	Query: "tayassu pecari" ; Times: 3
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "antilocapridae (weight OR mass)" ; Times: 1
+	Query: "Sherman Pass" ; Times: 1
+	Query: "panthera leo" ; Times: 7
+	Query: "Choloepus hoffmanni country:"Costa Rica"" ; Times: 1
+	Query: "oryx" ; Times: 1
+	Query: "mammalia utah" ; Times: 1
+	Query: "Giraffidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "Tamias minimus utah" ; Times: 1
+	Query: "Spermophilus" ; Times: 1
+	Query: "odocoileus (weight)" ; Times: 2
+	Query: "hispidus weight" ; Times: 3
+	Query: "lepus americanus" ; Times: 4
+	Query: "Procyon lotor" ; Times: 1
+	Query: "stateprovince:"Utah" specificepithet:longimembris genus:Perognathus" ; Times: 1
+	Query: "bursarius weight" ; Times: 2
+	Query: "lemmiscus curtatus" ; Times: 1
+	Query: "panthera onca onca" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "boston" ; Times: 1
+	Query: "genus:Ateles AND (NOT CUML) year >= 1975 year <= 2015" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "lepus americanus mappable:1" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "lobodon carcinophagus" ; Times: 5
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 2
+	Query: "Routt Colorado" ; Times: 1
+	Query: "Canis rufus" ; Times: 3
+	Query: "ursus americanus emmonsii" ; Times: 1
+	Query: "stateprovince:"Utah" specificepithet:flavus genus:Perognathus" ; Times: 1
+	Query: "armstrong mammal" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:odocoileus AND (Not "united states")" ; Times: 1
+	Query: "Routt Colorado Zapus" ; Times: 1
+	Query: "bottae weight" ; Times: 2
+	Query: "county:"ventura" stateprovince:"California" year >= 2000 year <= 2015" ; Times: 1
+	Query: "otospermophilus variegatus" ; Times: 1
+	Query: "spermophilus lateralis" ; Times: 1
+	Query: "mammalia san juan county utah" ; Times: 1
+	Query: "Lepus (Weight)" ; Times: 1
+	Query: "Choloepus hoffmanni country:"Panama"" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:odocoileus AND ("united states")" ; Times: 1
+	Query: "catalognumber:500" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "artiodactyla (weight)" ; Times: 6
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "stateprovince:oregon OR california specificepithet:californicus genus:microtus" ; Times: 1
+	Query: "civettictis" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex tissue:1" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Cratogeomys weight" ; Times: 1
+	Query: "concolor utah" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(40.31446719283562,-113.411865234375))<39805" ; Times: 1
+	Query: "mountain earth" ; Times: 1
+	Query: "enhydra lutris lutris" ; Times: 1
+	Query: "dipodomys" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "castor" ; Times: 2
+	Query: "fossor weight" ; Times: 11
+	Query: "tamias rufus" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:odocoileus (island)" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "locality:skull" ; Times: 2
+	Query: "distance(location,geopoint(40.31446719283562,-113.411865234375))<30246.971978908655" ; Times: 1
+	Query: ""Canis rufus"" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 2
+	Query: "myotis country:"United States"" ; Times: 1
+	Query: "san juan county utah" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "Lepus townsendii (Weight)" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.38237278700955,-127.90283203125))<2475598" ; Times: 1
+	Query: "specificepithet:clusius genus:Thomomys" ; Times: 7
+	Query: "skeleton "Equus burchellii"" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "Tamias obscurus" ; Times: 1
+	Query: "specificepithet:fuscus genus:eptesicus mappable:1" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "mead river stateprovince:"alaska"" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: ""Sciurus niger" (black) tissue:1" ; Times: 1
+	Query: "callospermophilus lateralis" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "martes martes" ; Times: 1
+	Query: "1366" ; Times: 1
+	Query: "Microtus californicus" ; Times: 1
+	Query: "MUSEUM OF UTAH" ; Times: 1
+	Query: "Cryptotis" ; Times: 1
+	Query: "xerospermophilus spilosoma" ; Times: 1
+	Query: "ursus mappable:1" ; Times: 1
+	Query: "choloepus hoffmanni country:"Costa Rica"" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1084 download events in this period)
+Total number of records downloaded: 3675 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3156
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 3
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 4
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-19 ; Times: 3
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 6
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-30 ; Times: 6
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myotis lucifugus country:"United States"" ; Times: 1
+	Query: "choloepus hoffmanni country:"Panama"" ; Times: 1
+	Query: ""macrotus californicus" country:"Mexico"" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "Choloepus hoffmanni country:"Costa Rica"" ; Times: 1
+	Query: "county:"Carbon" stateprovince:"Utah"" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "ursus americanus emmonsii" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "mammalia mexico" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "lemmiscus curtatus" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "mammalia san juan county utah" ; Times: 1
+	Query: "Choloepus hoffmanni country:"Panama"" ; Times: 1
+	Query: ""Sciurus niger" tissue:1" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "("myodes gapperi" OR "clethrionomys gapperi") mappable:1" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "choloepus hoffmanni country:"Costa Rica"" ; Times: 2
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2972
+Total number of records retrieved from searches: 31239
+Number of download events that retrieved data from the resource: 287
+Total number of records downloaded: 30291
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3374
+Total number of records retrieved from searches: 34548
+Number of download events that retrieved data from the resource: 827
+Total number of records downloaded: 176611
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
