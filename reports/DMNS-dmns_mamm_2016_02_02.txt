@@ -1,0 +1,255 @@
+Report for Institution Code DMNS, Resource Mammal specimens
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 1381
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 22
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Russia ; Times: 16
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 94
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-04 ; Times: 6
+	Date: 2016-01-05 ; Times: 15
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-07 ; Times: 6
+	Date: 2016-01-08 ; Times: 4
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-14 ; Times: 5
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-20 ; Times: 4
+	Date: 2016-01-21 ; Times: 15
+	Date: 2016-01-22 ; Times: 6
+	Date: 2016-01-23 ; Times: 6
+	Date: 2016-01-24 ; Times: 2
+	Date: 2016-01-25 ; Times: 7
+	Date: 2016-01-26 ; Times: 7
+	Date: 2016-01-27 ; Times: 8
+	Date: 2016-01-28 ; Times: 10
+	Date: 2016-01-29 ; Times: 4
+	Date: 2016-01-30 ; Times: 6
+	Date: 2016-01-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia locality:"Santa Cruz Island" stateprovince:"California"" ; Times: 1
+	Query: "Didelphis "virginiana" mappable:1" ; Times: 3
+	Query: "Phocoenoides type:specimen AND (skeleton)" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "home page" ; Times: 1
+	Query: "232223" ; Times: 1
+	Query: ""didelphis virginiana" mappable:1" ; Times: 2
+	Query: ""Procavia capensis" mappable:1" ; Times: 1
+	Query: "Lynx lynx" ; Times: 2
+	Query: "Callimico goeldii" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(46.16493157667521,-122.23526000976562))<100000" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 3
+	Query: "Vulpes chama" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 10
+	Query: "Lasiurus cinereus type:specimen mappable:1" ; Times: 1
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "martes americana" ; Times: 5
+	Query: "panthera onca" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year>=1916 year<=1920" ; Times: 1
+	Query: "Didelphidae" ; Times: 2
+	Query: "Panthera leo" ; Times: 1
+	Query: "Callimico mappable:1" ; Times: 2
+	Query: "Uncia uncia" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: ""erethizon dorsatum" mappable:1" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Callimico (skull) mappable:1" ; Times: 1
+	Query: "bacteria" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "rattus norvegicus tissue:1" ; Times: 1
+	Query: "monster" ; Times: 11
+	Query: "class:Mammalia locality:"San Clemente Island" stateprovince:"California"" ; Times: 1
+	Query: "university of texas" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "Tremarctos "ornatus"" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "perimyotis" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: ""Didelphis virginiana" mappable:1" ; Times: 3
+	Query: "Lynx pardinus" ; Times: 2
+	Query: "ttu 101+" ; Times: 1
+	Query: "onca type:specimen (Panthera OR Felis)" ; Times: 2
+	Query: "Loxodonta "africana" mappable:1" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:gray year >= 1900 year <= 1940" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "Bison bison" ; Times: 1
+	Query: "devil" ; Times: 5
+	Query: "enhydra" ; Times: 2
+	Query: "bears" ; Times: 1
+	Query: "Suricatta" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: ""Erethizon dorsatum" mappable:1" ; Times: 4
+	Query: "enhydra lutris" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 3
+	Query: "urocitellus parryii" ; Times: 2
+	Query: "Erethizon "dorsatum" mappable:1" ; Times: 1
+	Query: "douglas squirrel" ; Times: 1
+	Query: "squirrels" ; Times: 1
+	Query: ""Santa Cruz Island" class:Mammalia stateprovince:"California"" ; Times: 1
+	Query: "beecheyi" ; Times: 1
+	Query: "peromyscus maniculatus santacruzae" ; Times: 1
+	Query: "velifer" ; Times: 1
+	Query: "Loxodonta "cyclotis" mappable:1" ; Times: 1
+	Query: "Callimico goeldii type:specimen" ; Times: 3
+	Query: ""Mustela nigripes" mappable:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "connochaetes" ; Times: 1
+	Query: "2135" ; Times: 1
+	Query: "Alouatta caraya 1" ; Times: 1
+	Query: "Callimico" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 2
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "specificepithet:virginiana genus:didelphis mappable:1" ; Times: 1
+	Query: "genus:Ictidomys county:"Catron" stateprovince:"New Mexico" country:"United States"" ; Times: 1
+	Query: "hazel" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year>=1900" ; Times: 1
+	Query: "odocoileus" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 507 download events in this period)
+Total number of records downloaded: 5819 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3573
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 22
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-04 ; Times: 9
+	Date: 2016-01-05 ; Times: 8
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-07 ; Times: 4
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lynx lynx" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: ""Mustela nigripes" mappable:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 2
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "boylii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 2
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "Gulo gulo "wolverine" mappable:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Lynx pardinus" ; Times: 3
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 58
+Total number of records downloaded: 5819
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 153
+Total number of records retrieved from searches: 1381
+Number of download events that retrieved data from the resource: 58
+Total number of records downloaded: 5819
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
