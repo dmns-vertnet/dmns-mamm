@@ -1,0 +1,296 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 270
+Number of records retrieved in searches: 2409
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 54
+	Country: Unknown ; Times: 14
+	Country: France ; Times: 6
+	Country: United States ; Times: 172
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Russia ; Times: 8
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 10
+	Date: 2016-02-22 ; Times: 6
+	Date: 2016-02-18 ; Times: 19
+	Date: 2016-02-19 ; Times: 25
+	Date: 2016-02-12 ; Times: 7
+	Date: 2016-02-13 ; Times: 4
+	Date: 2016-02-10 ; Times: 10
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-16 ; Times: 7
+	Date: 2016-02-17 ; Times: 10
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-29 ; Times: 17
+	Date: 2016-02-09 ; Times: 7
+	Date: 2016-02-08 ; Times: 17
+	Date: 2016-02-21 ; Times: 4
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 8
+	Date: 2016-02-25 ; Times: 10
+	Date: 2016-02-24 ; Times: 9
+	Date: 2016-02-01 ; Times: 5
+	Date: 2016-02-03 ; Times: 18
+	Date: 2016-02-02 ; Times: 4
+	Date: 2016-02-05 ; Times: 13
+	Date: 2016-02-04 ; Times: 32
+	Date: 2016-02-07 ; Times: 13
+	Date: 2016-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:boulder institutioncode:DMNS" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Didelphis" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 2
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus" ; Times: 1
+	Query: "Didelphis mappable:1" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "1900 jackson" ; Times: 1
+	Query: "Mammalia Mellivora" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "nippon" ; Times: 2
+	Query: "stateprovince:&#34;texas&#34; specificepithet:palustris genus:Oryzomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "Lama glama mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Erethizon dorsatum mappable:1" ; Times: 7
+	Query: "phenacomys intermedius" ; Times: 1
+	Query: "Rabbit" ; Times: 1
+	Query: "DIPODOMYS" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Panthera onca" ; Times: 12
+	Query: "Canis latrans" ; Times: 3
+	Query: "urocitellus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis county:&#34;Park&#34;" ; Times: 1
+	Query: "lynx rufus type:specimen country:&#34;United States&#34; (fluid OR ethanol OR alcohol) mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis tissue:1" ; Times: 2
+	Query: "neotoma floridana year &gt;= 2005 year &lt;= 2010 tissue:1" ; Times: 1
+	Query: "dipodomys continent:america" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "Mellivora Mammalia" ; Times: 2
+	Query: "&#34;Panthera pardus&#34; mappable:1" ; Times: 1
+	Query: "phocidae" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "suricata" ; Times: 3
+	Query: "class:mammalia stateprovince:&#34;Nevada&#34; continent:North America mappable:1" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "yale" ; Times: 2
+	Query: "specificepithet:parvus genus:Perognathus mappable:1" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "&#34;Didelphis&#34; &#34;Didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "vulpes velox" ; Times: 3
+	Query: "San Emigdio county:&#34;Kern&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:Zapus stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:martes continent:north america" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;baja california&#34;" ; Times: 2
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Antilocapra Americana" ; Times: 1
+	Query: "mummy" ; Times: 8
+	Query: "Myotis leibii" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Poliocitellus franklinii" ; Times: 1
+	Query: "Prairie dog" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "dermoptera west java" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Martes" ; Times: 1
+	Query: "genus:neotoma stateprovince:Nevada" ; Times: 1
+	Query: "Neofelis nebulosa mappable:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "monster" ; Times: 5
+	Query: "Ursus arctos" ; Times: 1
+	Query: "genus:ochotona stateprovince:Nevada" ; Times: 2
+	Query: "genus:neotoma stateprovince:Nevada year&gt;= 2000" ; Times: 6
+	Query: "erethizon dorsatum mappable:1" ; Times: 2
+	Query: "genus:neotoma stateprovince:Nevada year&gt;= 2005" ; Times: 6
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "Chrysocyon" ; Times: 1
+	Query: "Procyon lotor type:specimen (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "Sciurus aberti tissue:1" ; Times: 1
+	Query: "didelphis virginiana mappable:1" ; Times: 4
+	Query: "panthera tigris" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Didelphimorphia" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+	Query: "lepus americanus" ; Times: 8
+	Query: "&#34;Didelphis virginiana&#34; mappable:1" ; Times: 3
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "ttu 47" ; Times: 1
+	Query: "bats" ; Times: 3
+	Query: "family:Felidae media:1" ; Times: 3
+	Query: "vertebrae" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "enhydra" ; Times: 1
+	Query: "&#34;Erethizon&#34; &#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "chiroptera baja california" ; Times: 1
+	Query: "Ursidae" ; Times: 1
+	Query: "Mephitis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:Sundance stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Ictidomys tridecemlineatus" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "mustela nigripes" ; Times: 2
+	Query: "class:Mammalia distance(location,geopoint(23.7322406087444,-110.13914108276367))&lt;100000" ; Times: 1
+	Query: "&#34; Panthera pardus&#34; mappable:1" ; Times: 1
+	Query: "genus:sorex county:&#34;clear creek&#34; (NOT institutioncode:CHAS OR institutioncode:USNM)" ; Times: 2
+	Query: "ochotona princeps" ; Times: 4
+	Query: "callospermophilus lateralis" ; Times: 3
+	Query: "panthera pardus" ; Times: 2
+	Query: "Conepatus leuconotus type:specimen" ; Times: 3
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "martes" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "fur" ; Times: 1
+	Query: "procyon lotor type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "lynx" ; Times: 1
+	Query: "lynx rufus type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 2
+	Query: "panthera tissue:1" ; Times: 3
+	Query: "Bergen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "pedetes" ; Times: 1
+	Query: "type:specimen county:&#34;clermont&#34; stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "genus:sorex county:&#34;clear creek county&#34; (NOT institutioncode:CHAS OR institutioncode:USNM)" ; Times: 1
+	Query: "bison bison bison" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "dipodomys" ; Times: 2
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:californicus genus:microtus" ; Times: 1
+	Query: "victoria county" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "lynx rufus type:specimen (ethanol OR fluid OR alcohol ) mappable:1" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Thomomys clusius" ; Times: 1
+	Query: "specificepithet:clusius genus:Thomomys" ; Times: 4
+	Query: "hastypestatus:1 tissue:1" ; Times: 1
+	Query: "Martes americana" ; Times: 2
+	Query: "Urocyon" ; Times: 1
+	Query: "Macropus rufus" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(23.779061416101943,-110.13587951660156))&lt;100000" ; Times: 1
+	Query: "&#34;Erinaceinae&#34; mappable:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Nevada&#34; continent:North America" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "canis latrans" ; Times: 9
+	Query: "Didelphis Virginiana mappable:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:Nevada year&gt;=2005" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 512 download events in this period)
+Total number of records downloaded: 9623
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 31
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 3
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 6
+	Date: 2016-02-19 ; Times: 10
+	Date: 2016-02-12 ; Times: 3
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-23 ; Times: 5
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-28 ; Times: 2
+	Date: 2016-02-05 ; Times: 2
+	Date: 2016-02-04 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Spilogale gracilis type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "lynx rufus type:specimen (ethanol OR fluid OR alcohol ) mappable:1" ; Times: 1
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 3
+	Query: "stateprovince:&#34;texas&#34; specificepithet:palustris genus:Oryzomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "procyon lotor type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "heteromyidae mappable:1" ; Times: 1
+	Query: "tissue:1" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Hendee" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "Sciurus aberti tissue:1" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "enhydra lutris nereis" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "septentrionalis class:Mammalia stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
