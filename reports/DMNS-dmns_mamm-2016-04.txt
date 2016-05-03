@@ -1,0 +1,350 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 661
+Number of records retrieved in searches: 7919
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 6
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 94
+	Country: Unknown ; Times: 87
+	Country: Costa Rica ; Times: 19
+	Country: France ; Times: 5
+	Country: United States ; Times: 375
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 5
+	Country: Russia ; Times: 33
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 18
+	Date: 2016-04-02 ; Times: 10
+	Date: 2016-04-07 ; Times: 19
+	Date: 2016-04-06 ; Times: 16
+	Date: 2016-04-05 ; Times: 18
+	Date: 2016-04-04 ; Times: 21
+	Date: 2016-04-21 ; Times: 17
+	Date: 2016-04-20 ; Times: 33
+	Date: 2016-04-09 ; Times: 25
+	Date: 2016-04-22 ; Times: 53
+	Date: 2016-04-25 ; Times: 44
+	Date: 2016-04-24 ; Times: 14
+	Date: 2016-04-27 ; Times: 36
+	Date: 2016-04-26 ; Times: 31
+	Date: 2016-04-08 ; Times: 23
+	Date: 2016-04-18 ; Times: 34
+	Date: 2016-04-19 ; Times: 29
+	Date: 2016-04-14 ; Times: 47
+	Date: 2016-04-15 ; Times: 35
+	Date: 2016-04-16 ; Times: 16
+	Date: 2016-04-17 ; Times: 18
+	Date: 2016-04-10 ; Times: 16
+	Date: 2016-04-11 ; Times: 18
+	Date: 2016-04-12 ; Times: 19
+	Date: 2016-04-13 ; Times: 18
+	Date: 2016-04-29 ; Times: 7
+	Date: 2016-04-28 ; Times: 9
+	Date: 2016-04-23 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:bassariscus stateprovince:&#34;texas&#34; mappable:1" ; Times: 2
+	Query: "tamias striatus" ; Times: 2
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "San Nicolas Island AND Mammal" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.297516))&lt;15000" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;arizona&#34; tissue:1" ; Times: 2
+	Query: "cryptotis" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "country:&#34;botswana&#34; institutioncode:DMNS" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia AND (juvenile)" ; Times: 2
+	Query: "genus:Ammospermophilus mappable:1" ; Times: 1
+	Query: "Mustela nigripes (wyoming OR south dakota)" ; Times: 1
+	Query: "type:specimen (alouatta)" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 7
+	Query: "Bassariscus type:specimen stateprovince:&#34;Texas&#34; mappable:1" ; Times: 5
+	Query: "PILOSA" ; Times: 1
+	Query: "ucsb" ; Times: 1
+	Query: "DMNS 6560" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia (weight) institutioncode:DMNS" ; Times: 1
+	Query: "DMNS 5837" ; Times: 2
+	Query: "sorex palustris" ; Times: 2
+	Query: "mammals of mexico" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "TK" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "Miguel Island AND 1880" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "CMNH" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "11650 mammal" ; Times: 2
+	Query: "&#34;La Garita&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 4
+	Query: "specificepithet:latrans genus:canis tissue:1" ; Times: 3
+	Query: "primates" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 17
+	Query: "distance(location,geopoint(31.299036,-113.697516))&lt;15000" ; Times: 1
+	Query: "martes americana" ; Times: 4
+	Query: "panthera onca" ; Times: 6
+	Query: "mummy" ; Times: 19
+	Query: "tamias amoenus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 81
+	Query: "Didelphidae" ; Times: 1
+	Query: "&#34;La Garita&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-109.447516))&lt;15000" ; Times: 1
+	Query: "family:Felidae tissue:1" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.957516))&lt;15000" ; Times: 1
+	Query: "peromyscus nasutus" ; Times: 3
+	Query: "type:specimen genus:Neophoca order:Carnivora" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "Bassariscus type:specimen (Texas) mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:davis" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Panthera onca mexico" ; Times: 1
+	Query: "chiroptera baja california order:chiroptera" ; Times: 2
+	Query: "12470 tissue:1" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "type:specimen genus:Mirounga order:Carnivora" ; Times: 3
+	Query: "Marmota" ; Times: 4
+	Query: "puma" ; Times: 2
+	Query: "Mustela nigripes" ; Times: 3
+	Query: "trapping" ; Times: 1
+	Query: "the mammals of new mexico" ; Times: 6
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "rhino" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "mosquito specimen" ; Times: 1
+	Query: "bison" ; Times: 2
+	Query: "Erethizon dorsatum epixanthum" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 2
+	Query: "monster" ; Times: 19
+	Query: "Miguel Island AND 1866" ; Times: 1
+	Query: "Callithricidae" ; Times: 1
+	Query: "Bassariscus type:specimen stateprovince:&#34;texas&#34; mappable:1" ; Times: 1
+	Query: "San Miguel Island AND 1880" ; Times: 1
+	Query: "reithrodontomys megalotis megalotis" ; Times: 1
+	Query: "socorro" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "specificepithet:paca genus:cuniculus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 2
+	Query: "Hyaenidae" ; Times: 1
+	Query: "Mustela nigripes us" ; Times: 1
+	Query: "bell mammalia" ; Times: 2
+	Query: "jay" ; Times: 1
+	Query: "genus:dasyprocta country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "family:Cervidae order:Artiodactyla tissue:1" ; Times: 1
+	Query: "Field Museum the Chicago" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "the mammal of new mexico" ; Times: 1
+	Query: "zalophus" ; Times: 1
+	Query: "1900 Jackson" ; Times: 2
+	Query: "genus:mus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-109.447516))&lt;15000" ; Times: 2
+	Query: "white tailed deer" ; Times: 2
+	Query: "puma concolor type:specimen (santa cruz)" ; Times: 1
+	Query: "specificepithet:latrans genus:canis mappable:1 tissue:1" ; Times: 12
+	Query: "panthera leo" ; Times: 1
+	Query: "Bison bison" ; Times: 6
+	Query: "Macrotus" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 2
+	Query: "devil" ; Times: 3
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia (weight)" ; Times: 4
+	Query: "lynx pardinus" ; Times: 5
+	Query: "Artiodactyla" ; Times: 2
+	Query: "Bassariscus texas type:specimen mappable:1" ; Times: 1
+	Query: "Ursidae" ; Times: 2
+	Query: "DMNS 6327" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pricei)" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.807516))&lt;15000" ; Times: 1
+	Query: "mustela nigripes" ; Times: 173
+	Query: "specificepithet:latrans genus:canis country:&#34;United States&#34; tissue:1" ; Times: 7
+	Query: "type:specimen genus:Bison mappable:1" ; Times: 1
+	Query: "Bassariscus specimens texas type:specimen" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "White-tailed deer" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 4
+	Query: "bison mappable:1" ; Times: 1
+	Query: "genus: Bassariscus (Texas) mappable:1" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Panthera Leo" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "Rowley AND Island" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "class:Mammalia (weight) institutioncode:DMNS" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "thomomys bottae" ; Times: 1
+	Query: "Martes caurina" ; Times: 1
+	Query: "(castor canadensis)" ; Times: 1
+	Query: "genus:Bassariscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "mammals of new mexico" ; Times: 39
+	Query: "38875" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Rowley AND Santa Cruz Island" ; Times: 2
+	Query: "Pilosa" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.277516))&lt;15000" ; Times: 1
+	Query: "family:rhinocerotidae tissue:1" ; Times: 1
+	Query: "dipodomys" ; Times: 1
+	Query: "type:specimen genus:bassariscus mappable:1 tissue:1" ; Times: 1
+	Query: "Bassariscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 2
+	Query: "family:equidae tissue:1" ; Times: 6
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.467516))&lt;15000" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "Mustela frenata" ; Times: 1
+	Query: "erinaceidae" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma tissue:1" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 2
+	Query: "Geomyidae" ; Times: 3
+	Query: "glaucomys" ; Times: 2
+	Query: "Bassariscus texas type:specimen" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "A-473" ; Times: 2
+	Query: "14199" ; Times: 1
+	Query: "yellowstone" ; Times: 1
+	Query: "Procyonidae" ; Times: 1
+	Query: "puma type:specimen" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "panthera pardus" ; Times: 2
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "order:Artiodactyla tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.807516))&lt;15000" ; Times: 1
+	Query: "&#34;CMNH&#34;" ; Times: 1
+	Query: "PRIMATES" ; Times: 1
+	Query: "DMNS 5554" ; Times: 1
+	Query: "11650" ; Times: 3
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.073130945006625,-107.57537841796875))&lt;100000" ; Times: 1
+	Query: "DMNS 5553" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 198 (out of 1312 download events in this period)
+Total number of records downloaded: 54068
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 64
+	Country: Unknown ; Times: 21
+	Country: United States ; Times: 98
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 10
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 15
+	Date: 2016-04-23 ; Times: 18
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-25 ; Times: 9
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-26 ; Times: 6
+	Date: 2016-04-22 ; Times: 8
+	Date: 2016-04-27 ; Times: 8
+	Date: 2016-04-18 ; Times: 7
+	Date: 2016-04-19 ; Times: 9
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 20
+	Date: 2016-04-16 ; Times: 12
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 9
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.063924198120645,-108.15765380859375))&lt;41580.77121872904" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "lynx pardinus" ; Times: 5
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 8
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "Erethizon dorsatum epixanthum" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "Sciurus niger" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia" ; Times: 12
+
+
+End of report.
