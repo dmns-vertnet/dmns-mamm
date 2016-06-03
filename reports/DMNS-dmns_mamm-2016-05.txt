@@ -1,0 +1,190 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 2366
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 8
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 82
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Nicaragua ; Times: 1
+	Country: Russia ; Times: 9
+	Country: Spain ; Times: 2
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-18 ; Times: 8
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 7
+	Date: 2016-05-15 ; Times: 6
+	Date: 2016-05-14 ; Times: 5
+	Date: 2016-05-13 ; Times: 6
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-31 ; Times: 18
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 4
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-03 ; Times: 10
+	Date: 2016-05-04 ; Times: 9
+	Date: 2016-05-05 ; Times: 9
+	Date: 2016-05-06 ; Times: 6
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-26 ; Times: 3
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 6
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-22 ; Times: 4
+	Date: 2016-05-23 ; Times: 4
+	Date: 2016-05-20 ; Times: 6
+	Date: 2016-05-28 ; Times: 7
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:quadrivittatus genus:Tamias institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis tissue:1" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "grizzly bear" ; Times: 2
+	Query: "specificepithet:palmeri genus:Tamias" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "Crocuta Jim" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "genus:tamias" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "Marmota marmota" ; Times: 2
+	Query: "castor canadensis" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "Deer Mice" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Echo Lake" ; Times: 1
+	Query: "Marmota" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "Mustelidae" ; Times: 1
+	Query: "mephitis mephitis" ; Times: 3
+	Query: "specificepithet:quadrivittatus genus:Tamias" ; Times: 2
+	Query: "perognathus flavus" ; Times: 1
+	Query: "country:&#34;Brazil&#34; genus:myrmecophaga" ; Times: 1
+	Query: "stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; AND (baja california sur)" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "mammals in mexico" ; Times: 1
+	Query: "campbell tissue:1" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "stateprovince:&#34;wyoming&#34; specificepithet:clusius genus:thomomys year &gt;= 1930 year &lt;= 2015" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias" ; Times: 1
+	Query: "mustela" ; Times: 1
+	Query: "mustela nigripes" ; Times: 14
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "tissues" ; Times: 1
+	Query: "Mammalia and Brazil type:specimen hastypestatus:1" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "R-67076" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "bovidae" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "primates" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "DMNS 6648" ; Times: 1
+	Query: "deer mice" ; Times: 10
+	Query: "panthera onca}" ; Times: 2
+	Query: "country:&#34;Brazil&#34; specificepithet:tridactyla genus:myrmecophaga" ; Times: 3
+	Query: "Sus scrofa " ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "skeleton type:specimen order:carnivora class:mammalia media:1" ; Times: 1
+	Query: "genus:Marmota tissue:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "black bear" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "specificepithet:striatus genus:Tamias" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "genus:Peromyscus year &gt;= 2000 year &lt;= 2014" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "specificepithet:panamintinus genus:Tamias" ; Times: 2
+	Query: "ondatra zibethicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "os clitoris" ; Times: 1
+	Query: "genus:Peromyscus maniculatus county:&#34;Larimer&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Colorado&#34; mappable:1 tissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 327 download events in this period)
+Total number of records downloaded: 3866
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-31 ; Times: 9
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "puma concolor" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "stateprovince:&#34;wyoming&#34; specificepithet:clusius genus:thomomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "genus:myrmecophaga mappable:1" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+
+
+End of report.
