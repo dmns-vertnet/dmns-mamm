@@ -1,0 +1,670 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 866
+Number of records retrieved in searches: 6451
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 30
+	Country: United States ; Times: 511
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 8
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 59
+	Country: Russia ; Times: 3
+	Country: Denmark ; Times: 143
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 2
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 77
+	Country: Unknown ; Times: 8
+	Country: Belgium ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 13
+	Date: 2018-02-08 ; Times: 27
+	Date: 2018-02-03 ; Times: 28
+	Date: 2018-02-02 ; Times: 25
+	Date: 2018-02-01 ; Times: 167
+	Date: 2018-02-07 ; Times: 22
+	Date: 2018-02-06 ; Times: 45
+	Date: 2018-02-05 ; Times: 13
+	Date: 2018-02-04 ; Times: 102
+	Date: 2018-02-21 ; Times: 23
+	Date: 2018-02-20 ; Times: 48
+	Date: 2018-02-23 ; Times: 10
+	Date: 2018-02-22 ; Times: 10
+	Date: 2018-02-25 ; Times: 14
+	Date: 2018-02-24 ; Times: 6
+	Date: 2018-02-27 ; Times: 44
+	Date: 2018-02-26 ; Times: 9
+	Date: 2018-02-28 ; Times: 39
+	Date: 2018-02-14 ; Times: 13
+	Date: 2018-02-15 ; Times: 21
+	Date: 2018-02-16 ; Times: 80
+	Date: 2018-02-17 ; Times: 13
+	Date: 2018-02-10 ; Times: 12
+	Date: 2018-02-11 ; Times: 11
+	Date: 2018-02-12 ; Times: 25
+	Date: 2018-02-13 ; Times: 25
+	Date: 2018-02-18 ; Times: 11
+	Date: 2018-02-19 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Ammospermophilus leucurus" ; Times: 1
+	Query: "Hydromys" ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "Aotus" ; Times: 1
+	Query: "Capra" ; Times: 1
+	Query: "Mustelidae hasmass:1" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "Pusa hispida " ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "&#34;enhydra lutris&#34; mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "Tragelaphus scriptus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 3
+	Query: "Panthera onca" ; Times: 4
+	Query: "genus:saguinus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma mappable:1" ; Times: 3
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "Spilogale gracilis " ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 7
+	Query: "Cervus nippon" ; Times: 22
+	Query: "scientificname:&#34;papio ursinus&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 33
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 26
+	Query: "scientificname:&#34;paraxerus cepapi&#34;" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "Alouatta palliata " ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "&#34;procyon lotor&#34;" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "Ovis canadensis mappable:1" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:5863?seid=196991&#34;" ; Times: 2
+	Query: "Phoenix Zoo" ; Times: 2
+	Query: "county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Blastocerus dichotomus " ; Times: 1
+	Query: "Alouatta caraya " ; Times: 1
+	Query: "Antidorcas marsupialis " ; Times: 1
+	Query: "&#34;procyon lotor&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Sorex merriami " ; Times: 1
+	Query: "grypus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:14960?seid=2664761&#34;" ; Times: 2
+	Query: "erethizon dorsatum mappable:1" ; Times: 6
+	Query: "slater" ; Times: 1
+	Query: "Tayassu pecari " ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "Sorex nanus " ; Times: 1
+	Query: "Pusa hispida" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "locality:Raton Mesa county:&#34;Las Animas&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 2
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "Pedetes capensis " ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "54553" ; Times: 1
+	Query: "Ictidomys tridecemlineatus " ; Times: 1
+	Query: "catalognumber:10639 institutioncode:DMNS" ; Times: 2
+	Query: "Urocitellus parryii " ; Times: 1
+	Query: "scientificname:&#34;bradypus variegatus&#34;" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Bison bison" ; Times: 2
+	Query: "vntype:specimen genus:gorilla preparations:skeleton" ; Times: 1
+	Query: "gambell" ; Times: 1
+	Query: "scientificname:&#34;cebus capucinus&#34;" ; Times: 1
+	Query: "Sorex ugyunak " ; Times: 1
+	Query: "recordedby:patton" ; Times: 1
+	Query: "arctictis" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:6745?seid=1303765&#34;" ; Times: 2
+	Query: "Canis mesomelas " ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Tamandua tetradactyla " ; Times: 1
+	Query: "Alces alces" ; Times: 4
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "scientificname:&#34;callimico goeldii&#34;" ; Times: 1
+	Query: "Redunca arundinum " ; Times: 1
+	Query: "genus:Zapus catalognumber:10638 institutioncode:DMNS" ; Times: 2
+	Query: "Bull frog" ; Times: 1
+	Query: "mus musculus vntype:specimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 4
+	Query: "Callimico goeldii " ; Times: 1
+	Query: "Orycteropus afer " ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 15
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Ovis dalli mappable:1" ; Times: 2
+	Query: "specificepithet:aberti genus:Sciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "hylobates lar" ; Times: 1
+	Query: "Gerbilliscus leucogaster " ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "Poliocitellus franklinii " ; Times: 1
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "Papio papio " ; Times: 1
+	Query: "Leopardus pardalis " ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "specificepithet:scriptus genus:Tragelaphus preparations:Skull" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:10982?seid=217722&#34;" ; Times: 4
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "notiosorex crawfordi" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:1945?seid=567684&#34;" ; Times: 2
+	Query: "Peromyscus difficilis" ; Times: 1
+	Query: "10066" ; Times: 1
+	Query: "Leptonychotes weddellii " ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 3
+	Query: "Callicebus moloch " ; Times: 1
+	Query: "badger" ; Times: 1
+	Query: "specificepithet:angustirostris genus:Mirounga" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "scientificname:&#34;choloepus hoffmanni&#34;" ; Times: 1
+	Query: "catalognumber:8838 institutioncode:DMNS" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo) institutioncode:DMNS" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Canis latrans" ; Times: 4
+	Query: "Genetta genetta mappable:1" ; Times: 3
+	Query: "scientificname:&#34;leopardus pardalis&#34;" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Otaria byronia " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:6740?seid=966520&#34;" ; Times: 2
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 6
+	Query: "eumetopias jubatus" ; Times: 7
+	Query: "genus:castor" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:6742?seid=167730&#34;" ; Times: 6
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (zoo OR captive)" ; Times: 2
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:DMNS" ; Times: 1
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:chama genus:Vulpes" ; Times: 2
+	Query: "melursus" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 6
+	Query: "scientificname:&#34;canis mesomelas&#34;" ; Times: 1
+	Query: "Perissodactyla" ; Times: 2
+	Query: "Myotis lucifugus hastissue:1" ; Times: 1
+	Query: "Sylvicapra grimmia " ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes institutioncode:DMNS" ; Times: 1
+	Query: "medicine" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon" ; Times: 1
+	Query: "Corynorhinus townsendii " ; Times: 1
+	Query: "Cervidae" ; Times: 1
+	Query: "Martes" ; Times: 1
+	Query: "Papio ursinus " ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:concolor family:Felidae" ; Times: 2
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "Ateles geoffroyi " ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Castor canadensis mappable:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 2
+	Query: "genus:erethizon (dorsatum) mappable:1" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon institutioncode:DMNS" ; Times: 1
+	Query: "Alces alces alces" ; Times: 3
+	Query: "catalognumber:447" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:15684?seid=3128381&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera preparations:baleen" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:3054?seid=1074170&#34;" ; Times: 2
+	Query: "Alces alces shirasi" ; Times: 3
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:5864?seid=1418956&#34;" ; Times: 2
+	Query: "distance(location,geopoint(45.935151399,-95.4601457))&lt;30782" ; Times: 4
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Otospermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tragelaphus imberbis" ; Times: 1
+	Query: "Monachus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:7420?seid=1174373&#34;" ; Times: 4
+	Query: "Didelphis virginiana mappable:1" ; Times: 9
+	Query: "scientificname:&#34;alouatta caraya&#34;" ; Times: 1
+	Query: "Tragelaphus spekii " ; Times: 1
+	Query: "Lama glama" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 3
+	Query: "odocoileus virginianus" ; Times: 5
+	Query: "Vulpes macrotis" ; Times: 14
+	Query: "Giraffa camelopardalis" ; Times: 4
+	Query: "vntype:specimen specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Berkeley CA" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon mappable:1" ; Times: 1
+	Query: "Rangifer tarandus " ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon institutioncode:DMNS" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:7819?seid=268400&#34;" ; Times: 6
+	Query: "Lynx canadensis mappable:1" ; Times: 1
+	Query: "county:&#34;Bernalillo&#34; stateprovince:&#34;New mexico&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:DMNS" ; Times: 1
+	Query: "Loxodonta africana cyclotis" ; Times: 4
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "genus:Zapus catalognumber:10639 institutioncode:DMNS" ; Times: 2
+	Query: "Erethizon dorsatum mappable:1" ; Times: 5
+	Query: "Ovis ammon " ; Times: 1
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "Aotus zonalis " ; Times: 1
+	Query: "Tapirus" ; Times: 1
+	Query: "scientificname:&#34;ateles geoffroyi&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:5860?seid=1603827&#34;" ; Times: 6
+	Query: "puma" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "halichoerus grypus" ; Times: 5
+	Query: "sorex merriami" ; Times: 1
+	Query: "distance(location,geopoint(26.4004249545,-97.741822877))&lt;19845" ; Times: 1
+	Query: "&#34;puma concolor&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:chama genus:Vulpes institutioncode:DMNS" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:185?seid=1046148&#34;" ; Times: 2
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "viverridae" ; Times: 3
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive)" ; Times: 1
+	Query: "Caracal caracal mappable:1" ; Times: 1
+	Query: "Panthera pardus mappable:1" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (callithrix)" ; Times: 1
+	Query: "Acinonyx jubatus " ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "vulpes macrotis" ; Times: 1
+	Query: "Hyaenidae mappable:1" ; Times: 1
+	Query: "Camelus dromedarius dromedarius" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:3052?seid=75228&#34;" ; Times: 2
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "Lama glama mappable:1" ; Times: 2
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Loxodonta cyclotis" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:2280?seid=52773&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes" ; Times: 1
+	Query: "Judson year &gt;= 1908" ; Times: 1
+	Query: "Urocitellus armatus " ; Times: 1
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "stateprovince:&#34;guam&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Tamias lengthinmm &gt;= 100 lengthinmm &lt;= 300 institutioncode:DMNS lengthtype:total length hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Ursus americanus" ; Times: 4
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "scientificname:&#34;aotus lemurinus&#34;" ; Times: 1
+	Query: "Ursus maritimus mappable:1" ; Times: 2
+	Query: "genus:Sylvilagus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:stephensi genus:Neotoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "xerospermophilus spilosoma" ; Times: 1
+	Query: "Ovibos moschatus " ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "UTM Zone Map" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo)" ; Times: 1
+	Query: "Myrmecophaga tridactyla " ; Times: 1
+	Query: "Pikas" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "voles" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "scientificname:&#34;alouatta palliata&#34;" ; Times: 1
+	Query: "Arctocephalus australis " ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive) institutioncode:DMNS" ; Times: 1
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "catalognumber:8839 institutioncode:DMNS" ; Times: 1
+	Query: "Tragelaphus spekii" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (pongo pygmaeus)" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:15679?seid=3127798&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:Tamias stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Choloepus hoffmanni " ; Times: 1
+	Query: "Myoprocta pratti " ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "Hyaenidae" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (colobus)" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "class:Mammalia bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:8161?seid=261479&#34;" ; Times: 2
+	Query: "st. lawrence island" ; Times: 1
+	Query: "didelphis &#34;virginiana&#34; mappable:1" ; Times: 2
+	Query: "scientificname:&#34;acinonyx jubatus&#34;" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "Cebus capucinus " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Zapus catalognumber:10697 institutioncode:DMNS" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Raphicerus campestris " ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;calhoun&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "peromyscus difficilis" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:120?seid=1502362&#34;" ; Times: 2
+	Query: "scientificname:&#34;callithrix argentata&#34;" ; Times: 1
+	Query: "Tragelaphus strepsiceros " ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "scientificname:&#34;myotis ciliolabrum&#34;" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon institutioncode:DMNS" ; Times: 1
+	Query: "mustela nigripes" ; Times: 52
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:5862?seid=375541&#34;" ; Times: 2
+	Query: "Bassariscus astutus" ; Times: 7
+	Query: "Panthera leo mappable:1" ; Times: 1
+	Query: "&#34;sylvilagus floridanus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "Tragelaphus angasii" ; Times: 1
+	Query: "Chrysocyon brachyurus " ; Times: 1
+	Query: "neofelis" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:6743?seid=1396592&#34;" ; Times: 6
+	Query: "Tamias minimus" ; Times: 1
+	Query: "hystrix" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:2443?seid=1676341&#34;" ; Times: 6
+	Query: "loxodonta" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:17550?seid=3529154&#34;" ; Times: 4
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:griseus genus:Lycalopex" ; Times: 1
+	Query: "Panthera pardus" ; Times: 9
+	Query: "Nyctinomops macrotis " ; Times: 1
+	Query: "Thomomys clusius " ; Times: 1
+	Query: "ursus americanus" ; Times: 6
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 2
+	Query: "dasypus novemcinctus mappable:1" ; Times: 7
+	Query: "genus:Zapus catalognumber:8512 institutioncode:DMNS" ; Times: 1
+	Query: "distance(location,geopoint(26.0674514330001,-98.143681322))&lt;2793" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "&#34;mephitis mephitis&#34; vntype:specimen country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Kobus leche " ; Times: 1
+	Query: "rodent" ; Times: 3
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Acinonyx jubatus mappable:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sorex preblei " ; Times: 1
+	Query: "spilogale putorius" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Cervus stateprovince:California" ; Times: 1
+	Query: "scientificname:&#34;perimyotis subflavus&#34;" ; Times: 1
+	Query: "tamias speciosus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:16536?seid=3219030&#34;" ; Times: 4
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 1
+	Query: "Caracal caracal" ; Times: 2
+	Query: "Alces alces gigas" ; Times: 3
+	Query: "placenta" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Halichoerus grypus " ; Times: 1
+	Query: "Arctocephalus gazella " ; Times: 1
+	Query: "genus:erethizon mappable:1" ; Times: 1
+	Query: "(hind limb)" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "nyctinomops macrotis texas" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:6741?seid=1030031&#34;" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "scientificname:&#34;callicebus moloch&#34;" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "Hippotragus niger " ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:5861?seid=1517818&#34;" ; Times: 2
+	Query: "scientificname:&#34;corynorhinus townsendii&#34;" ; Times: 1
+	Query: "genus:Zapus catalognumber:8838 institutioncode:DMNS" ; Times: 1
+	Query: "Xerospermophilus spilosoma " ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon institutioncode:DMNS" ; Times: 1
+	Query: "Equus" ; Times: 4
+	Query: "specificepithet:gapperi genus:myodes hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:6744?seid=759289&#34;" ; Times: 2
+	Query: "catalognumber:10638 institutioncode:DMNS" ; Times: 2
+	Query: "Ursus arctos" ; Times: 4
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 4
+	Query: "dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:johnstoni genus:Okapia" ; Times: 1
+	Query: "Urocitellus elegans " ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 4
+	Query: "Aotus lemurinus " ; Times: 1
+	Query: "catalognumber:10697 institutioncode:DMNS" ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (zoo OR captive) institutioncode:DMNS" ; Times: 1
+	Query: "Hystrix africaeaustralis " ; Times: 1
+	Query: "didelphis virginiana mappable:1" ; Times: 5
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "Mazama americana " ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida stateprovince:&#34;COLORADO&#34;" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon" ; Times: 1
+	Query: "Bradypus variegatus " ; Times: 1
+	Query: "13773" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo) institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 2
+	Query: "Alces alces americana" ; Times: 3
+	Query: "13778" ; Times: 1
+	Query: "Mustela nigripes " ; Times: 1
+	Query: "mammal stateprovince:&#34;guam&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufus genus:Tamias institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "bobolink" ; Times: 3
+	Query: "Tragelaphus strepsiceros" ; Times: 1
+	Query: "Lama guanicoe " ; Times: 1
+	Query: "tamias quadrivittatus" ; Times: 2
+	Query: "myrmecophaga" ; Times: 1
+	Query: "bassariscus" ; Times: 1
+	Query: "mice" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "1185" ; Times: 1
+	Query: "ursus arctos" ; Times: 2
+	Query: "Dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Tragelaphus eurycerus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:16604?seid=3222078&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:17516?seid=3516878&#34;" ; Times: 4
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "Chaetodipus hispidus " ; Times: 1
+	Query: "saguinus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/DMNS:Mamm:3053?seid=829721&#34;" ; Times: 2
+	Query: "Genetta genetta " ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "zapus hudsonius luteus" ; Times: 2
+	Query: "Vulpes macrotis " ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "didelphis mappable:1" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 1
+	Query: "Paraxerus cepapi " ; Times: 1
+	Query: "Martes americana" ; Times: 2
+	Query: "rockwell institutioncode:DMNS" ; Times: 1
+	Query: "scientificname:&#34;nyctinomops macrotis&#34;" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "Myotis ciliolabrum " ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Vulpes velox " ; Times: 1
+	Query: "locality:San Francisco Pass county:&#34;Las Animas&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Ozotoceros bezoarticus " ; Times: 1
+	Query: "genus:hystrix" ; Times: 1
+	Query: "genus:Zapus catalognumber:8839 institutioncode:DMNS" ; Times: 1
+	Query: "Tapirus terrestris " ; Times: 1
+	Query: "family:Mustelidae" ; Times: 1
+	Query: "Dasyprocta punctata " ; Times: 1
+	Query: "Erethizon &#34;dorsatum&#34; mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 129 (out of 1892 download events in this period)
+Total number of records downloaded: 35523
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 96
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 5
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-12 ; Times: 5
+	Date: 2018-02-13 ; Times: 11
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-01 ; Times: 70
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-20 ; Times: 9
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "tremarctos" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "xerospermophilus spilosoma" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "nyctinomops macrotis texas" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "melursus" ; Times: 1
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes hasmass:1" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Tamias merriami" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 2
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "&#34;sylvilagus floridanus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "class:Mammalia" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "class:Mammalia institutioncode:DMNS" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "&#34;procyon lotor&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "genus:Odocoileus stateprovince:&#34;California&#34; year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+	Query: "Peromyscus difficilis" ; Times: 1
+
+
+End of report.
