@@ -1,0 +1,309 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 428
+Number of records retrieved in searches: 6184
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 5
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 21
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 26
+	Country: Finland ; Times: 1
+	Country: India ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 309
+	Country: Austria ; Times: 1
+	Country: China ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Germany ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 11
+	Date: 2018-05-29 ; Times: 17
+	Date: 2018-05-20 ; Times: 5
+	Date: 2018-05-21 ; Times: 12
+	Date: 2018-05-22 ; Times: 20
+	Date: 2018-05-23 ; Times: 21
+	Date: 2018-05-24 ; Times: 11
+	Date: 2018-05-25 ; Times: 9
+	Date: 2018-05-26 ; Times: 9
+	Date: 2018-05-27 ; Times: 6
+	Date: 2018-05-06 ; Times: 10
+	Date: 2018-05-07 ; Times: 24
+	Date: 2018-05-04 ; Times: 27
+	Date: 2018-05-05 ; Times: 5
+	Date: 2018-05-02 ; Times: 20
+	Date: 2018-05-03 ; Times: 15
+	Date: 2018-05-01 ; Times: 26
+	Date: 2018-05-08 ; Times: 10
+	Date: 2018-05-09 ; Times: 7
+	Date: 2018-05-31 ; Times: 11
+	Date: 2018-05-30 ; Times: 12
+	Date: 2018-05-15 ; Times: 16
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-17 ; Times: 20
+	Date: 2018-05-16 ; Times: 27
+	Date: 2018-05-11 ; Times: 20
+	Date: 2018-05-10 ; Times: 18
+	Date: 2018-05-13 ; Times: 9
+	Date: 2018-05-12 ; Times: 7
+	Date: 2018-05-19 ; Times: 8
+	Date: 2018-05-18 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Clear creek&#34; stateprovince:&#34;Colorado&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Colorado&#34; mappable:1 hastissue:1" ; Times: 3
+	Query: "Tayassu Tajacu" ; Times: 4
+	Query: "Microtus longicaudus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Macropus rufus " ; Times: 1
+	Query: "Microtus ochrogaster year &gt;= 2000 hastissue:1" ; Times: 2
+	Query: "Priodontes" ; Times: 2
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 3
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 7
+	Query: "Canis latrans" ; Times: 2
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "genus:Priodontes basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yuma&#34; stateprovince:&#34;colorado&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "order:Chiroptera AND hastypestatus:1 AND NOT (MSB)" ; Times: 2
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "adams specificepithet:nigripes" ; Times: 1
+	Query: "vntype:specimen genus:Canis hastissue:1" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Ursus americanus texas" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "texas tech" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus mappable:1 hastissue:1" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:pikes peak stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "gulo gulo" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1870 year &lt;= 1879" ; Times: 2
+	Query: "howelli" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "alouatta caraya" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Pikes peak stateprovince:&#34;colorado&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "10048" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "specificepithet:concolor genus:puma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "3779" ; Times: 1
+	Query: "county:&#34;Willacy&#34;" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "beetle" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Dogs" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic) institutioncode:DMNS" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "county:&#34;Pierce County&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 36
+	Query: "mummy" ; Times: 6
+	Query: "tridecemlineatus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "genus:Bison stateprovince:&#34;Oklahoma&#34; year &gt;= 1860 year &lt;= 1920" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1870 year &lt;= 1879" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "Microtus pennsylvanicus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "vntype:specimen family:Phocidae preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "Microtus montanus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "order:Chiroptera hastypestatus:1" ; Times: 2
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "vntype:specimen genus:Tamias stateprovince:&#34;New Mexico&#34; institutioncode:DMNS" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 3
+	Query: "deer mice" ; Times: 2
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 6
+	Query: "Microtus mexicanus hastissue:1" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pueblo&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:DMNS" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "east texas wildlife" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1900 year &lt;= 1909 institutioncode:DMNS" ; Times: 1
+	Query: "1348" ; Times: 2
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Archuleta&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:DMNS mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Yuma&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 2
+	Query: "(Oreamnos)" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "7799" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Lake&#34; stateprovince:&#34;Colorado&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 32
+	Query: "Microtus pennsylvanicus year &gt;= 2000" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 6
+	Query: "distance(location,geopoint(45.935151399,-95.4601457))&lt;30782" ; Times: 2
+	Query: "distance(location,geopoint(45.4726993784101,-93.738240342895))&lt;25496" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "sylvilagus nuttallii" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Microtus montanus year &gt;= 2000 institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela lengthtype:total length" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 6
+	Query: "mustela nigripes" ; Times: 72
+	Query: "specificepithet:maniculatus genus:Peromyscus mappable:1 hastissue:1" ; Times: 4
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 15
+	Query: "OJO DE AGUA (VERACRUZ)" ; Times: 1
+	Query: "tayassu tajacu" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yuma&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Jefferson&#34; stateprovince:&#34;Colorado&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Chiroptera AND (voucher) hastypestatus:1" ; Times: 1
+	Query: "alces" ; Times: 1
+	Query: "neotoma mexicana" ; Times: 4
+	Query: "Microtus longicaudus year &gt;= 2000 institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:balaenopteridae preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "Microtus longicaudus year &gt;= 2000" ; Times: 1
+	Query: "Microtus ochrogaster year &gt;= 2000 institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "A. G. Burr" ; Times: 2
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Microtus californicus year &gt;= 2000 institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "vntype:specimen class:mammalia preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "mule deer" ; Times: 1
+	Query: "perimyotis subflavus" ; Times: 2
+	Query: "adams specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "Hemitragus" ; Times: 3
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1900 year &lt;= 1909 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:yuma stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Microtus pennsylvanicus year &gt;= 2000 institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "(Microtus ) hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "Sylvilagus nuttallii" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Jefferson&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Onychomys hastissue:1" ; Times: 1
+	Query: "class:Mammalia hastypestatus:1" ; Times: 1
+	Query: "Buteo lagopus" ; Times: 2
+	Query: "luteolus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:DMNS" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "vntype:specimen (Microtus ) hastissue:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1910 year &lt;= 1919 institutioncode:DMNS" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Humans" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Archuleta&#34; stateprovince:&#34;Colorado&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 4
+	Query: "chaetophractus" ; Times: 1
+	Query: "locality:yellowstone" ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1178 download events in this period)
+Total number of records downloaded: 2475
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "chiroptera mexico" ; Times: 3
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "OJO DE AGUA (VERACRUZ)" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "vntype:specimen genus:Tamias stateprovince:&#34;New Mexico&#34; institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
