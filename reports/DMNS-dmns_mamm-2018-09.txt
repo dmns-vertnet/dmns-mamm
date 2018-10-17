@@ -1,0 +1,281 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 404
+Number of records retrieved in searches: 4659
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 8
+	Country: Russia ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 100
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 10
+	Country: Costa Rica ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 243
+	Country: Unknown ; Times: 6
+	Country: Australia ; Times: 2
+	Country: China ; Times: 8
+	Country: United Kingdom ; Times: 2
+	Country: Iceland ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 16
+	Date: 2018-09-23 ; Times: 19
+	Date: 2018-09-02 ; Times: 5
+	Date: 2018-09-03 ; Times: 7
+	Date: 2018-09-26 ; Times: 11
+	Date: 2018-09-01 ; Times: 8
+	Date: 2018-09-20 ; Times: 12
+	Date: 2018-09-21 ; Times: 30
+	Date: 2018-09-22 ; Times: 4
+	Date: 2018-09-05 ; Times: 8
+	Date: 2018-09-08 ; Times: 4
+	Date: 2018-09-09 ; Times: 4
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-29 ; Times: 4
+	Date: 2018-09-30 ; Times: 17
+	Date: 2018-09-11 ; Times: 18
+	Date: 2018-09-10 ; Times: 14
+	Date: 2018-09-13 ; Times: 43
+	Date: 2018-09-12 ; Times: 13
+	Date: 2018-09-15 ; Times: 3
+	Date: 2018-09-14 ; Times: 9
+	Date: 2018-09-17 ; Times: 33
+	Date: 2018-09-16 ; Times: 4
+	Date: 2018-09-19 ; Times: 38
+	Date: 2018-09-18 ; Times: 11
+	Date: 2018-09-24 ; Times: 12
+	Date: 2018-09-25 ; Times: 17
+	Date: 2018-09-27 ; Times: 5
+	Date: 2018-09-06 ; Times: 14
+	Date: 2018-09-07 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:6979 institutioncode:DMNS" ; Times: 1
+	Query: "raccoon skull" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes year &gt;= 2000" ; Times: 1
+	Query: "5178" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 1
+	Query: "catalognumber:13683 institutioncode:DMNS" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "Mountain lion" ; Times: 1
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 2
+	Query: "cougar" ; Times: 1
+	Query: "catalognumber:12116 institutioncode:DMNS" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "aplodontia rufa" ; Times: 6
+	Query: "Panthera onca" ; Times: 3
+	Query: "14840" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "county:&#34;sheridan&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "catalognumber:13183 institutioncode:DMNS" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 5
+	Query: "class:Mammalia (os clitoris)" ; Times: 3
+	Query: "Old woman creek" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "spilogale" ; Times: 1
+	Query: "Rodent" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 33
+	Query: "bison" ; Times: 1
+	Query: "genus:Ochotona hasmass:1 haslength:1" ; Times: 1
+	Query: "skeleton vntype:specimen (male female)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Krutzsch p" ; Times: 6
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "skeleton vntype:specimen (male female )" ; Times: 1
+	Query: "Wolverine" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "Reading" ; Times: 1
+	Query: "catalognumber:11019 institutioncode:DMNS" ; Times: 1
+	Query: "myodes gapperi" ; Times: 6
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "class:Mammalia Coendou prehensilis" ; Times: 1
+	Query: "class:Mammalia county:&#34;sheridan&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 5
+	Query: "R 15654" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "rhino" ; Times: 1
+	Query: "catalognumber:7125 &#34;procyon lotor&#34;" ; Times: 1
+	Query: "lagopus lagopus" ; Times: 1
+	Query: "catalognumber:13650 institutioncode:DMNS" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Otaria" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus" ; Times: 2
+	Query: "monster" ; Times: 6
+	Query: "14042" ; Times: 1
+	Query: "catalognumber:1688 institutioncode:DMNS" ; Times: 1
+	Query: "family:Cricetidae order:Rodentia basisofrecord:PreservedSpecimen hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "Perognathus parvus" ; Times: 2
+	Query: "lycalopex griseus" ; Times: 2
+	Query: "Zapus hudsonius preblei mappable:1" ; Times: 1
+	Query: "(baculum)" ; Times: 1
+	Query: "LAGOPUS LAGOPUS" ; Times: 1
+	Query: "genus:Tamias locality:Evergreen stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "TAMANDUA MEXICANA" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Hyaena" ; Times: 1
+	Query: "body size" ; Times: 1
+	Query: "catalognumber:6676 institutioncode:DMNS" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "catalognumber:6522 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "catalognumber:12796 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera family:Felidae order:Carnivora lengthtype:total length haslength:1" ; Times: 1
+	Query: "catalognumber:2331 institutioncode:DMNS" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 2
+	Query: "recordedby:Saunders" ; Times: 2
+	Query: "specificepithet:erminea genus:mustela" ; Times: 4
+	Query: "panthera leo" ; Times: 14
+	Query: "Bison bison" ; Times: 6
+	Query: "catalognumber:12327 institutioncode:DMNS" ; Times: 1
+	Query: "devil" ; Times: 1
+	Query: "catalognumber:7002 &#34;didelphis virginiana&#34;" ; Times: 1
+	Query: "specificepithet:ciliolabrum genus:myotis hastissue:1" ; Times: 2
+	Query: "microtus pinetorum" ; Times: 5
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 3
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+	Query: "mustela nigripes" ; Times: 66
+	Query: "pecari" ; Times: 3
+	Query: "family:canidae order:carnivora genus:urocyon hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "prairie dog" ; Times: 2
+	Query: "odocoileus virginianus" ; Times: 6
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "berkeley museum of vertebrate zoology" ; Times: 1
+	Query: "catalognumber:7112 &#34;didelphis virginiana&#34;" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 13
+	Query: "harms" ; Times: 1
+	Query: "family:Felidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "class:Mammalia (baubellum)" ; Times: 2
+	Query: "family:canidae order:carnivora hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "specificepithet:evotis genus:myotis" ; Times: 2
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 3
+	Query: "specificepithet:astutus genus:bassariscus" ; Times: 3
+	Query: "specificepithet:bottae genus:thomomys hastissue:1" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 3
+	Query: "coendou prehensilis" ; Times: 6
+	Query: "catalognumber:1597 institutioncode:DMNS" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 4
+	Query: "erignathus" ; Times: 1
+	Query: "Grizzly bear" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:7124 &#34;procyon lotor&#34;" ; Times: 1
+	Query: "lama" ; Times: 1
+	Query: "mustela erminea 500" ; Times: 1
+	Query: "museum specimen coendou prehensilis" ; Times: 1
+	Query: "catalognumber:13836 &#34;sylvilagus floridanus&#34;" ; Times: 2
+	Query: "erethizontidae" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 4
+	Query: "16678" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 3
+	Query: "sorex vagrans" ; Times: 2
+	Query: "catalognumber:8495 institutioncode:DMNS" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "catalognumber:16427 institutioncode:DMNS" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "Panthera tigris" ; Times: 2
+	Query: "rat skull" ; Times: 1
+	Query: "Tamias obscurus" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 5
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "mus musculus haslifestage:1 haslength:1" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "catalognumber:12800 institutioncode:DMNS" ; Times: 1
+	Query: "catalognumber:9820 institutioncode:DMNS" ; Times: 2
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "Giraffa camelopardalis}" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 846 download events in this period)
+Total number of records downloaded: 9021
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-13 ; Times: 5
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 8
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-07 ; Times: 9
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gazella genus:Oryx mappable:1" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera mappable:1" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "notiosorex" ; Times: 3
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis mappable:1" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Mountain lion" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus mappable:1" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "family:Felidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+	Query: "specificepithet:niger genus:Hippotragus mappable:1" ; Times: 1
+
+
+End of report.
