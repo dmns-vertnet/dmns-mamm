@@ -1,0 +1,308 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 461
+Number of records retrieved in searches: 4564
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 11
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 49
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 318
+	Country: China ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 55
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 19
+	Date: 2018-06-06 ; Times: 23
+	Date: 2018-06-05 ; Times: 40
+	Date: 2018-06-04 ; Times: 24
+	Date: 2018-06-03 ; Times: 12
+	Date: 2018-06-02 ; Times: 14
+	Date: 2018-06-01 ; Times: 9
+	Date: 2018-06-25 ; Times: 17
+	Date: 2018-06-24 ; Times: 4
+	Date: 2018-06-27 ; Times: 5
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-21 ; Times: 12
+	Date: 2018-06-20 ; Times: 14
+	Date: 2018-06-23 ; Times: 9
+	Date: 2018-06-08 ; Times: 18
+	Date: 2018-06-09 ; Times: 7
+	Date: 2018-06-22 ; Times: 11
+	Date: 2018-06-10 ; Times: 4
+	Date: 2018-06-11 ; Times: 15
+	Date: 2018-06-12 ; Times: 66
+	Date: 2018-06-13 ; Times: 17
+	Date: 2018-06-14 ; Times: 11
+	Date: 2018-06-15 ; Times: 11
+	Date: 2018-06-16 ; Times: 8
+	Date: 2018-06-17 ; Times: 8
+	Date: 2018-06-18 ; Times: 20
+	Date: 2018-06-19 ; Times: 14
+	Date: 2018-06-30 ; Times: 13
+	Date: 2018-06-29 ; Times: 10
+	Date: 2018-06-28 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "Canis latrans new mexico mearnsi" ; Times: 3
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "dipodomys microps" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:DMNS" ; Times: 2
+	Query: "canis lupus nubilus" ; Times: 1
+	Query: "Hartman" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "Canis latrans new mexico Socorro County" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Lycaon pictus	 100" ; Times: 3
+	Query: "puma concolor" ; Times: 4
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "Panthera onca" ; Times: 2
+	Query: "Black bear" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "giraffa" ; Times: 2
+	Query: "Lynx rufus" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "99460" ; Times: 2
+	Query: "alouatta palliata" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus" ; Times: 3
+	Query: "Conepatus leuconotus" ; Times: 2
+	Query: "antilocapra" ; Times: 6
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 34
+	Query: "gulo gulo" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "pierce county fish" ; Times: 1
+	Query: "Rhododendron" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34; stateprovince:&#34;CAlifornia&#34; hasmass:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 3
+	Query: "family:Elephantidae skull" ; Times: 7
+	Query: "serengeti mammalia" ; Times: 2
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "humans" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "serengeti" ; Times: 1
+	Query: "recordedby:Breese" ; Times: 1
+	Query: "bobcat" ; Times: 5
+	Query: "specificepithet:latrans genus:Canis country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1909 institutioncode:DMNS" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;colorado&#34; (niwot)" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "genus:hydrurga" ; Times: 1
+	Query: "notiosorex" ; Times: 3
+	Query: "wolverine" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1910 year &lt;= 1919 institutioncode:DMNS" ; Times: 2
+	Query: "Wolf Skull" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 8
+	Query: "acomys" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 1
+	Query: "maxwell colorado" ; Times: 4
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1920 year &lt;= 1929 institutioncode:DMNS" ; Times: 2
+	Query: "Ursus arctos" ; Times: 3
+	Query: "(ventura pinos)" ; Times: 1
+	Query: "Rattus skeleton" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1910 year &lt;= 1919" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1900 year &lt;= 1909" ; Times: 2
+	Query: "genus:neofelis" ; Times: 3
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;by cat&#34;" ; Times: 8
+	Query: "Ochotona hastissue:1" ; Times: 8
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949" ; Times: 2
+	Query: "genus:puma" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex year &gt;= 1990" ; Times: 1
+	Query: "black bear" ; Times: 6
+	Query: "mazama americana" ; Times: 2
+	Query: "Elephantidae" ; Times: 1
+	Query: "scientificname:panthera onca " ; Times: 4
+	Query: "raccoon" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "mountain lion" ; Times: 5
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "genus:peromyscus county:&#34;boulder&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1930 year &lt;= 1939 institutioncode:DMNS" ; Times: 2
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "vntype:specimen family:dipodidae hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 7
+	Query: "Alnus" ; Times: 1
+	Query: "family:Lemuridae institutioncode:DMNS" ; Times: 14
+	Query: "NOTIOSOREX" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1930 year &lt;= 1939" ; Times: 2
+	Query: "specificepithet:albigula genus:Neotoma hastissue:1" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "cats" ; Times: 1
+	Query: "distance(location,geopoint(45.2768308818963,-93.7703836750571))&lt;20247" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "grizzly bear" ; Times: 5
+	Query: "bull frog" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "mustela nigripes" ; Times: 68
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "CM 4230" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "priodontes" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 3
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1870 year &lt;= 1879" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1909" ; Times: 3
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "Bobcat" ; Times: 2
+	Query: "rainbow trout" ; Times: 4
+	Query: "family:canidae preparations:skeleton" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "white-tailed deer" ; Times: 1
+	Query: "vntype:specimen hastypestatus:1 hastissue:1" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "black tail deer" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 10
+	Query: "Puma concolor" ; Times: 7
+	Query: "Microtus richardsoni year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "tk 10858" ; Times: 1
+	Query: "confinis hastissue:1" ; Times: 1
+	Query: "porch" ; Times: 1
+	Query: "San Diego Zoo Mammalia" ; Times: 4
+	Query: "CM 4601" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 5
+	Query: "caracal" ; Times: 1
+	Query: "puppy" ; Times: 1
+	Query: "Canada specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "earhart" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "tayassu pecari" ; Times: 8
+	Query: "frog north america" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 31
+	Query: "mammoth" ; Times: 1
+	Query: "Microtus richardsoni year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "audio" ; Times: 1
+	Query: "Mountain Lion" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1169 download events in this period)
+Total number of records downloaded: 4566
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 11
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 9
+	Date: 2018-06-08 ; Times: 8
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-19 ; Times: 8
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 14
+	Date: 2018-06-04 ; Times: 6
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-13 ; Times: 4
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "rainbow trout" ; Times: 2
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "Cougar" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "canis lupus nubilus" ; Times: 1
+	Query: "vntype:specimen family:dipodidae hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "black tail deer" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;colorado&#34; (niwot)" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "frog" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 8
+	Query: "American Beaver" ; Times: 4
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "mountain lion" ; Times: 5
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "Nyctinomops" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Mountain Lion" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+
+
+End of report.
