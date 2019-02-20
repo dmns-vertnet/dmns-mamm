@@ -1,0 +1,527 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1081
+Number of records retrieved in searches: 14059
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 13
+	Country: Italy ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Ecuador ; Times: 5
+	Country: Benin ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Netherlands ; Times: 9
+	Country: Turkey ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 945
+	Country: Sweden ; Times: 1
+	Country: New Zealand ; Times: 23
+	Country: Russia ; Times: 4
+	Country: Mexico ; Times: 42
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 238
+	Date: 2019-01-23 ; Times: 16
+	Date: 2019-01-26 ; Times: 18
+	Date: 2019-01-18 ; Times: 12
+	Date: 2019-01-19 ; Times: 5
+	Date: 2019-01-14 ; Times: 46
+	Date: 2019-01-15 ; Times: 22
+	Date: 2019-01-30 ; Times: 147
+	Date: 2019-01-17 ; Times: 18
+	Date: 2019-01-10 ; Times: 38
+	Date: 2019-01-11 ; Times: 16
+	Date: 2019-01-12 ; Times: 10
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-03 ; Times: 6
+	Date: 2019-01-02 ; Times: 6
+	Date: 2019-01-29 ; Times: 232
+	Date: 2019-01-28 ; Times: 29
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 18
+	Date: 2019-01-06 ; Times: 10
+	Date: 2019-01-05 ; Times: 4
+	Date: 2019-01-04 ; Times: 22
+	Date: 2019-01-21 ; Times: 5
+	Date: 2019-01-20 ; Times: 10
+	Date: 2019-01-09 ; Times: 13
+	Date: 2019-01-22 ; Times: 28
+	Date: 2019-01-25 ; Times: 47
+	Date: 2019-01-24 ; Times: 26
+	Date: 2019-01-27 ; Times: 15
+	Date: 2019-01-08 ; Times: 10
+	Date: 2019-01-16 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:9811 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "Puma" ; Times: 2
+	Query: "specificepithet:nuttallii genus:sylvilagus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Naemorhedus" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:DMNS" ; Times: 17
+	Query: "panthera" ; Times: 2
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 7
+	Query: "notiosorex crawfordi" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 13
+	Query: "ttu" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &lt;= 1930" ; Times: 1
+	Query: "Switzerland" ; Times: 1
+	Query: "novemcinctus" ; Times: 1
+	Query: "dipodomys ordii hasmass:1" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America lifestage:Adult hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "specificepithet:elegans genus:Urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 5
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 11
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 25
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Porcupine" ; Times: 2
+	Query: "196788" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;Dasypus novemcinctus&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;orange&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "genus:Ochotona hastissue:1" ; Times: 2
+	Query: "22239" ; Times: 1
+	Query: "&#34;virginiana&#34;" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "10812" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lateralis genus:callospermophilus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Colorado&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "&#34;Erethizon&#34; &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "specificepithet:sonomae genus:tamias" ; Times: 1
+	Query: "16464" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 19
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Panthera onca" ; Times: 56
+	Query: "Canis latrans" ; Times: 1
+	Query: "barbatus" ; Times: 1
+	Query: "catalognumber:8141 institutioncode:DMNS" ; Times: 2
+	Query: "dasypus" ; Times: 1
+	Query: "hastissue:1 peromyscus californicus" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "(erethizon dorsatum)" ; Times: 1
+	Query: "specificepithet:siskiyou genus:tamias institutioncode:DMNS" ; Times: 5
+	Query: "genus:Onychomys county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias" ; Times: 2
+	Query: "APHIS" ; Times: 2
+	Query: "13877" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "tremarctos ornatus" ; Times: 15
+	Query: "specificepithet:lateralis genus:callospermophilus" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "(&#34;didelphis virginiana&#34;)" ; Times: 1
+	Query: "eumetopias jubatus" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "stuff" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "specificepithet:montanus genus:microtus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puma concolor" ; Times: 8
+	Query: "specificepithet:elegans genus:urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias" ; Times: 4
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 30
+	Query: "Alcelaphus buselaphus" ; Times: 1
+	Query: "(Puma concolor)" ; Times: 1
+	Query: "&#34;panthera Onca&#34;" ; Times: 1
+	Query: "(&#34;dasypus novemcinctus&#34;)" ; Times: 2
+	Query: "Mule Deer" ; Times: 1
+	Query: "class:Mammalia county:&#34;Sandoval&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:siskiyou genus:tamias" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 13
+	Query: "spilogale" ; Times: 1
+	Query: "Oryx" ; Times: 2
+	Query: "Monachus schauinslandi" ; Times: 1
+	Query: "specificepithet:tridecemlineatus genus:ictidomys stateprovince:&#34;colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "15284" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 10
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "13917" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "specificepithet:schauinslandi genus:monachus" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 2
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 15000 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:striatus genus:tamias institutioncode:DMNS" ; Times: 4
+	Query: "lepus californicus" ; Times: 1
+	Query: "notiosorex" ; Times: 10
+	Query: "hydrurga leptonyx" ; Times: 23
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias" ; Times: 2
+	Query: "&#34;Panthera tigris&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "&#34;mellivora capensis&#34;" ; Times: 3
+	Query: "dermoptera west java" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "(&#34;dasypus&#34; &#34;novemcinctus&#34;)" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 2
+	Query: "&#34;panthera onca&#34;" ; Times: 1
+	Query: "“Erethizon dorsatum”" ; Times: 3
+	Query: "&#34;Hystrix&#34; &#34;Hystrix africaeaustralis&#34;" ; Times: 1
+	Query: "&#34;ailurus fulgens&#34;" ; Times: 2
+	Query: "genus:Onychomys county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "how to cite VertNet" ; Times: 1
+	Query: "specificepithet:palmeri genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:gazella gazella" ; Times: 3
+	Query: "genus:Martes stateprovince:&#34;British Columbia&#34; AND (pennanti)" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "&#34;dasypus&#34; &#34;novemcinctus&#34;" ; Times: 1
+	Query: "Erethizon (erethizon dorsatum)" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "&#34;erethizon dorsatum&#34;" ; Times: 9
+	Query: "Ursus arctos" ; Times: 2
+	Query: "antilocapra" ; Times: 1
+	Query: "genus:Panthera hastissue:1" ; Times: 1
+	Query: "hastypestatus:1 &#34;TK&#34;" ; Times: 6
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Dasypus (dasypus novemcinctus)" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 4
+	Query: "Monachus" ; Times: 1
+	Query: "hastissue:1 peromyscus boylii" ; Times: 1
+	Query: "&#34;San Miguel Island&#34; AND 1880" ; Times: 1
+	Query: "country:(Tajikistan OR Tadzhikistan OR Tojikiston)" ; Times: 1
+	Query: "3464" ; Times: 1
+	Query: "warreni" ; Times: 5
+	Query: "didelphis virginiana" ; Times: 17
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 19
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "(&#34;Didelphis Virginiana&#34;)" ; Times: 1
+	Query: "specificepithet:elegans class:Mammalia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:guanicoe genus:lama" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "&#34;Didelphis Virginiana&#34;" ; Times: 3
+	Query: "Elephantidae" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 5
+	Query: "Didelphimorphia" ; Times: 2
+	Query: "specificepithet:umbrinus genus:tamias" ; Times: 3
+	Query: "(Ursus arctos)" ; Times: 1
+	Query: "specificepithet:mogollonensis genus:microtus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Ailurus fulgens)" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 5
+	Query: "myocastor coypus" ; Times: 1
+	Query: "specificepithet:tridecemlineatus genus:ictidomys stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Ochotona princeps" ; Times: 4
+	Query: "Panorama" ; Times: 1
+	Query: "Parasites" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus" ; Times: 1
+	Query: "8054" ; Times: 1
+	Query: "22236" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:DMNS" ; Times: 12
+	Query: "specificepithet:rufus genus:Lynx continent:North America preparations:study hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "order:carnivora stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "bats" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 12
+	Query: "specificepithet:merriami genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:elegans stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "8745" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "&#34;Urocyon cinereoargenteus&#34;" ; Times: 1
+	Query: "&#34;didelphis&#34; &#34;virginiana&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 11
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;Nebraska&#34; continent:North America lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "“Porcupine”" ; Times: 1
+	Query: "devil" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "cacajao" ; Times: 2
+	Query: "taxidea" ; Times: 2
+	Query: "specificepithet:tridecemlineatus genus:ictidomys stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Didelphis (didelphis virginiana)" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "sorex preblei" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "specificepithet:Vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "tapiridae" ; Times: 1
+	Query: "Giraffa" ; Times: 1
+	Query: "Panthera tigris altaica" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Colorado&#34; year &gt;= 1900 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 24
+	Query: "specificepithet:canipes genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "&#34;ursus&#34;" ; Times: 2
+	Query: "(&#34;Erethizon Dorsatum&#34;)" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 4
+	Query: "Canis rufus" ; Times: 2
+	Query: "9628" ; Times: 1
+	Query: "Alces alces" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 10000 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "microtus richardsoni hastissue:1" ; Times: 2
+	Query: "genus:Lasiurus country:&#34;ecuador&#34;" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 40
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "rangifer tarandus caribou" ; Times: 1
+	Query: "specificepithet:rufus genus:tamias institutioncode:DMNS" ; Times: 5
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;Texas&#34; continent:North America lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:16408 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:Leucopus genus:Peromyscus continent:North America lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:speciosus genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 4
+	Query: "west java (dermoptera)" ; Times: 1
+	Query: "hastissue:1 peromyscus truei" ; Times: 1
+	Query: "&#34;Antilocapra americana&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "&#34;erethizon&#34; &#34;dorsatum&#34;" ; Times: 1
+	Query: "&#34;Ursus arctos horribilis&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "monster" ; Times: 2
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 42
+	Query: "(&#34;Suricata suricatta&#34;)" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 2
+	Query: "&#34;Dasypus&#34; &#34;novemcinctus&#34;" ; Times: 1
+	Query: "12343" ; Times: 2
+	Query: "genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "rainbow trout" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 19
+	Query: "“Didelphimorphia” “Didelphis virginiana”" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 18000 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "(&#34;Dasypus Novemcinctus&#34;)" ; Times: 3
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "13818" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus family:Cricetidae hastissue:1" ; Times: 1
+	Query: "Synaptomys" ; Times: 1
+	Query: "Rhynchocyon petersi" ; Times: 2
+	Query: "(dermoptera) institutioncode:DMNS" ; Times: 1
+	Query: "family:Phocidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "family:felidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 56
+	Query: "Dasypodidae" ; Times: 3
+	Query: "family:tapiridae hasmedia:1" ; Times: 3
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "(Didelphis virginiana)" ; Times: 3
+	Query: "(Dasypus novemcinctus)" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 11
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "&#34;Didelphimorphia&#34; &#34;Didelphis virginiana&#34;" ; Times: 1
+	Query: "specificepithet:sonomae genus:tamias institutioncode:DMNS" ; Times: 2
+	Query: "dermoptera" ; Times: 3
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 8
+	Query: "specificepithet:wiedii genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:tamias" ; Times: 2
+	Query: "dermoptera (west java)" ; Times: 1
+	Query: "Adult specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "(Giraffa camelopardalis)" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "specificepithet:boylii genus:Peromyscus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera hastissue:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;North Dakota&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:DMNS" ; Times: 3
+	Query: "(Taxidea taxus)" ; Times: 1
+	Query: "rangifer tarandus country:&#34;Canada&#34;" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;North Dakota&#34; country:&#34;United States&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias institutioncode:DMNS" ; Times: 3
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "(Erethizon dorsatum)" ; Times: 1
+	Query: "Sorex merriami year &gt;= 2005 hastissue:1" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 8
+	Query: "(&#34;chaetophractus villosus&#34;)" ; Times: 1
+	Query: "(&#34;ailurus fulgens&#34;)" ; Times: 1
+	Query: "specificepithet:obscurus genus:tamias" ; Times: 3
+	Query: "catalognumber:14265 institutioncode:DMNS" ; Times: 2
+	Query: "pricei arizona" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias" ; Times: 2
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "(&#34;Didelphis virginiana&#34;)" ; Times: 2
+	Query: "15171" ; Times: 1
+	Query: "Erethizon dorsatum]" ; Times: 1
+	Query: "taxidea taxus" ; Times: 3
+	Query: "“Didelphis virginiana”" ; Times: 1
+	Query: "virus" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "Northwest territories specificepithet:vulpes genus:vulpes family:Canidae" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 21
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias institutioncode:DMNS" ; Times: 4
+	Query: "ursus americanus" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 4
+	Query: "Microtus richardsoni hastissue:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 6
+	Query: "family:mustelidae order:Carnivora preparations:skull hasmedia:1" ; Times: 2
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:obscurus genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "(&#34;Dasypus novemcinctus&#34;)" ; Times: 1
+	Query: "specificepithet:senex genus:tamias institutioncode:DMNS" ; Times: 3
+	Query: "specificepithet:panamintinus genus:tamias institutioncode:DMNS" ; Times: 5
+	Query: "genus:Vulpes vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "didelphis (didelphis virginiana)" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Nebraska&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 27
+	Query: "&#34;erethizon&#34;" ; Times: 1
+	Query: "(&#34;Erethizon dorsatum&#34;)" ; Times: 3
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34;" ; Times: 14
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "mummy" ; Times: 1
+	Query: "tapirus" ; Times: 1
+	Query: "specificepithet:rufus genus:tamias" ; Times: 1
+	Query: "genus:notiosorex" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;united&#34;" ; Times: 1
+	Query: "&#34;dorsatum&#34;" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 3
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "&#34;Ursus maritimus&#34;" ; Times: 3
+	Query: "specificepithet:carolinensis genus:Sciurus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "sorex merriami" ; Times: 3
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 218 (out of 962 download events in this period)
+Total number of records downloaded: 3834
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 195
+	Country: Ecuador ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-30 ; Times: 36
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 3
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-31 ; Times: 51
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 50
+	Date: 2019-01-28 ; Times: 16
+	Date: 2019-01-07 ; Times: 6
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 6
+	Date: 2019-01-25 ; Times: 10
+	Date: 2019-01-27 ; Times: 14
+	Date: 2019-01-26 ; Times: 3
+	Date: 2019-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "dermoptera" ; Times: 35
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 3
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Monodelphis domestica" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 19
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 14
+	Query: "specificepithet:truei genus:Peromyscus family:Cricetidae hastissue:1" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "specificepithet:schauinslandi genus:monachus" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "elephas maximus" ; Times: 1
+	Query: "hastissue:1 peromyscus californicus" ; Times: 1
+	Query: "hastypestatus:1 &#34;TK&#34;" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "specificepithet:subflavus genus:Perimyotis mappable:1 year&gt;=1948 year&lt;=2019" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:elegans genus:urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "hastissue:1 peromyscus boylii" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "specificepithet:lateralis genus:callospermophilus" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 3
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "hastissue:1 peromyscus truei" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 1
+	Query: "cynocephalidae" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "class:Mammalia county:&#34;orange&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "genus:Ochotona hastissue:1" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 12
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+
+
+End of report.
