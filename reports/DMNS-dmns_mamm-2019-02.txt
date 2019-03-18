@@ -1,0 +1,301 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 415
+Number of records retrieved in searches: 7865
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 78
+	Country: Unknown ; Times: 6
+	Country: Indonesia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 245
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 9
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Denmark ; Times: 32
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 13
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-11 ; Times: 14
+	Date: 2019-02-10 ; Times: 11
+	Date: 2019-02-13 ; Times: 51
+	Date: 2019-02-12 ; Times: 11
+	Date: 2019-02-15 ; Times: 29
+	Date: 2019-02-14 ; Times: 29
+	Date: 2019-02-17 ; Times: 20
+	Date: 2019-02-16 ; Times: 31
+	Date: 2019-02-19 ; Times: 21
+	Date: 2019-02-18 ; Times: 10
+	Date: 2019-02-02 ; Times: 17
+	Date: 2019-02-03 ; Times: 9
+	Date: 2019-02-26 ; Times: 7
+	Date: 2019-02-01 ; Times: 3
+	Date: 2019-02-20 ; Times: 18
+	Date: 2019-02-07 ; Times: 10
+	Date: 2019-02-04 ; Times: 11
+	Date: 2019-02-05 ; Times: 12
+	Date: 2019-02-08 ; Times: 9
+	Date: 2019-02-09 ; Times: 3
+	Date: 2019-02-28 ; Times: 19
+	Date: 2019-02-25 ; Times: 13
+	Date: 2019-02-27 ; Times: 23
+	Date: 2019-02-06 ; Times: 4
+	Date: 2019-02-21 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:minimus genus:tamias institutioncode:DMNS" ; Times: 2
+	Query: "catalognumber:11140 institutioncode:DMNS" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "vulpes macrotis" ; Times: 1
+	Query: "Alexander Wilson" ; Times: 1
+	Query: "12010" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus stateprovince:&#34;Colorado&#34; year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "sciurus niger colorado" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "10817" ; Times: 1
+	Query: "country:(Tajikistan)" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "fox squirrel" ; Times: 1
+	Query: "Panthera onca" ; Times: 21
+	Query: "drexel" ; Times: 1
+	Query: "cynomys ludovicianus" ; Times: 16
+	Query: "specificepithet:flaviventris genus:marmota institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota catalognumber:12929 institutioncode:DMNS" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "marmota caligata" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "alouatta palliata" ; Times: 5
+	Query: "panthera onca" ; Times: 8
+	Query: "myotis californicus hastissue:1" ; Times: 1
+	Query: "catalognumber:12345 institutioncode:DMNS" ; Times: 1
+	Query: "(Vassar)" ; Times: 1
+	Query: "catalognumber:12091 institutioncode:DMNS" ; Times: 2
+	Query: "Tajikistan" ; Times: 2
+	Query: "Panthera leo" ; Times: 2
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 32
+	Query: "lycaon pictus" ; Times: 1
+	Query: "Peromyscus maniculatus &#34;embryo&#34;" ; Times: 1
+	Query: "CM-4601" ; Times: 1
+	Query: "foxes" ; Times: 1
+	Query: "country:(Russia)" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 8
+	Query: "catalognumber:12093 institutioncode:DMNS" ; Times: 2
+	Query: "Tamias quadrimaculatus" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Blarina" ; Times: 2
+	Query: "&#34;Ursus americanus&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:Sorex" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 50
+	Query: "&#34;Neotoma albigula&#34; vntype:specimen" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "CM 20144" ; Times: 2
+	Query: "Apodemus" ; Times: 2
+	Query: "Sorex preblei" ; Times: 1
+	Query: "myotis ciliolabrum hastissue:1" ; Times: 18
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "1688 sylvilagus" ; Times: 1
+	Query: "genus:pecari stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis californicus hastissue:1" ; Times: 3
+	Query: "specificepithet:Alces alces" ; Times: 2
+	Query: "neotoma stephensi" ; Times: 5
+	Query: "lycalopex griseus" ; Times: 1
+	Query: "otis hastissue:1" ; Times: 1
+	Query: "Russia" ; Times: 2
+	Query: "neotoma albigula" ; Times: 5
+	Query: "myotis ciliolabrum" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela institutioncode:DMNS" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "bears" ; Times: 1
+	Query: "body size" ; Times: 7
+	Query: "dasyprocta" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "mountain lion" ; Times: 3
+	Query: "Myotis californicus" ; Times: 1
+	Query: "&#34;Oreamnos americanus&#34;" ; Times: 1
+	Query: "country:Russia" ; Times: 2
+	Query: "specificepithet:nasutus genus:Peromyscus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "tayassu pecari" ; Times: 2
+	Query: "Neotoma albigula vntype:specimen" ; Times: 1
+	Query: "eptesicus fuscus hastissue:1" ; Times: 4
+	Query: "&#34;didelphis virginiana&#34;" ; Times: 1
+	Query: "catalognumber:8698 institutioncode:DMNS" ; Times: 1
+	Query: "ALOUATTA PALLIATA" ; Times: 2
+	Query: "vntype:specimen year &gt;= 2012 year &lt;= 2019 hassex:1 hasmedia:1 hastissue:1" ; Times: 1
+	Query: "Neotoma stephensi" ; Times: 2
+	Query: "panthera tigris." ; Times: 2
+	Query: "Lagothrix lagotricha" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 3
+	Query: "Elephantidae hastissue:1" ; Times: 1
+	Query: "Otis hastissue:1" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Megalonychidae" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "poliocitellus" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 4
+	Query: "Denver Zoo" ; Times: 4
+	Query: "skull genus:Vulpes family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Zapus hudsonius preblei" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:speciosus genus:tamias institutioncode:DMNS" ; Times: 3
+	Query: "Conepatus leuconotus" ; Times: 5
+	Query: "nycticebus" ; Times: 1
+	Query: "Vulpes velox" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 5
+	Query: "rattus skeleton" ; Times: 1
+	Query: "albigula" ; Times: 1
+	Query: "genus:Apodemus" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Ichneumia albicauda" ; Times: 2
+	Query: "rainbow trout" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "nautilus" ; Times: 2
+	Query: "yagouaroundi" ; Times: 4
+	Query: "canis adustus" ; Times: 1
+	Query: "Sorex longirostris" ; Times: 1
+	Query: "catalognumber:7220 institutioncode:DMNS" ; Times: 1
+	Query: "Vulpes chama" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Puma concolor" ; Times: 4
+	Query: "(trowbridge OR trowbridgii)" ; Times: 1
+	Query: "catalognumber:1893 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota catalognumber:11704 institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota catalognumber:11659 institutioncode:DMNS" ; Times: 1
+	Query: "setonix brachyurus" ; Times: 1
+	Query: "EAR 8523 sorex hastissue:1" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 7
+	Query: "myotis evotis hastissue:1" ; Times: 1
+	Query: "30254" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 1
+	Query: "Pinnacles locality:Pinnacles stateprovince:&#34;California&#34; institutioncode:DMNS" ; Times: 1
+	Query: "Panthera pardus" ; Times: 4
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:californicus genus:Myotis hasmass:1" ; Times: 1
+	Query: "antrozous pallidus hastissue:1" ; Times: 1
+	Query: "Dasypus" ; Times: 3
+	Query: "Macropus rufus" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes continent:North America basisofrecord:PreservedSpecimen hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "(body size)" ; Times: 4
+	Query: "myocastor coypus" ; Times: 7
+	Query: "13701" ; Times: 1
+	Query: "citizen science" ; Times: 1
+	Query: "female pelvis" ; Times: 1
+	Query: "Caracal caracal mappable:1" ; Times: 6
+	Query: "mus vntype:specimen genus:mus hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1227 download events in this period)
+Total number of records downloaded: 1427
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-14 ; Times: 11
+	Date: 2019-02-13 ; Times: 5
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 8
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-08 ; Times: 6
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-21 ; Times: 3
+	Date: 2019-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "canis lupus Mexico" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Neotoma albigula vntype:specimen" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "ALOUATTA PALLIATA" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 3
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Apodemus" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "Dasypus" ; Times: 1
+	Query: "neotoma stephensi" ; Times: 4
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "poliocitellus" ; Times: 1
+	Query: "Vulpes chama" ; Times: 1
+	Query: "lycalopex griseus" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:DMNS" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "canis adustus" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+
+
+End of report.
