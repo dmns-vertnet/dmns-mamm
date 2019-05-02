@@ -1,0 +1,382 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 505
+Number of records retrieved in searches: 6595
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 69
+	Country: Colombia ; Times: 15
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 40
+	Country: Denmark ; Times: 7
+	Country: India ; Times: 29
+	Country: France ; Times: 1
+	Country: United States ; Times: 316
+	Country: Switzerland ; Times: 1
+	Country: Guatemala ; Times: 8
+	Country: Vietnam ; Times: 2
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 22
+	Date: 2019-04-19 ; Times: 23
+	Date: 2019-04-18 ; Times: 24
+	Date: 2019-04-05 ; Times: 13
+	Date: 2019-04-12 ; Times: 6
+	Date: 2019-04-11 ; Times: 7
+	Date: 2019-04-10 ; Times: 13
+	Date: 2019-04-17 ; Times: 8
+	Date: 2019-04-16 ; Times: 11
+	Date: 2019-04-15 ; Times: 9
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-30 ; Times: 34
+	Date: 2019-04-21 ; Times: 4
+	Date: 2019-04-01 ; Times: 7
+	Date: 2019-04-02 ; Times: 18
+	Date: 2019-04-03 ; Times: 28
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-04 ; Times: 40
+	Date: 2019-04-23 ; Times: 31
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-07 ; Times: 11
+	Date: 2019-04-26 ; Times: 47
+	Date: 2019-04-27 ; Times: 8
+	Date: 2019-04-24 ; Times: 46
+	Date: 2019-04-25 ; Times: 38
+	Date: 2019-04-28 ; Times: 9
+	Date: 2019-04-29 ; Times: 11
+	Date: 2019-04-08 ; Times: 14
+	Date: 2019-04-09 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "dendrolagus lumholtzi" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;denver&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "specificepithet:pygmaeus genus:Pongo year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "Notiosorex" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus hastissue:1" ; Times: 5
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereus genus:lasiurus hastissue:1" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "zapus princeps" ; Times: 5
+	Query: "Myotis septentrionalis year &lt;= 1970" ; Times: 2
+	Query: "specificepithet:arctos family:ursidae hasmedia:1" ; Times: 2
+	Query: "Ursus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "TK 47506" ; Times: 1
+	Query: "specificepithet:beecheyi" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Puma yagouaroundi mappable:1" ; Times: 3
+	Query: "Ursus americanus" ; Times: 6
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 5
+	Query: "lycaon" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 3
+	Query: "Maxwell Colorado" ; Times: 1
+	Query: "genus:Spermophilus OR Callospermophilus OR Urocitellus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 3
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 3
+	Query: "Panthera onca" ; Times: 5
+	Query: "loxodonta" ; Times: 2
+	Query: "genus:caracal class:mammalia" ; Times: 10
+	Query: "primates costa rica" ; Times: 6
+	Query: "Mazama americana" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yuma&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "TTU 47506" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "mammalia &#34;yosemite&#34; year &gt;= 1906 year &lt;= 2018" ; Times: 1
+	Query: "county:&#34;willacy&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "spilogale" ; Times: 1
+	Query: "genus:Dipodomys" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 3
+	Query: "genus:Spermophilus OR Callospermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+	Query: "Leopardus wiedii mappable:1" ; Times: 3
+	Query: "specificepithet:Maniculatus genus:Peromyscus hastissue:1" ; Times: 4
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;clear creek&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "deer mouse" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes preparations:ethanol" ; Times: 1
+	Query: "Alouatta caraya mappable:1" ; Times: 4
+	Query: "Myotis velifer" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "specificepithet:matacus genus:Tolypeutes" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "genus:Conepatus institutioncode:DMNS" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 3
+	Query: "Cuniculus paca mappable:1" ; Times: 4
+	Query: "family:ursidae hasmedia:1" ; Times: 8
+	Query: "mummy" ; Times: 2
+	Query: "locality:Nebraska" ; Times: 1
+	Query: "notiosorex" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 1
+	Query: "DMNS Mammal specimens 10798" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "specificepithet:trinotatus genus:Zapus" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 6
+	Query: "monster" ; Times: 2
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "mammal &#34;yosemite&#34; year &gt;= 1906 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Clear Creek&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "emporia" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;new mexico&#34; hastissue:1" ; Times: 1
+	Query: "deer mice" ; Times: 39
+	Query: "mountain lion" ; Times: 2
+	Query: "DMNS 8717" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "25385 class:Mammalia" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "Leopardus geoffroyi mappable:1" ; Times: 3
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "ateles geoffroyi" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "(Denver Botanic)" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Feline" ; Times: 1
+	Query: "10653" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereus genus:lasiurus year &gt;= 2009 year &lt;= 2010 hastissue:1" ; Times: 6
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Saimiri sciureus mappable:1" ; Times: 3
+	Query: "bobcat" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Deer Mice" ; Times: 9
+	Query: "30150 class:Mammalia" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Procyon cancrivorus mappable:1" ; Times: 3
+	Query: "Myotis californicus" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:xerospermophilus class:mammalia institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Sandoval&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "tragelaphus spekii" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "mustela nigripes" ; Times: 2
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 3
+	Query: "genus:Mephitis institutioncode:DMNS" ; Times: 1
+	Query: "10313" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;clark&#34; stateprovince:&#34;nevada&#34; hastissue:1" ; Times: 1
+	Query: "genus:Puma" ; Times: 2
+	Query: "pamir" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus institutioncode:DMNS hastissue:1" ; Times: 4
+	Query: "ailurus fulgens" ; Times: 29
+	Query: "86174" ; Times: 2
+	Query: "(Chatfield)" ; Times: 1
+	Query: "lynx rufus" ; Times: 3
+	Query: "11235" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Arapahoe&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "neovison vison" ; Times: 2
+	Query: "genus:Spilogale institutioncode:DMNS" ; Times: 1
+	Query: "Myrmecophaga tridactyla mappable:1" ; Times: 3
+	Query: "california ground squirrel" ; Times: 5
+	Query: "Vulpes velox" ; Times: 4
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 5
+	Query: "Peyton institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "(Deer Creek Colorado)" ; Times: 1
+	Query: "caracal class:mammalia" ; Times: 5
+	Query: "marmot" ; Times: 1
+	Query: "Otospermophilus beecheyi (California Ground Squirrel)" ; Times: 1
+	Query: "genus:xerospermophilus" ; Times: 3
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "Acinonyx jubatus" ; Times: 2
+	Query: "Parkers Prairie" ; Times: 5
+	Query: "12171 order:rodentia" ; Times: 1
+	Query: "deer mice stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "genus:Conepatus" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "(mustela frenata)" ; Times: 1
+	Query: "recordedby:McLean" ; Times: 1
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "Tayassu pecari mappable:1" ; Times: 3
+	Query: "preparations:skeleton massing &gt;= 400000 massing &lt;= 1000000 hasmass:1" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "hydromys" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 10
+	Query: "conepatus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 12
+	Query: "caracal" ; Times: 3
+	Query: "puma yagouaroundi" ; Times: 4
+	Query: "preparations:skeleton massing &gt;= 350000 massing &lt;= 100000000 hasmass:1" ; Times: 1
+	Query: "Deer mice" ; Times: 12
+	Query: "Martes americana" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "ursus" ; Times: 3
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "massing &gt;= 400000 massing &lt;= 1000000 hasmass:1" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:xerospermophilus institutioncode:DMNS" ; Times: 1
+	Query: "mustela frenata" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "locality:mount Evans county:&#34;clear creek&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 2
+	Query: "spleen" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 5
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "deer mice hastissue:1" ; Times: 2
+	Query: "175723" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "genus:notiosorex" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus stateprovince:&#34;Wyoming&#34; hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 1263 download events in this period)
+Total number of records downloaded: 6232
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 58
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 11
+	Date: 2019-04-02 ; Times: 22
+	Date: 2019-04-05 ; Times: 3
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-30 ; Times: 9
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "canis lupus (mexico)" ; Times: 2
+	Query: "lycaon pictus" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "&#34;Microtus californicus&#34;" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "genus:caracal class:mammalia" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "primates costa rica" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Parkers Prairie" ; Times: 2
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Myotis occultus" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "preparations:skeleton massing &gt;= 350000 massing &lt;= 100000000 hasmass:1" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
