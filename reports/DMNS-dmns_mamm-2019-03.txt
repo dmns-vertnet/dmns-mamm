@@ -1,0 +1,308 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 359
+Number of records retrieved in searches: 4216
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 36
+	Country: Denmark ; Times: 58
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 234
+	Country: Russia ; Times: 3
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 18
+	Date: 2019-03-27 ; Times: 6
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 32
+	Date: 2019-03-23 ; Times: 3
+	Date: 2019-03-08 ; Times: 27
+	Date: 2019-03-21 ; Times: 14
+	Date: 2019-03-20 ; Times: 15
+	Date: 2019-03-05 ; Times: 17
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-07 ; Times: 8
+	Date: 2019-03-06 ; Times: 23
+	Date: 2019-03-01 ; Times: 9
+	Date: 2019-03-29 ; Times: 13
+	Date: 2019-03-22 ; Times: 5
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-15 ; Times: 3
+	Date: 2019-03-30 ; Times: 11
+	Date: 2019-03-31 ; Times: 7
+	Date: 2019-03-03 ; Times: 6
+	Date: 2019-03-18 ; Times: 23
+	Date: 2019-03-19 ; Times: 21
+	Date: 2019-03-16 ; Times: 3
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-14 ; Times: 7
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 31
+	Date: 2019-03-10 ; Times: 12
+	Date: 2019-03-11 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 2
+	Query: "Reithrodontomys fulvescens" ; Times: 3
+	Query: "DMNS 15664" ; Times: 2
+	Query: "DMNS 12960" ; Times: 1
+	Query: "DMNS 11678" ; Times: 1
+	Query: "class:Mammalia county:&#34;King&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "DMNS 12363" ; Times: 3
+	Query: "15285" ; Times: 1
+	Query: "VOLES" ; Times: 2
+	Query: "Puma yagouaroundi" ; Times: 26
+	Query: "specificepithet:macrotis genus:Vulpes family:Canidae" ; Times: 1
+	Query: "Microtus montanus hasmass:1" ; Times: 7
+	Query: "specificepithet:torquatus institutioncode:DMNS" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 3
+	Query: "order:Artiodactyla country:&#34;Canada&#34;" ; Times: 2
+	Query: "puma concolor" ; Times: 3
+	Query: "Mus musculus vntype:specimen haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 5
+	Query: "canis mesomelas" ; Times: 1
+	Query: "specificepithet:maximus genus:Priodontes" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra" ; Times: 2
+	Query: "Panthera onca" ; Times: 8
+	Query: "specificepithet:ochrogaster genus:microtus hastissue:1" ; Times: 4
+	Query: "CUNICULUS PACA" ; Times: 1
+	Query: "vntype:specimen genus:Dasypus" ; Times: 1
+	Query: "neovison vison" ; Times: 12
+	Query: "specificepithet:brachyurus genus:Chrysocyon family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "panthera onca" ; Times: 6
+	Query: "DMNS 11098" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:villosus genus:Chaetophractus" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM)" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Galerella sanguinea" ; Times: 2
+	Query: "genus:Tamiasciurus hasmass:1" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "DMNS 11144" ; Times: 1
+	Query: "panthera tigris mappable:1" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis family:Canidae AND (NOT UTEP)" ; Times: 1
+	Query: "Crocuta crocuta skeleton" ; Times: 1
+	Query: "CM 6855" ; Times: 1
+	Query: "DMNS 16483" ; Times: 2
+	Query: "DMNS 16482" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus" ; Times: 4
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "Gorilla gorilla hasmass:1" ; Times: 1
+	Query: "Botswana vntype:specimen specificepithet:pictus family:Canidae" ; Times: 1
+	Query: "Blarina" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 2
+	Query: "mummy" ; Times: 1
+	Query: "DMNS 11687" ; Times: 1
+	Query: "DMNS 11872" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 20
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB)" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus hastissue:1" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hasmass:1" ; Times: 1
+	Query: "Gorilla gorilla gorilla hasmass:1" ; Times: 1
+	Query: "acadia" ; Times: 1
+	Query: "mustela erminea" ; Times: 1
+	Query: "Puma concolor hasmass:1" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "genus:Dasypus hastissue:1" ; Times: 1
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Elephantidae" ; Times: 2
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "Ursus Maritimus" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 2
+	Query: "franklinii" ; Times: 1
+	Query: "DMNS 15059" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "15088" ; Times: 1
+	Query: "DMNS 13136" ; Times: 2
+	Query: "13871" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:tamiasciurus hasmass:1" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "DMNS 14710" ; Times: 1
+	Query: "genus:Didelphis hasmass:1" ; Times: 1
+	Query: "genus:Dasypus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 1
+	Query: "specificepithet:griseus genus:LYCALOPEX class:MAMMALIA" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 2
+	Query: "genus:Alces year &gt;= 1919 year &lt;= 2018" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "(Antilocapra americana)" ; Times: 2
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH)" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "DMNS 14081" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 6
+	Query: "DMNS 12185" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 4
+	Query: "specificepithet:velox genus:vulpes family:Canidae AND (NOT UTEP)" ; Times: 1
+	Query: "DMNS 12188" ; Times: 1
+	Query: "Bia mappable:1" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "order:Artiodactyla distance(location,geopoint(58.425932110863705,-133.125))&lt;614862" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus)" ; Times: 1
+	Query: "Zapus hudsonius preblei" ; Times: 3
+	Query: "recordedby:Hoare" ; Times: 1
+	Query: "specificepithet:vellerosus genus:Chaetophractus" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "lontra" ; Times: 1
+	Query: "t rex" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 25
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 2
+	Query: "15384" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris)" ; Times: 1
+	Query: "Lynx canadensis hasmass:1" ; Times: 1
+	Query: "DMNS 13115" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "yagouaroundi" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "Botswana vntype:specimen specificepithet:megalotis family:Canidae" ; Times: 1
+	Query: "DMNS 11934" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus hasmass:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "vntype:specimen genus:ORYX" ; Times: 1
+	Query: "mus musculus 322" ; Times: 2
+	Query: "hibernacula" ; Times: 1
+	Query: "skeleton genus:cratogeomys family:geomyidae order:rodentia class:MAMMALIA" ; Times: 1
+	Query: "genus:mustela hastypestatus:1" ; Times: 4
+	Query: "specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 3
+	Query: "DMNS 13907" ; Times: 1
+	Query: "DMNS 13906" ; Times: 1
+	Query: "muricus erminea" ; Times: 1
+	Query: "DMNS 16474" ; Times: 1
+	Query: "DMNS 16475" ; Times: 1
+	Query: "Vulpes macrotis hasmass:1" ; Times: 2
+	Query: "genus:Ondatra" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "Eumetopias jubatus" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH NOT FMNH)" ; Times: 1
+	Query: "Neovison" ; Times: 4
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "DMNS 13113" ; Times: 1
+	Query: "order:Artiodactyla stateprovince:&#34;Nunavut&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "specificepithet:velox genus:vulpes family:Canidae" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom)" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 12
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "DMNS 12963" ; Times: 3
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes family:Canidae (zoo OR captive)" ; Times: 2
+	Query: "mm 424" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Alces" ; Times: 2
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK)" ; Times: 2
+	Query: "DMNS 12193" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 7
+	Query: "12308" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1281 download events in this period)
+Total number of records downloaded: 1465
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-19 ; Times: 4
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 14
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-07 ; Times: 4
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 3
+	Query: "macropus" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "(charadricola OR robertsorum OR thorectes OR hazelae OR sabrina)" ; Times: 1
+	Query: "nutria" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "class:Mammalia county:&#34;King&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "Urocyon hastissue:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "order:Artiodactyla stateprovince:&#34;Nunavut&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "Zapus hudsonius preblei" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Crocuta crocuta skeleton" ; Times: 1
+	Query: "specificepithet:erminea arctica genus:mustela" ; Times: 1
+	Query: "specificepithet:americana origenes genus:martes" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
