@@ -1,0 +1,332 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 397
+Number of records retrieved in searches: 8105
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 54
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 13
+	Country: Mexico ; Times: 32
+	Country: Czechia ; Times: 3
+	Country: India ; Times: 2
+	Country: Peru ; Times: 5
+	Country: Belgium ; Times: 4
+	Country: United States ; Times: 237
+	Country: Sri Lanka ; Times: 12
+	Country: Guatemala ; Times: 4
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 10
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 7
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-09 ; Times: 13
+	Date: 2019-05-08 ; Times: 19
+	Date: 2019-05-07 ; Times: 14
+	Date: 2019-05-06 ; Times: 20
+	Date: 2019-05-05 ; Times: 7
+	Date: 2019-05-04 ; Times: 4
+	Date: 2019-05-03 ; Times: 17
+	Date: 2019-05-02 ; Times: 15
+	Date: 2019-05-01 ; Times: 41
+	Date: 2019-05-25 ; Times: 4
+	Date: 2019-05-24 ; Times: 11
+	Date: 2019-05-27 ; Times: 15
+	Date: 2019-05-26 ; Times: 14
+	Date: 2019-05-21 ; Times: 18
+	Date: 2019-05-20 ; Times: 39
+	Date: 2019-05-23 ; Times: 3
+	Date: 2019-05-22 ; Times: 6
+	Date: 2019-05-29 ; Times: 5
+	Date: 2019-05-28 ; Times: 13
+	Date: 2019-05-19 ; Times: 4
+	Date: 2019-05-10 ; Times: 17
+	Date: 2019-05-11 ; Times: 6
+	Date: 2019-05-13 ; Times: 36
+	Date: 2019-05-14 ; Times: 14
+	Date: 2019-05-15 ; Times: 23
+	Date: 2019-05-16 ; Times: 3
+	Date: 2019-05-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Bonny Reservoir stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 4
+	Query: "Naemorhedus" ; Times: 2
+	Query: "EAR 5170" ; Times: 1
+	Query: "21 PERU" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 3
+	Query: "glaucomys volans" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 4
+	Query: "Colorado rodents" ; Times: 2
+	Query: "Kobus vardonii" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;sweetwater&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus hastissue:1" ; Times: 4
+	Query: "Ursus maritimus" ; Times: 3
+	Query: "milwaukee" ; Times: 3
+	Query: "county:&#34;russell&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:grand mesa stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "EAR 5171" ; Times: 1
+	Query: "naemorhedus" ; Times: 1
+	Query: "Nasua narica" ; Times: 2
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "TK 47506" ; Times: 3
+	Query: "kobus vardonii" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "Puma yagouaroundi mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Mt.Evans county:&#34;clear creek&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 1
+	Query: "class:mammalia locality:wrangell stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "specificepithet:latrans" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;park&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "Myrmecophaga tridactyla mappable:1" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yuma&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "sorex cinereus year &gt;= 2010 hastissue:1" ; Times: 1
+	Query: "sorex cinereus stateprovince:&#34;colorado&#34; year &gt;= 2007 hastissue:1" ; Times: 2
+	Query: "14580" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "lama guanicoe" ; Times: 5
+	Query: "sorex cinereus stateprovince:&#34;colorado&#34; year &gt;= 2010 hastissue:1" ; Times: 2
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34; hasmass:1" ; Times: 1
+	Query: "martes americana" ; Times: 2
+	Query: "panthera onca" ; Times: 5
+	Query: "white-tailed deer" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Lake County&#34; stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; continent:North America hastissue:1" ; Times: 1
+	Query: "EAR 5147" ; Times: 3
+	Query: "vector" ; Times: 2
+	Query: "(Lemur) institutioncode:DMNS" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "specificepithet:maniculatus. genus:Peromyscus county:&#34;clear creek&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;archuleta&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "acoustic" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Leopardus wiedii mappable:1" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus hastissue:1" ; Times: 2
+	Query: "peromyscus vntype:specimen (skin whole) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "sorex hoyi" ; Times: 3
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "genus:Mustela haslength:1" ; Times: 1
+	Query: "county:&#34;Park&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 2
+	Query: "Alouatta caraya mappable:1" ; Times: 3
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2018 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Saguache&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "lion" ; Times: 2
+	Query: "ursus arctos" ; Times: 1
+	Query: "17 PERU" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Wyoming&#34; hastissue:1" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;sublette&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+	Query: "Geomyidae genus:Thomomys family:Geomyidae country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "notiosorex" ; Times: 2
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 3
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 9
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:mt. evans county:&#34;clear creek&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;lake&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 2
+	Query: "11 PERU" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Wisconsin&#34; year &lt;= 1960" ; Times: 1
+	Query: "Saguinus geoffroyi" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus distance(location,geopoint(47.146846851297866,-101.0677314761445))&lt;100000" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Mt. Evans county:&#34;Clear Creek&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 5
+	Query: "genus:Tamias county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "peromyscus vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "chrysocyon brachyurus mappable:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;clear creek&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "genus:varecia preparations:skeleton" ; Times: 1
+	Query: "tremor" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "deer mice" ; Times: 7
+	Query: "specificepithet:frenata genus:Mustela haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:mt. evans county:&#34;clear creek&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "recordnumber:396" ; Times: 1
+	Query: "tamias senex" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen hastissue:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 3
+	Query: "black bear" ; Times: 1
+	Query: "Leopardus geoffroyi mappable:1" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;Michigan&#34;" ; Times: 1
+	Query: "eumetopias" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;chaffee&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "ursus americanus AND (alaska)" ; Times: 1
+	Query: "locality:Aurora hastissue:1" ; Times: 1
+	Query: "canid" ; Times: 1
+	Query: "18 PERU" ; Times: 1
+	Query: "recordedby:Wiseman" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;clear creek&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Mt.Evans stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "musuem records" ; Times: 1
+	Query: "Saimiri sciureus mappable:1" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;la plata&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "Procyon cancrivorus mappable:1" ; Times: 13
+	Query: "recordedby:Quaintance" ; Times: 1
+	Query: "specificepithet:Bachmani genus:Sylvilagus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Aurora hastissue:1" ; Times: 1
+	Query: "procyon cancrivorus" ; Times: 2
+	Query: "specificepithet:coypus continent:america" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Clear Creek&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "6 PERU" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "10408" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "20 PERU" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma hasmass:1" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "goral" ; Times: 1
+	Query: "bassariscus" ; Times: 1
+	Query: "dahlia" ; Times: 1
+	Query: "antilocapra americana" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus country:&#34;United states&#34; hastissue:1" ; Times: 6
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Bonny reservoir stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "genus:nycticebus preparations:skeleton" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus locality:Mt. Evans county:&#34;Clear Creek&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 3
+	Query: "Zapus trinotatus" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Park&#34; stateprovince:&#34;colorado&#34; hastissue:1" ; Times: 1
+	Query: "elephantidae" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 10
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Higel State county:&#34;Alamosa&#34; stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "peru rodent" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;lincoln&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+	Query: "genus:myocastor" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:maniculatus. genus:Peromyscus stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 2
+	Query: "genus:mus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona hastissue:1" ; Times: 2
+	Query: "bassariscus astutus" ; Times: 5
+	Query: "genus:lemur preparations:skeleton" ; Times: 2
+	Query: "Puma concolor" ; Times: 14
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "175723" ; Times: 3
+	Query: "mustela nigripes" ; Times: 5
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Sweetwater&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 22
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "peromyscus lung" ; Times: 3
+	Query: "lily" ; Times: 1
+	Query: "Gigas" ; Times: 3
+	Query: "Kenyon AND ISland" ; Times: 1
+	Query: "vntype:specimen genus:Lemur institutioncode:DMNS" ; Times: 1
+	Query: "EAR 5166" ; Times: 1
+	Query: "EAR 5167" ; Times: 1
+	Query: "&#34;maniculatus&#34; &#34;Wisconsin&#34;" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "ptarmigan" ; Times: 2
+	Query: "15 PERU" ; Times: 1
+	Query: "family:macropodidae preparations:skeleton" ; Times: 1
+	Query: "sorex cinereus hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "&#34;leopardus pardalis&#34;" ; Times: 1
+	Query: "genital" ; Times: 1
+	Query: "ursus americanus" ; Times: 6
+	Query: "equus" ; Times: 1
+	Query: "(bison)" ; Times: 1
+	Query: "specificepithet:canadensis genus:castor" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;jefferson&#34; hastissue:1" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Tayassu pecari mappable:1" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "skull specificepithet:adustus genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "notiosorex crawfordi" ; Times: 1
+	Query: "&#34;panthera onca&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 940 download events in this period)
+Total number of records downloaded: 4259
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-03 ; Times: 2
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "county:&#34;Boulder&#34; stateprovince:&#34;Colorado&#34; institutioncode:DMNS" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "peromyscus vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "peromyscus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+
+End of report.
