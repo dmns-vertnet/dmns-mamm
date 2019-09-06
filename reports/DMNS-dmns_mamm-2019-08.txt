@@ -1,0 +1,417 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 491
+Number of records retrieved in searches: 7498
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 47
+	Country: Canada ; Times: 4
+	Country: Israel ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 17
+	Country: Russia ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 43
+	Country: Guatemala ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Greece ; Times: 2
+	Country: Thailand ; Times: 49
+	Country: Argentina ; Times: 4
+	Country: United States ; Times: 296
+	Country: Dominican Republic ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 27
+	Date: 2019-08-28 ; Times: 7
+	Date: 2019-08-29 ; Times: 9
+	Date: 2019-08-01 ; Times: 7
+	Date: 2019-08-02 ; Times: 7
+	Date: 2019-08-03 ; Times: 8
+	Date: 2019-08-04 ; Times: 3
+	Date: 2019-08-05 ; Times: 67
+	Date: 2019-08-06 ; Times: 5
+	Date: 2019-08-07 ; Times: 32
+	Date: 2019-08-08 ; Times: 16
+	Date: 2019-08-09 ; Times: 13
+	Date: 2019-08-24 ; Times: 25
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-22 ; Times: 15
+	Date: 2019-08-23 ; Times: 6
+	Date: 2019-08-20 ; Times: 25
+	Date: 2019-08-21 ; Times: 50
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-16 ; Times: 7
+	Date: 2019-08-15 ; Times: 24
+	Date: 2019-08-14 ; Times: 8
+	Date: 2019-08-13 ; Times: 18
+	Date: 2019-08-12 ; Times: 9
+	Date: 2019-08-11 ; Times: 4
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 49
+	Date: 2019-08-19 ; Times: 6
+	Date: 2019-08-18 ; Times: 3
+	Date: 2019-08-26 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 2
+	Query: "vulpes macrotis" ; Times: 1
+	Query: "Dasyprocta punctata mappable:1" ; Times: 2
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:DMNS" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "Myotis keenii haslength:1" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "NA haslength:1" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 2
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "recordedby:Aiken institutioncode:DMNS" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "panthera leo" ; Times: 2
+	Query: "Felis lynx" ; Times: 11
+	Query: "Lepus californicus" ; Times: 1
+	Query: "specificepithet:speciosus genus:tamias class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:DMNS" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 2
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "myotis volans" ; Times: 3
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "genus:peromyscus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis lucifugus haslength:1" ; Times: 1
+	Query: "Felis pardalis" ; Times: 5
+	Query: "Puma yagouaroundi mappable:1" ; Times: 2
+	Query: "sciurus variegatoides" ; Times: 2
+	Query: "Myotis sodalis haslength:1" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 2
+	Query: "specificepithet:volans genus:Myotis stateprovince:&#34;Colorado&#34; haslifestage:1 hassex:1" ; Times: 1
+	Query: "Blastocerus dichotomus mappable:1" ; Times: 2
+	Query: "specificepithet:lucifugus genus:myotis year &gt;= 2008 year &lt;= 2019 month &gt;= 7 month &lt;= 9 haslifestage:1" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:DMNS" ; Times: 1
+	Query: "Urocitellus elegans" ; Times: 1
+	Query: "Myrmecophaga tridactyla mappable:1" ; Times: 2
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Myotis septentrionalis haslength:1" ; Times: 2
+	Query: "Panthera onca" ; Times: 13
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "Procyon" ; Times: 1
+	Query: "Goss" ; Times: 1
+	Query: "loxodonta africana" ; Times: 5
+	Query: "Lasiurus borealis haslength:1" ; Times: 2
+	Query: "Ozotoceros bezoarticus" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 18
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Tayassu pecari mappable:1" ; Times: 2
+	Query: "wyoming ground squirrel" ; Times: 1
+	Query: "Myotis yumanensis haslength:1" ; Times: 2
+	Query: "order:pilosa preparations:skeleton" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 2
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(23.26112119962266,-109.98896648314167))&lt;100000" ; Times: 1
+	Query: "family:mustelidae order:carnivora class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Alouatta caraya mappable:1" ; Times: 2
+	Query: "Macrotus californicus haslength:1" ; Times: 2
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 6
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Tamias amounts" ; Times: 2
+	Query: "specificepithet:lucifugus genus:myotis year &gt;= 2008 year &lt;= 2019" ; Times: 2
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 2
+	Query: "Tapirus terrestris mappable:1" ; Times: 2
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Myotis occultus haslength:1" ; Times: 2
+	Query: "marmota flaviventris" ; Times: 3
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Eptesicus fuscus haslength:1" ; Times: 2
+	Query: "order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:DMNS" ; Times: 1
+	Query: "24771" ; Times: 3
+	Query: "catalognumber:6124 institutioncode:DMNS" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "ovibos moschatus" ; Times: 3
+	Query: "Humboldtiana" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "Saguinus geoffroyi" ; Times: 1
+	Query: "recordnumber:244" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 2
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Tapirus pinchaque" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "monachus monachus" ; Times: 1
+	Query: "5581" ; Times: 2
+	Query: "Nasua" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Leopardus geoffroyi mappable:1" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Perimyotis subflavus haslength:1" ; Times: 2
+	Query: "Myotis californicus" ; Times: 1
+	Query: "18903" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 2
+	Query: "order:Rodentia distance(location,geopoint(23.323535683930686,-109.89457869340396))&lt;100000" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "Myotis velifer haslength:1" ; Times: 2
+	Query: "specificepithet:merriami genus:tamias class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:DMNS" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "genus:Cebus haslength:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 9
+	Query: "orthogeomys grandis guatemala" ; Times: 3
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Myotis melanorhinus haslength:1" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "tamandua" ; Times: 1
+	Query: "order:cingulata preparations:skeleton" ; Times: 20
+	Query: "myotis velifer" ; Times: 1
+	Query: "genus:Puma hasmass:1 haslength:1" ; Times: 1
+	Query: "7159" ; Times: 1
+	Query: "Procyon cancrivorus mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:castanops genus:Cratogeomys" ; Times: 1
+	Query: "Sorex trowbridgii" ; Times: 1
+	Query: "lepus americanus" ; Times: 2
+	Query: "Myotis leibii haslength:1" ; Times: 2
+	Query: "specificepithet:lucifugus genus:myotis year &gt;= 2008 year &lt;= 2019 month &gt;= 7 month &lt;= 9 haslength:1" ; Times: 1
+	Query: "Pipistrellus hesperus haslength:1" ; Times: 2
+	Query: "Bassariscus" ; Times: 1
+	Query: "Leopardus colocolo mappable:1" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon hasmass:1 haslength:1" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "Lepus americanus" ; Times: 3
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "catalognumber:6015 institutioncode:DMNS" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "genus:Lemmiscus year &gt;= 2004 year &lt;= 2004" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:DMNS" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 8
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Myotis volans haslength:1" ; Times: 2
+	Query: "douglas squirrel" ; Times: 2
+	Query: "taxidea taxus" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 2
+	Query: "Zapus hudsonius preblei" ; Times: 4
+	Query: "specificepithet:lucifugus genus:myotis year &gt;= 2008 year &lt;= 2019 haslength:1" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 10
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "genus:Antilocapra hasmass:1 haslength:1" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 1
+	Query: "Panthera" ; Times: 2
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:DMNS" ; Times: 2
+	Query: "catalognumber:6042 institutioncode:DMNS" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "catalognumber:6014 institutioncode:DMNS" ; Times: 2
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "Nature camp" ; Times: 2
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "Myotis myotis" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis hasmass:1 haslength:1" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "bos" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 2
+	Query: "Tamandua mexicana NOT Brazil" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "genus:Ursus hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Zapus hudsonius luteus" ; Times: 4
+	Query: "vntype:specimen specificepithet:evotis genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "genus:sorex stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "stillwater rodentia" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "ovibos" ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 2
+	Query: "Urocitellus elegans elegans" ; Times: 1
+	Query: "Tadarida brasiliensis haslength:1" ; Times: 1
+	Query: "Urocitellus elegans stateprovince:&#34;Colorado&#34; hasmass:1" ; Times: 2
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus hasmass:1 haslength:1" ; Times: 1
+	Query: "Buteo lagopus" ; Times: 1
+	Query: "zapus hudsonius luteus" ; Times: 2
+	Query: "country:&#34;germany&#34;" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis year &gt;= 2008 year &lt;= 2019 haslifestage:1 haslength:1" ; Times: 1
+	Query: "Monachus monachus" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1 haslength:1" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "19485" ; Times: 1
+	Query: "genus:macropus continent:north america hastissue:1" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 6
+	Query: "lasionycteris noctivagans" ; Times: 3
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:jubatus genus:Eumetopias" ; Times: 1
+	Query: "order:Rodentia distance(location,geopoint(23.144730557066467,-110.17083688254309))&lt;100000" ; Times: 1
+	Query: "documents" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:DMNS" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "specificepithet:Mephitis genus:mephitis hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias hasmass:1 haslength:1" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 2
+	Query: "Nyctinomops macrotis haslength:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "dmnh" ; Times: 1
+	Query: "Ozotoceros bezoarticus mappable:1" ; Times: 2
+	Query: "Bacteria" ; Times: 6
+	Query: "genus:Panthera hasmass:1 haslength:1" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 20
+	Query: "Black tail deer" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes hasmass:1 haslength:1" ; Times: 1
+	Query: "eulemur" ; Times: 2
+	Query: "hyaenidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 1034 download events in this period)
+Total number of records downloaded: 16081
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Brazil ; Times: 4
+	Country: China ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 5
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-29 ; Times: 9
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-05 ; Times: 12
+	Date: 2019-08-28 ; Times: 5
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-26 ; Times: 4
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "(kingdom:animalia) (hasmass:1) (haslifestage:1) (vntype:specimen)" ; Times: 2
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:evotis genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "vntype:specimen (&#34;Bubo virginianus&#34; OR &#34;Bubo scandiacus&#34; OR &#34;Bubo scandiaca&#34; OR &#34;Nyctea scandiacus&#34; OR &#34;Nyctea scandiaca&#34;)" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "zapus hudsonius luteus" ; Times: 1
+	Query: "genus:sorex stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 7
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "panthera tigris" ; Times: 4
+	Query: "puma concolor" ; Times: 1
+	Query: "myotis occultus" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "mammal" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Procyon" ; Times: 1
+
+
+End of report.
