@@ -1,0 +1,404 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 478
+Number of records retrieved in searches: 9146
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: United States ; Times: 360
+	Country: Mexico ; Times: 36
+	Country: Denmark ; Times: 3
+	Country: United Kingdom ; Times: 9
+	Country: Paraguay ; Times: 1
+	Country: Rwanda ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 10
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 28
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 3
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 11
+	Date: 2019-09-17 ; Times: 8
+	Date: 2019-09-10 ; Times: 8
+	Date: 2019-09-11 ; Times: 6
+	Date: 2019-09-12 ; Times: 15
+	Date: 2019-09-13 ; Times: 23
+	Date: 2019-09-18 ; Times: 12
+	Date: 2019-09-19 ; Times: 11
+	Date: 2019-09-30 ; Times: 11
+	Date: 2019-09-09 ; Times: 10
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 32
+	Date: 2019-09-02 ; Times: 10
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-07 ; Times: 4
+	Date: 2019-09-06 ; Times: 31
+	Date: 2019-09-05 ; Times: 33
+	Date: 2019-09-04 ; Times: 5
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-20 ; Times: 4
+	Date: 2019-09-23 ; Times: 11
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-25 ; Times: 10
+	Date: 2019-09-24 ; Times: 165
+	Date: 2019-09-27 ; Times: 13
+	Date: 2019-09-26 ; Times: 30
+	Date: 2019-09-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "(Lagopus) AND (&#34;Buteo&#34;)" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "Myotis volans haslength:1" ; Times: 1
+	Query: "Myotis septentrionalis haslength:1" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:Sorex" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 1
+	Query: "Alouatta palliata mappable:1" ; Times: 1
+	Query: "Lagopus lagopus AND (buteo)" ; Times: 2
+	Query: "specificepithet:latrans genus:canis class:Mammalia" ; Times: 1
+	Query: "Myotis leibii haslength:1" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 5
+	Query: "specificepithet:gracilis genus:Spilogale hasmass:1 haslength:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Pteropus scapulatus" ; Times: 1
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Grizzly bear museum specimens" ; Times: 1
+	Query: "Myotis lucifugus haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:odocoileus stateprovince:&#34;wyoming&#34; year &gt;= 1900 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis myotis haslength:1" ; Times: 1
+	Query: "pecari tajacu" ; Times: 2
+	Query: "sorex palustris" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Myotis sodalis haslength:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Myotis velifer haslength:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 4
+	Query: "Tamandua mexicana" ; Times: 3
+	Query: "Panthera onca" ; Times: 23
+	Query: "Callicebus moloch mappable:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1977" ; Times: 2
+	Query: "specificepithet:astutus genus:Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 2
+	Query: "DMNS 13951" ; Times: 2
+	Query: "specificepithet:nivalis genus:Mustela hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "specificepithet:terrestris genus:Tapirus" ; Times: 2
+	Query: "Aotus zonalis mappable:1" ; Times: 1
+	Query: "(lagopus) AND (not buteo)" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "loxodonta africana" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 1
+	Query: "order:primates country:&#34;Brazil&#34;" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Myotis yumanensis haslength:1" ; Times: 1
+	Query: "white-tailed deer" ; Times: 2
+	Query: "tayassu pecari" ; Times: 3
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "aotus lemurinus" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus hasmass:1 haslength:1" ; Times: 1
+	Query: "Ateles geoffroyi mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis hastissue:1" ; Times: 1
+	Query: "Varecia rubra" ; Times: 11
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "vntype:specimen genus:Ovibos preparations:Skeleton hassex:1" ; Times: 3
+	Query: "Alouatta caraya mappable:1" ; Times: 1
+	Query: "Macrotus californicus haslength:1" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "zapus luteus hudsonius" ; Times: 2
+	Query: "genus:Cervus hasmass:1 haslength:1" ; Times: 1
+	Query: "Saguinus geoffroyi mappable:1" ; Times: 1
+	Query: "order:Carnivora locality:Mexico" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Perimyotis subflavus haslength:1" ; Times: 1
+	Query: "Mustela frenata" ; Times: 2
+	Query: "specificepithet:oeconomus genus:Microtus" ; Times: 1
+	Query: "Microtus pennsylvanicus 1995" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "Myotis melanorhinus haslength:1" ; Times: 1
+	Query: "Myotis occultus haslength:1" ; Times: 1
+	Query: "Cervus elaphus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 3
+	Query: "panthera leo" ; Times: 2
+	Query: "specificepithet:princeps genus:Zapus hasmass:1 haslength:1" ; Times: 1
+	Query: "Eptesicus fuscus haslength:1" ; Times: 1
+	Query: "Vassar" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "atoyac" ; Times: 1
+	Query: "varecia rubra" ; Times: 5
+	Query: "monster" ; Times: 1
+	Query: "Microtus pennsylvanicus 2011" ; Times: 1
+	Query: "nivalis mustela" ; Times: 1
+	Query: "genus:Eumetopias family:Otariidae (skull) haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Lontra hasmass:1 haslength:1" ; Times: 1
+	Query: "Grizzly bear museum" ; Times: 1
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2007" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hasmass:1 haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 1998" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "specificepithet:lupus genus:canis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Antidorcas" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "Peromyscus maniculatus 1988" ; Times: 4
+	Query: "Peromyscus maniculatus 1979" ; Times: 4
+	Query: "genus:Ovibos preparations:Skeleton hassex:1" ; Times: 1
+	Query: "genus: Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1981" ; Times: 2
+	Query: "Peromyscus maniculatus 1980" ; Times: 4
+	Query: "Peromyscus maniculatus 1982" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus hasmass:1 haslength:1" ; Times: 1
+	Query: "Sorex trowbridgii" ; Times: 2
+	Query: "Peromyscus maniculatus 1987" ; Times: 4
+	Query: "gbifdatasetid:5f3463d2-51b6-4a8a-b252-9bab4388934e" ; Times: 2
+	Query: "mirounga angustirostris" ; Times: 2
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "heart vntype:specimen hasmedia:1" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 2
+	Query: "genus:cynomys stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 12
+	Query: "nigripes Mustela" ; Times: 5
+	Query: "Saimiri sciureus mappable:1" ; Times: 1
+	Query: "DMNS 12409" ; Times: 2
+	Query: "specificepithet:rufus genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "MSB 233593" ; Times: 2
+	Query: "bison Bison" ; Times: 2
+	Query: "genus:macrotus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Microtus pennsylvanicus 1994" ; Times: 1
+	Query: "Peromyscus maniculatus 2009" ; Times: 2
+	Query: "Peromyscus maniculatus 2008" ; Times: 3
+	Query: "Microtus pennsylvanicus 1990" ; Times: 1
+	Query: "Peromyscus maniculatus 2004" ; Times: 4
+	Query: "Peromyscus maniculatus 2007" ; Times: 4
+	Query: "pine vole" ; Times: 3
+	Query: "Peromyscus maniculatus 2001" ; Times: 4
+	Query: "Peromyscus maniculatus 2000" ; Times: 4
+	Query: "(Lagopus) AND (Buteo)" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1998" ; Times: 4
+	Query: "Peromyscus maniculatus 1996" ; Times: 6
+	Query: "Peromyscus maniculatus 1997" ; Times: 4
+	Query: "Peromyscus maniculatus 1994" ; Times: 2
+	Query: "Peromyscus maniculatus 1995" ; Times: 3
+	Query: "Peromyscus maniculatus 1992" ; Times: 4
+	Query: "Peromyscus maniculatus 1993" ; Times: 1
+	Query: "Peromyscus maniculatus 1990" ; Times: 3
+	Query: "Peromyscus maniculatus 1991" ; Times: 4
+	Query: "lungs canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus 1996" ; Times: 1
+	Query: "genus:Papio" ; Times: 1
+	Query: "Pipistrellus hesperus haslength:1" ; Times: 1
+	Query: "genus:Lemmiscus year &gt;= 2004 year &lt;= 2004" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;pennsylvania&#34; recordedby:green" ; Times: 1
+	Query: "Microtus pennsylvanicus 2004" ; Times: 1
+	Query: "class:Mammalia locality:Descalvados" ; Times: 2
+	Query: "Peromyscus maniculatus 2003" ; Times: 1
+	Query: "Microtus pennsylvanicus 2000" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Microtus pennsylvanicus 2003" ; Times: 1
+	Query: "alcelaphus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2008" ; Times: 1
+	Query: "Microtus pennsylvanicus 2009" ; Times: 1
+	Query: "vntype:specimen genus:Eumetopias family:Otariidae (skull) haslifestage:1 hassex:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2012" ; Times: 4
+	Query: "Peromyscus maniculatus 2010" ; Times: 4
+	Query: "Peromyscus maniculatus 2011" ; Times: 2
+	Query: "Peromyscus maniculatus 2017" ; Times: 1
+	Query: "Panthera" ; Times: 1
+	Query: "specificepithet:lupus genus:canis stateprovince:&#34;Colorado&#34; AND (zoo)" ; Times: 1
+	Query: "Peromyscus maniculatus 2019" ; Times: 2
+	Query: "393632" ; Times: 1
+	Query: "Aotus lemurinus mappable:1" ; Times: 1
+	Query: "Nyctinomops macrotis haslength:1" ; Times: 1
+	Query: "specificepithet:americana genus:Martes hasmass:1 haslength:1" ; Times: 1
+	Query: "TTU 812" ; Times: 3
+	Query: "vntype:specimen (Dasypus novemcinctus) hastissue:1" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis" ; Times: 1
+	Query: "Rangifer" ; Times: 1
+	Query: "family:Sciuridae county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Microtus pennsylvanicus 1989" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "catalognumber:16536 institutioncode:DMNS" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:rufus genus:canis class:Mammalia" ; Times: 3
+	Query: "Myotis californicus haslength:1" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2014" ; Times: 1
+	Query: "Microtus pennsylvanicus 1988" ; Times: 1
+	Query: "Microtus pennsylvanicus 2012" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "Microtus pennsylvanicus 2010" ; Times: 2
+	Query: "Microtus pennsylvanicus 1984" ; Times: 3
+	Query: "Microtus pennsylvanicus 1985" ; Times: 1
+	Query: "Microtus pennsylvanicus 1986" ; Times: 1
+	Query: "Microtus pennsylvanicus 1987" ; Times: 1
+	Query: "Grizzly bear" ; Times: 1
+	Query: "14150" ; Times: 1
+	Query: "Microtus pennsylvanicus 1983" ; Times: 1
+	Query: "Peromyscus maniculatus 1989" ; Times: 4
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon hasmass:1 haslength:1" ; Times: 1
+	Query: "Tadarida brasiliensis haslength:1" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 2
+	Query: "Myotis keenii haslength:1" ; Times: 1
+	Query: "Cervus" ; Times: 1
+	Query: "Peromyscus maniculatus 1972" ; Times: 6
+	Query: "Microtus pennsylvanicus 1972" ; Times: 3
+	Query: "Peromyscus maniculatus 1974" ; Times: 3
+	Query: "specificepithet:taxus genus:Taxidea hasmass:1 haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 1977" ; Times: 1
+	Query: "Microtus pennsylvanicus 1976" ; Times: 1
+	Query: "Peromyscus maniculatus 1978" ; Times: 2
+	Query: "Microtus pennsylvanicus 1978" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:MERRIAMI genus:TAMIAS" ; Times: 1
+	Query: "&#34;Neotoma micropus&#34;" ; Times: 1
+	Query: "(lagopus) AND (&#34;buteo&#34;)" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 2
+	Query: "notiosorex crawfordi" ; Times: 2
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 1999" ; Times: 2
+	Query: "panthera onca" ; Times: 6
+	Query: "Microtus pennsylvanicus 1997" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis" ; Times: 4
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "zapus luteus" ; Times: 1
+	Query: "Microtus pennsylvanicus 1993" ; Times: 1
+	Query: "Microtus pennsylvanicus 1992" ; Times: 1
+	Query: "Microtus pennsylvanicus 1991" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "specificepithet: americana genus:Antilocapra hasmass:1 haslength:1" ; Times: 1
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "Neotoma king county" ; Times: 1
+	Query: "Microtus pennsylvanicus 2005" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "Peromyscus maniculatus 1985" ; Times: 4
+	Query: "specificepithet:curtatus genus:Lemmiscus hastissue:1" ; Times: 2
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "canis rufus" ; Times: 5
+	Query: "eutamias minimus" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 20
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Peromyscus maniculatus 1986" ; Times: 4
+	Query: "Microtus pennsylvanicus 2001" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1073 download events in this period)
+Total number of records downloaded: 601
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 24
+	Country: Rwanda ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-02 ; Times: 4
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-04 ; Times: 3
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Ovibos preparations:Skeleton hassex:1" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:cynomys stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Delphinapterus leucas skull" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34; hastissue:1" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "aotus lemurinus" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+
+
+End of report.
