@@ -1,0 +1,517 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 666
+Number of records retrieved in searches: 6701
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 24
+	Country: United States ; Times: 517
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 15
+	Country: El Salvador ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: Panama ; Times: 4
+	Country: Cuba ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 59
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 8
+	Country: Puerto Rico ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 4
+	Country: Hong Kong ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 23
+	Date: 2020-01-09 ; Times: 7
+	Date: 2020-01-03 ; Times: 7
+	Date: 2020-01-02 ; Times: 10
+	Date: 2020-01-07 ; Times: 9
+	Date: 2020-01-06 ; Times: 12
+	Date: 2020-01-05 ; Times: 4
+	Date: 2020-01-21 ; Times: 23
+	Date: 2020-01-20 ; Times: 7
+	Date: 2020-01-23 ; Times: 11
+	Date: 2020-01-08 ; Times: 7
+	Date: 2020-01-25 ; Times: 16
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-27 ; Times: 24
+	Date: 2020-01-26 ; Times: 8
+	Date: 2020-01-29 ; Times: 51
+	Date: 2020-01-28 ; Times: 107
+	Date: 2020-01-18 ; Times: 5
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-14 ; Times: 32
+	Date: 2020-01-15 ; Times: 7
+	Date: 2020-01-16 ; Times: 17
+	Date: 2020-01-17 ; Times: 20
+	Date: 2020-01-10 ; Times: 6
+	Date: 2020-01-11 ; Times: 11
+	Date: 2020-01-12 ; Times: 14
+	Date: 2020-01-13 ; Times: 37
+	Date: 2020-01-31 ; Times: 93
+	Date: 2020-01-30 ; Times: 90
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Odobenus rosmarus&#34;" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "order:Dermoptera country:&#34;Indonesia&#34; (Dermoptera west java)" ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "snake vntype:specimen hassex:1 haslength:1" ; Times: 1
+	Query: "genus:priodontes" ; Times: 2
+	Query: "9623" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 15
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "sorex hoyi" ; Times: 4
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 5
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen lengthtype:total length haslength:1" ; Times: 1
+	Query: "mammal diet" ; Times: 1
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "recordedby:hunt year &gt;= 1980 year &lt;= 2010" ; Times: 2
+	Query: "genus:Lasiurus hasmass:1 haslength:1" ; Times: 1
+	Query: "west java (DERMOPTERA)" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 2
+	Query: "field musuem" ; Times: 1
+	Query: "Acinonyx jubatus mappable:1" ; Times: 4
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera" ; Times: 1
+	Query: "myotis velifer" ; Times: 2
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "specificepithet:Lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 8
+	Query: "Ailurus fulgens" ; Times: 6
+	Query: "Mazama americana mappable:1" ; Times: 2
+	Query: "valdez order:rodentia" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "sorex palustris" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen haslength:1" ; Times: 2
+	Query: "puma concolor" ; Times: 6
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 3
+	Query: "Blastocerus dichotomus mappable:1" ; Times: 4
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 2
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 12
+	Query: "Canis latrans" ; Times: 4
+	Query: "Myrmecophaga tridactyla mappable:1" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:jubatus genus:Eumetopias stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "callithrix pygmaea" ; Times: 1
+	Query: "TU Mammal" ; Times: 1
+	Query: "Chlorocebus aethiops mappable:1" ; Times: 2
+	Query: "12353" ; Times: 1
+	Query: "Tenrecidae hastissue:1" ; Times: 1
+	Query: "family:Myocastoridae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 5
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America sex:Male hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Oreotragus oreotragus mappable:1" ; Times: 2
+	Query: "microtus mogollonensis in texas" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae hastissue:1" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:male massing &gt;= 500 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "Nyctinomops macrotis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "specificepithet:pardalis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "White tailed deer" ; Times: 1
+	Query: "Lasionycteris noctivagans vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 2
+	Query: "Parastrellus hesperus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Leopardus wiedii mappable:1" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 7
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:Mephitis genus:Mephitis continent:North America sex:Male hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "13731" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "family:Cynocephalidae order:dermoptera country:&#34;indonesia&#34; (west java)" ; Times: 1
+	Query: "Alouatta caraya mappable:1" ; Times: 4
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Alcelaphus buselaphus mappable:1" ; Times: 1
+	Query: "bobcat" ; Times: 2
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "microtus mogollonensis" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America year &gt;= 2015 year &lt;= 2016 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 2
+	Query: "Cuniculus paca mappable:1" ; Times: 3
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 3
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 2
+	Query: "locality:Fuller county:&#34;Riverside&#34;" ; Times: 4
+	Query: "18975" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 2
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Cynocephalidae order:dermoptera country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Eptesicus fuscus haslength:1" ; Times: 1
+	Query: "chaetophractus villosus" ; Times: 1
+	Query: "Aotus lemurinus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America year &gt;= 2017 year &lt;= 2019 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 2
+	Query: "&#34;grizzly bear&#34;" ; Times: 2
+	Query: "&#34;Ailurus fulgens&#34;" ; Times: 5
+	Query: "recordedby:hunt" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hasmass:1" ; Times: 1
+	Query: "family:Cynocephalidae order:Dermoptera country:&#34;Indonesia&#34; (West Java)" ; Times: 1
+	Query: "&#34;erethizon dorsatum&#34;" ; Times: 2
+	Query: "specificepithet:rufus genus:lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "(&#34;canis rufus&#34;)" ; Times: 1
+	Query: "family:Bovidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America year &gt;= 2015 year &lt;= 2019 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "family:bovidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen order:Chiroptera catalognumber:3929" ; Times: 1
+	Query: "(movement)" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male massing &gt;= 750 lengthinmm &gt;= 250 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "callicebus" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Onychomys" ; Times: 2
+	Query: "Sirenia" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "locality:&#34;Black Mountain&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 8
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "county:&#34;ellis&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "otaria byronia" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "canid" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "family:Phyllostomidae" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "8743" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Corynorhinus" ; Times: 1
+	Query: "3868" ; Times: 1
+	Query: "&#34;Tremarctos ornatus &#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Female massing &gt;= 750 lengthinmm &gt;= 250 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon" ; Times: 4
+	Query: "panthera leo" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 28
+	Query: "specificepithet:vison genus:Neovison continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Procyon cancrivorus mappable:1" ; Times: 2
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "&#34;didelphis virginiana&#34;" ; Times: 1
+	Query: "bachman´s" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "Macroscelididae hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "order:Dermoptera stateprovince:&#34;west java&#34; country:&#34;Indonesia&#34; (Dermoptera)" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 11
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen genus:Cryptotis" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "mustela nigripes" ; Times: 8
+	Query: "Galeopterus variegatus" ; Times: 1
+	Query: "mus musculus country:&#34;United States&#34; haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 1
+	Query: "specificepithet:Rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Felidae sp. mappable:1" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 8
+	Query: "ailurus fulgens" ; Times: 4
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male year &gt;= 2006 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "mice" ; Times: 1
+	Query: "genus:Reithrodontomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "genus:Oryzomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen haslength:1" ; Times: 3
+	Query: "family:Procyonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male year &gt;= 2008 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "EAR-2555" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 6
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male year &gt;= 2006 massing &gt;= 750 lengthinmm &gt;= 250 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "west java (dermoptera)" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra hastissue:1" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 4
+	Query: "West Java dermoptera" ; Times: 1
+	Query: "Chrysocyon brachyurus mappable:1" ; Times: 4
+	Query: "specificepithet:fasciatus genus:Perognathus" ; Times: 2
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "otaria" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "specificepithet:musculus genus:mus continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 2
+	Query: "genus:cryptotis hastissue:1" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "locality:Fuller county:&#34;Riverside&#34; year &gt;= 1909" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;Enhydra lutris&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:male hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "family:Cricetidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "order:Dermoptera country:&#34;Indonesia&#34; (Dermoptera)" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 2
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 28
+	Query: "sagebrush" ; Times: 1
+	Query: "genus:ochotona specificepithet:(princeps OR collaris) year&gt;=1916 year&lt;=1920" ; Times: 4
+	Query: "Eptesicus fuscus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 15
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "&#34;canis rufus&#34; texas" ; Times: 2
+	Query: "Noble" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 4
+	Query: "Didelphis virginiana" ; Times: 4
+	Query: "specificepithet:americanus genus:Ursus year &gt;= 0 year &lt;= 1901" ; Times: 1
+	Query: "Tayassu pecari mappable:1" ; Times: 2
+	Query: "&#34;Ursus arctos&#34;" ; Times: 2
+	Query: "vntype:specimen class:Mammalia country:&#34;Panama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "Rangifer tarandus caribou mappable:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Tragelaphus strepsiceros mappable:1" ; Times: 2
+	Query: "Tadarida brasiliensis" ; Times: 7
+	Query: "Xerospermophilus spilosoma" ; Times: 2
+	Query: "Eptesicus fuscus vntype:specimen lengthtype:total length haslength:1" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "specificepithet:Mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "mus musculus country:&#34;United States&#34; hassex:1" ; Times: 2
+	Query: "12356" ; Times: 1
+	Query: "goat" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(&#34;Canis rufus&#34;)" ; Times: 1
+	Query: "Martes americana" ; Times: 3
+	Query: "family:Heteromyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "(&#34;Didelphis virginiana&#34;)" ; Times: 2
+	Query: "Lontra" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 3
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 22
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "family:Otariidae county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "(Dermoptera west java)" ; Times: 3
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "family:Felidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 23
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "(&#34;Dasypus novemcinctus&#34;)" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen lengthtype:total length hasmass:1" ; Times: 2
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 4
+	Query: "Dasypus novemcinctus" ; Times: 7
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "(&#34;Erethizon dorsatum&#34;)" ; Times: 1
+	Query: "Ozotoceros bezoarticus mappable:1" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Gulo gulo" ; Times: 2
+	Query: "Mustela putorius mappable:1" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male year &gt;= 2010 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Leopardus colocolo mappable:1" ; Times: 3
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 3
+	Query: "family:Cynocephalidae order:Dermoptera country:&#34;Indonesia&#34; (Dermoptera)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 150 (out of 1584 download events in this period)
+Total number of records downloaded: 9992
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 126
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 8
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-07 ; Times: 6
+	Date: 2020-01-06 ; Times: 4
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-21 ; Times: 8
+	Date: 2020-01-20 ; Times: 7
+	Date: 2020-01-23 ; Times: 3
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 6
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-28 ; Times: 6
+	Date: 2020-01-16 ; Times: 4
+	Date: 2020-01-17 ; Times: 10
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 6
+	Date: 2020-01-12 ; Times: 15
+	Date: 2020-01-31 ; Times: 21
+	Date: 2020-01-30 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 12
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen hasmass:1" ; Times: 3
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Lasionycteris noctivagans vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "family:Felidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "family:Myocastoridae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "Parastrellus hesperus" ; Times: 1
+	Query: "family:Cervidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Cynocephalidae order:dermoptera country:&#34;indonesia&#34; (west java)" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eptesicus fuscus haslength:1" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "family:Bovidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 2001 year &lt;= 2020" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Myotis lucifugus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1950" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "Myotis occultus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "genus:Reithrodontomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "Sarcophilus harrisii" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Mammalia" ; Times: 1
+	Query: "genus:Oryzomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "Eptesicus fuscus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Tenrecidae hastissue:1" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "family:Procyonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "family:Mormoopidae stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
