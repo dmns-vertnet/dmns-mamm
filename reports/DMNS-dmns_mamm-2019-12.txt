@@ -1,0 +1,232 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 201
+Number of records retrieved in searches: 3549
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Turkey ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 3
+	Country: Tanzania ; Times: 1
+	Country: France ; Times: 11
+	Country: United States ; Times: 154
+	Country: Germany ; Times: 4
+	Country: Paraguay ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-27 ; Times: 8
+	Date: 2019-12-26 ; Times: 2
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 6
+	Date: 2019-12-23 ; Times: 9
+	Date: 2019-12-22 ; Times: 2
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 5
+	Date: 2019-12-18 ; Times: 11
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 18
+	Date: 2019-12-11 ; Times: 9
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-13 ; Times: 11
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-15 ; Times: 4
+	Date: 2019-12-17 ; Times: 7
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-31 ; Times: 8
+	Date: 2019-12-09 ; Times: 18
+	Date: 2019-12-08 ; Times: 8
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-06 ; Times: 6
+	Date: 2019-12-05 ; Times: 11
+	Date: 2019-12-04 ; Times: 30
+	Date: 2019-12-03 ; Times: 10
+	Date: 2019-12-02 ; Times: 7
+	Date: 2019-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Bob Jones" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus hastissue:1" ; Times: 9
+	Query: "Spilogale putorius stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "myotis volans" ; Times: 1
+	Query: "okapia" ; Times: 1
+	Query: "lori" ; Times: 1
+	Query: "242650" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "Sus scrofa domesticus" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "spilogale putorius" ; Times: 2
+	Query: "Leptailurus serval" ; Times: 2
+	Query: "18569" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "genus:ailurus country:&#34;United States&#34;" ; Times: 4
+	Query: "Panthera onca" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "genus:canis family:canidae order:carnivora continent:&#34;North America&#34;" ; Times: 1
+	Query: "specificepithet:putorius genus:SPilogale" ; Times: 3
+	Query: "dipodomys microps" ; Times: 1
+	Query: "TTU Myotis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Owl skull" ; Times: 3
+	Query: "(Antarctica)" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "perognathus parvus" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "nematode" ; Times: 1
+	Query: "2013-1064" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; (Peromyscus maniculatus) hastissue:1" ; Times: 1
+	Query: "antidorcas" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 7
+	Query: "L.R. Wolfe" ; Times: 8
+	Query: "puma" ; Times: 1
+	Query: "catalognumber:12459 institutioncode:DMNS" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Idaho&#34; hastissue:1" ; Times: 1
+	Query: "Antarctica" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "genus:ailurus" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "genus:canis continent:&#34;North America&#34;" ; Times: 1
+	Query: "deer mice" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis institutioncode:DMNS hastissue:1" ; Times: 1
+	Query: "Hyaena hyaena" ; Times: 2
+	Query: "whitetail" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus year &lt;= 2018 month &lt;= 12 enddayofyear &lt;= 8" ; Times: 1
+	Query: "Redunca+redunca" ; Times: 1
+	Query: "genus:EUMETOPIAS stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Feline" ; Times: 1
+	Query: "SERVAL" ; Times: 3
+	Query: "17045" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "13208" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "genus:Hyaena" ; Times: 2
+	Query: "genus:canis family:canidae continent:&#34;North America&#34;" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1400 year &lt;= 1910" ; Times: 3
+	Query: "241491" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "recordedby:Leonard Scott" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "genus:Bassariscus" ; Times: 2
+	Query: "vntype:specimen genus:Hyaena" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus year &lt;= 2018" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "TTU Myotis 2012" ; Times: 1
+	Query: "franklinii franklinii" ; Times: 1
+	Query: "panthera uncia" ; Times: 3
+	Query: "anm" ; Times: 2
+	Query: "genus:ochotona specificepithet:(princeps OR collaris) year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "14153" ; Times: 1
+	Query: "Lima lima mappable:1" ; Times: 9
+	Query: "specificepithet:ornatus stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "hyoid" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;El paso&#34; hastissue:1" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "liver spleen kidney muscle heart lung" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 8
+	Query: "(Peromyscus ) hastissue:1" ; Times: 3
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "14865" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 2
+	Query: "cmnh" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 1
+	Query: "genus:Neotoma year &gt;= 2018" ; Times: 1
+	Query: "vntype:specimen genus:Canis family:Canidae continent:&#34;North America&#34;" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 2
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "spleen" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 1
+	Query: "vntype:specimen genus:Hyaena hastissue:1" ; Times: 1
+	Query: "canis rufus" ; Times: 11
+	Query: "ovary mammalia" ; Times: 1
+	Query: "Bacteria" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 596 download events in this period)
+Total number of records downloaded: 530
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Paraguay ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-04 ; Times: 7
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-02 ; Times: 5
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-13 ; Times: 4
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Condylura" ; Times: 2
+	Query: "marmota monax" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
