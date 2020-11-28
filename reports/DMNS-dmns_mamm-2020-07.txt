@@ -1,0 +1,329 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 279
+Number of records retrieved in searches: 7231
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 12
+	Country: Peru ; Times: 4
+	Country: Unknown ; Times: 11
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Argentina ; Times: 9
+	Country: Ecuador ; Times: 17
+	Country: Bangladesh ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 174
+	Country: South Korea ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 9
+	Country: Japan ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 11
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 20
+	Date: 2020-07-20 ; Times: 6
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 14
+	Date: 2020-07-22 ; Times: 7
+	Date: 2020-07-01 ; Times: 12
+	Date: 2020-07-03 ; Times: 24
+	Date: 2020-07-02 ; Times: 11
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-04 ; Times: 14
+	Date: 2020-07-07 ; Times: 12
+	Date: 2020-07-06 ; Times: 15
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-23 ; Times: 7
+	Date: 2020-07-29 ; Times: 10
+	Date: 2020-07-18 ; Times: 9
+	Date: 2020-07-28 ; Times: 21
+	Date: 2020-07-13 ; Times: 9
+	Date: 2020-07-10 ; Times: 7
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 8
+	Date: 2020-07-31 ; Times: 5
+	Date: 2020-07-14 ; Times: 14
+	Date: 2020-07-17 ; Times: 16
+	Date: 2020-07-15 ; Times: 5
+	Date: 2020-07-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "order:Rodentia class:Mammalia county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 4
+	Query: "11825" ; Times: 1
+	Query: "DMNS 13951" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "scientificname:Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "dentition" ; Times: 1
+	Query: "10347" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "Conepatus" ; Times: 1
+	Query: "RIBS" ; Times: 2
+	Query: "okapia" ; Times: 1
+	Query: "Lycalopex griseus" ; Times: 1
+	Query: "specificepithet:barbatus genus:Erignathus" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "Artemisia" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "county:&#34;newton&#34;" ; Times: 1
+	Query: "lobo" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 4
+	Query: "Panthera onca" ; Times: 2
+	Query: "Spilogale" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;3120076" ; Times: 1
+	Query: "nasutus" ; Times: 1
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "catalognumber:2623* institutioncode:DMNS" ; Times: 1
+	Query: "leopardus geoffroyi" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 3
+	Query: "apodemus" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "rodent" ; Times: 1
+	Query: "genus:sus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 2
+	Query: "panthera onca" ; Times: 5
+	Query: "grizzly" ; Times: 5
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "spilogale" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 2
+	Query: "vntype:specimen genus:Mephitis hastissue:1" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "bison" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-102.01171874999999))&lt;4077596" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus hastissue:1" ; Times: 4
+	Query: "Rex" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "order:Rodentia county:&#34;Franklin&#34; OR &#34;Clinton&#34; OR &#34;Hamilton&#34; OR &#34;St. Lawrence&#34; OR &#34;Warren&#34; OR &#34;Essex&#34; or stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 3
+	Query: "Spilogale putorius interrupta" ; Times: 1
+	Query: "Microtus richardsoni year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-88.65234375))&lt;3923916" ; Times: 1
+	Query: "genus:Conepatus institutioncode:DMNS" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "puma" ; Times: 2
+	Query: "DMNS 13657" ; Times: 4
+	Query: "13364" ; Times: 1
+	Query: "sPILOGALE" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "locality:Teton County" ; Times: 2
+	Query: "fossil" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;5789419" ; Times: 1
+	Query: "bat continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "102990" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 3
+	Query: "monster" ; Times: 3
+	Query: "215126" ; Times: 2
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "Sylvilagus aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:okapia class:mammalia" ; Times: 1
+	Query: "order:rodentia county:&#34;clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon hastissue:1" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Pseudois nayaur" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon (zoo OR captive)" ; Times: 1
+	Query: "genus:Neovison hastissue:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "locality:Sangre de Cristo Mountains hastissue:1" ; Times: 1
+	Query: "aplodontia" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "10650" ; Times: 1
+	Query: "genus:Zapus county:&#34;Conejos&#34; stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus continent:North America hastissue:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "mammalia ovary" ; Times: 1
+	Query: "MSB 233593" ; Times: 1
+	Query: "2201" ; Times: 1
+	Query: "Lasionycteris" ; Times: 1
+	Query: "geomys bursarius" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus country:&#34;United States&#34; hasmass:1 hastissue:1" ; Times: 1
+	Query: "Zapus luteus" ; Times: 2
+	Query: "genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "Mephitis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 8
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "genus:Setifer hastissue:1" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "pricei" ; Times: 1
+	Query: "nasua nasua" ; Times: 3
+	Query: "Tamias merriami" ; Times: 3
+	Query: "neotoma floridana" ; Times: 2
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "genus:Puma" ; Times: 3
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "Canis rufus" ; Times: 3
+	Query: "fluid vntype:specimen order:Chiroptera" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "alces" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "genus:Mephitis hastissue:1" ; Times: 1
+	Query: "genus:Zapus county:&#34;Archuleta&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Leopardus colocolo hasmass:0" ; Times: 1
+	Query: "genus:Glaucomys" ; Times: 3
+	Query: "family:Cricetidae" ; Times: 6
+	Query: "12348" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "neovison" ; Times: 1
+	Query: "order:Rodentia county:&#34;Franklin&#34; OR &#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "ammospermophilus harrisii" ; Times: 1
+	Query: "hastypestatus:1 Mustela" ; Times: 2
+	Query: "Hemitragus jemlahicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "230624" ; Times: 1
+	Query: "lontra canadensis pacifica" ; Times: 2
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 3
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;4977167" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "goat" ; Times: 1
+	Query: "Naemorhedus goral" ; Times: 2
+	Query: "vntype:specimen specificepithet:musculus genus:mus basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "OR.5252" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:denver stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Leopardus colocolo haslength:1" ; Times: 1
+	Query: "scientificname:Panthera onca " ; Times: 2
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "pongo abelii" ; Times: 4
+	Query: "7333" ; Times: 2
+	Query: "spleen" ; Times: 1
+	Query: "canis latrans" ; Times: 2
+	Query: "11163" ; Times: 1
+	Query: "catalognumber:15613 institutioncode:DMNS" ; Times: 2
+	Query: "leopardus colocolo" ; Times: 4
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 940 download events in this period)
+Total number of records downloaded: 8480
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 25
+	Country: Colombia ; Times: 5
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 4
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-28 ; Times: 5
+	Date: 2020-07-16 ; Times: 6
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-14 ; Times: 4
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "order:Rodentia class:Mammalia county:&#34;Clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "order:Rodentia county:&#34;Franklin&#34; OR &#34;Clinton&#34; OR &#34;Hamilton&#34; OR &#34;St. Lawrence&#34; OR &#34;Warren&#34; OR &#34;Essex&#34; or stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Hemitragus jemlahicus" ; Times: 2
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "Lycalopex griseus" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Naemorhedus goral" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "order:rodentia county:&#34;clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "cetacea" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Phyllostomidae vntype:specimen year &gt;= 1950 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Pseudois nayaur" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "fluid vntype:specimen order:Chiroptera" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "family:Dasyuridae (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+
+
+End of report.
