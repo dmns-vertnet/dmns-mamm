@@ -1,0 +1,192 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 1941
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 10
+	Country: United States ; Times: 138
+	Country: United Kingdom ; Times: 17
+	Country: Colombia ; Times: 4
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-08 ; Times: 25
+	Date: 2020-06-09 ; Times: 6
+	Date: 2020-06-06 ; Times: 7
+	Date: 2020-06-07 ; Times: 7
+	Date: 2020-06-04 ; Times: 35
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-02 ; Times: 18
+	Date: 2020-06-03 ; Times: 6
+	Date: 2020-06-01 ; Times: 8
+	Date: 2020-06-28 ; Times: 1
+	Date: 2020-06-27 ; Times: 1
+	Date: 2020-06-14 ; Times: 2
+	Date: 2020-06-10 ; Times: 23
+	Date: 2020-06-11 ; Times: 25
+	Date: 2020-06-12 ; Times: 5
+	Date: 2020-06-17 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Bassariscus astutus flavus county:&#34;parker&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Lasiurus borealis (skin OR fur) AND (NOT Mexico) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "mustela" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Canis latrans" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus" ; Times: 4
+	Query: "Nasua nasua" ; Times: 3
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "lontra" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Corynorhinus townsendii pallescens" ; Times: 2
+	Query: "lion" ; Times: 3
+	Query: "bobcat" ; Times: 2
+	Query: "canadensis Texas" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:mogollonensis genus:microtus county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "catalognumber:452 institutioncode:DMNS" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Cynomys gunnisoni" ; Times: 2
+	Query: "Sirenia" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "locality:kentucky" ; Times: 3
+	Query: "Panthera uncia" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 7
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 2
+	Query: "Neotoma stephensi" ; Times: 2
+	Query: "Redunca redunca" ; Times: 1
+	Query: "Eptesicus fuscus (skin)" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis (skin OR fur) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Pongo abelii" ; Times: 1
+	Query: "catalognumber:11518 institutioncode:DMNS" ; Times: 2
+	Query: "Bos taurus" ; Times: 6
+	Query: "prairie dog" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 17
+	Query: "ailurus fulgens" ; Times: 10
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "neovison vison" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "catalognumber:11517 institutioncode:DMNS" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:colorado OR kansas" ; Times: 1
+	Query: "(10058)" ; Times: 1
+	Query: "lagomorph" ; Times: 1
+	Query: "catalognumber:11383 institutioncode:DMNS" ; Times: 4
+	Query: "Lasiurus borealis (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "beetles" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "vntype:specimen class:Mammalia hastypestatus:1" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 2
+	Query: "Lasiurus borealis (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:colorado OR kansas year&gt;=1900" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "(erminea)" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "catalognumber:11178 institutioncode:DMNS" ; Times: 1
+	Query: "Aotus lemurinus" ; Times: 2
+	Query: "myotis leibii" ; Times: 2
+	Query: "(neovison vison)" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "Reithrodontomys montanus" ; Times: 2
+	Query: "genus:Monachus" ; Times: 1
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 474 download events in this period)
+Total number of records downloaded: 992
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Brazil ; Times: 4
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-04 ; Times: 12
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 4
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
