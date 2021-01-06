@@ -1,0 +1,306 @@
+Report for Institution Code DMNS, Resource dmns_mamm
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 294
+Number of records retrieved in searches: 4588
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 27
+	Country: Netherlands ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 147
+	Country: Pakistan ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 39
+	Country: Mozambique ; Times: 5
+	Country: Colombia ; Times: 10
+	Country: Kenya ; Times: 3
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 10
+	Date: 2020-12-31 ; Times: 7
+	Date: 2020-12-09 ; Times: 22
+	Date: 2020-12-08 ; Times: 6
+	Date: 2020-12-07 ; Times: 7
+	Date: 2020-12-06 ; Times: 15
+	Date: 2020-12-05 ; Times: 6
+	Date: 2020-12-04 ; Times: 32
+	Date: 2020-12-03 ; Times: 28
+	Date: 2020-12-02 ; Times: 36
+	Date: 2020-12-01 ; Times: 14
+	Date: 2020-12-25 ; Times: 4
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-20 ; Times: 9
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 6
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-28 ; Times: 4
+	Date: 2020-12-18 ; Times: 6
+	Date: 2020-12-19 ; Times: 4
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-11 ; Times: 13
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-13 ; Times: 6
+	Date: 2020-12-14 ; Times: 29
+	Date: 2020-12-15 ; Times: 9
+	Date: 2020-12-16 ; Times: 6
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "18646" ; Times: 1
+	Query: "(sciurus niger)" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "vntype:specimen class:mammalia preparations:skull -msb massing &gt;= 40 hasmass:1 hasmedia:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "11258" ; Times: 1
+	Query: "specificepithet:guanicoe genus:Lama" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "Cervus" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Cervinae" ; Times: 1
+	Query: "Oreotragus" ; Times: 1
+	Query: "3790" ; Times: 1
+	Query: "Crocidura russula" ; Times: 1
+	Query: "papio papio" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "microtus ochrogaster vntype:specimen hasmedia:1" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Mus musculus Linnaeus" ; Times: 1
+	Query: "Myotis myotis" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "1311" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "149502" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "R-8313" ; Times: 1
+	Query: "connochaetes taurinus" ; Times: 1
+	Query: "Cervus nippon" ; Times: 2
+	Query: "lontra canadensis" ; Times: 2
+	Query: "panthera onca" ; Times: 10
+	Query: "Nasua nasua" ; Times: 1
+	Query: "spilogale" ; Times: 3
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "panthera leo leo" ; Times: 3
+	Query: "vntype:specimen class:mammalia preparations:skull massing &gt;= 40 hasmass:1 hasmedia:1" ; Times: 1
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Tamandua" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "6988" ; Times: 1
+	Query: "mappable:1 scientificname:Panthera pardus" ; Times: 1
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "Panthera pardus pardus" ; Times: 1
+	Query: "elephantidae" ; Times: 3
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "monster" ; Times: 5
+	Query: "Felis silvestris" ; Times: 1
+	Query: "genus:Cervus family:Cervidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "vntype:specimen family:soricidae (skull) hasmedia:1" ; Times: 2
+	Query: "17310" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "pseudois" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 7
+	Query: "lontra Canadensis" ; Times: 4
+	Query: "genus:urocyon country:&#34;United states&#34;" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;mexico&#34;" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "white tail deer" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "class:mammalia hasmass:1 hasmedia:1 -chiroptera" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus haslength:1" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "dasyprocta" ; Times: 2
+	Query: "year &gt;= 2019 year &lt;= 2020" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "specificepithet:ursinus genus:Callorhinus" ; Times: 1
+	Query: "mappable:1 scientificname:Lycaon pictus" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 4
+	Query: "class:mammalia hasmass:1 hasmedia:1 -chiroptera -rodentia" ; Times: 1
+	Query: "white tailed deer" ; Times: 12
+	Query: "Sand Cat" ; Times: 2
+	Query: "Maxon" ; Times: 2
+	Query: "mappable:1 scientificname:Panthera leo" ; Times: 1
+	Query: "Apodemus sylvaticus" ; Times: 1
+	Query: "monkey" ; Times: 4
+	Query: "2885" ; Times: 1
+	Query: "hasmedia:1 AND Microtus ochrogaster" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "class:Mammalia county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus haslength:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus hasmass:1" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Bos taurus" ; Times: 2
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "cervus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "hasmass:1 capra" ; Times: 2
+	Query: "white tail deer hassex:1 hasmass:1" ; Times: 1
+	Query: "6881" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus preparations:skull" ; Times: 1
+	Query: "Antrozous pallidus" ; Times: 1
+	Query: "alces" ; Times: 2
+	Query: "Pipistrellus pipistrellus" ; Times: 1
+	Query: "Myotis velifer" ; Times: 5
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "family:soricidae hasmedia:1" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 2
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "didelphidae hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:guanicoe genus:Lama preparations:skeleton" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus haslength:1" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "cervus nippon" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslength:1" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:DMNS" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "scientificname:Chrysocyon brachyurus" ; Times: 1
+	Query: "mappable:1 scientificname:Giraffa camelopardalis" ; Times: 1
+	Query: "roy creek" ; Times: 1
+	Query: "sciurus niger niger" ; Times: 3
+	Query: "genus:Ochotona" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Jake" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 1
+	Query: "mammals data" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 28
+	Query: "hydromys" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "fox squirrel" ; Times: 4
+	Query: "&#34;Canis rufus&#34;" ; Times: 2
+	Query: "specificepithet:arctos genus:ursus hasmass:1" ; Times: 1
+	Query: "class:mammalia hasmass:1 hasmedia:1" ; Times: 1
+	Query: "(Jake)" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "cmnh" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "12880" ; Times: 1
+	Query: "MSB 936" ; Times: 1
+	Query: "yellowstone" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "mappable:1 scientificname:Loxodonta africana" ; Times: 1
+	Query: "recordedby:pemberton" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 5
+	Query: "Phacochoerus" ; Times: 3
+	Query: "11296" ; Times: 2
+	Query: "canis latrans" ; Times: 2
+	Query: "Black Bear" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 705 download events in this period)
+Total number of records downloaded: 14591
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Turkey ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-02 ; Times: 8
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-03 ; Times: 10
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maritimus genus:Ursus haslength:1" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 4
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "specificepithet:onca genus:panthera country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Mammalia locality:Great Basin" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:DMNS" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus haslength:1" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
